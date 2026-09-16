@@ -1,0 +1,541 @@
+,Tournament Name,Tournament Date,Tournament Country,Discipline,Number of Sets Played,Retired,Match Duration (min),Team One Nationalities,Team Two Nationalities,Player 1 Team 1 Name,Player 2 Team 1 Name,Team 1 Seed,Player 1 Team 2 Name,Player 2 Team 2 Name,Team 2 Seed,Points Set 1 Team 1,Points Set 1 Team 2,Points Set 2 Team 1,Points Set 2 Team 2,Points Set 3 Team 1,Points Set 3 Team 2,Total Points Team 1,Total Points Team 2,Sets Won Team 1,Sets Won Team 2,Total Game Points Team 1,Total Game Points Team 2,Most Consecutive Points Team 1,Most Consecutive Points Team 2,Team 1 Head to Head Analysis,Team 2 Head to Head Analysis,Match Winner
+0,Yonex_All_England_Open,2018-03-16,England,WD,6,0,80,Japan,China,Shiho Tanaka,Koharu Yonemoto,5,Chen Qing Chen,Jia Yi Fan,1,14,21,21,17,21,15,56,53,2,1,3,1,7,6,4,2,1
+1,Yonex_All_England_Open,2018-03-15,England,WD,4,0,39,Japan,Indonesia,Misaki Matsutomo,Ayaka Takahashi,2,Della Destiara Haris,Rizki Amelia Pradipta,0,21,12,21,14,0,0,42,26,2,0,3,0,7,5,6,0,1
+2,Blibli_Indonesia_Open,2018-07-05,Indonesia,WD,4,0,33,Korea,Indonesia,Lee So Hee,Shin Seung Chan,6,Dian Fitriani,Nadya Melati,0,21,12,21,10,0,0,42,22,2,0,3,0,6,4,1,1,1
+3,Yonex_All_England_Open,2018-03-17,England,WD,4,0,42,Denmark,Japan,Kamilla Rytter Juhl,Christinna Pedersen,3,Mayu Matsumoto,Wakana Nagahara,0,21,15,22,20,0,0,43,35,2,0,5,0,5,4,1,1,1
+4,Blibli_Indonesia_Open,2018-07-06,Indonesia,WD,4,0,50,Japan,Indonesia,Yuki Fukushima,Sayaka Hirota,2,Greysia Polii,Apriyani Rahayu,7,21,14,22,20,0,0,43,34,2,0,4,3,5,3,8,4,1
+5,Yonex_All_England_Open,2018-03-14,England,WD,4,0,48,Bulgaria,Indonesia,Gabriela Stoeva,Stefani Stoeva,0,Greysia Polii,Apriyani Rahayu,6,21,11,21,19,0,0,42,30,2,0,2,0,5,6,1,4,1
+6,Yonex_All_England_Open,2018-03-18,England,WD,4,0,60,Denmark,Japan,Kamilla Rytter Juhl,Christinna Pedersen,3,Yuki Fukushima,Sayaka Hirota,4,21,19,21,18,0,0,42,37,2,0,2,0,4,3,2,2,1
+7,Blibli_Indonesia_Open,2018-07-08,Indonesia,WD,6,0,56,Japan,Japan,Yuki Fukushima,Sayaka Hirota,2,Mayu Matsumoto,Wakana Nagahara,0,21,14,16,21,21,14,58,49,2,1,2,4,3,8,7,8,1
+8,Blibli_Indonesia_Open,2018-07-07,Indonesia,WD,4,0,39,Japan,China,Mayu Matsumoto,Wakana Nagahara,0,Chen Qing Chen,Jia Yi Fan,1,21,13,21,18,0,0,42,31,2,0,3,0,7,5,2,12,1
+9,Yonex_All_England_Open,2018-03-17,England,WD,6,0,71,Japan,Japan,Yuki Fukushima,Sayaka Hirota,4,Shiho Tanaka,Koharu Yonemoto,5,16,21,21,10,21,12,58,43,2,1,3,1,5,6,6,2,1
+10,Yonex_All_England_Open,2018-03-14,England,WD,4,0,37,Japan,India,Misaki Matsutomo,Ayaka Takahashi,2,Ashwini Ponnappa,Reddy Sikki,0,21,14,21,13,0,0,42,27,2,0,2,0,5,4,8,0,1
+11,Blibli_Indonesia_Open,2018-07-07,Indonesia,WD,6,0,69,Japan,Japan,Yuki Fukushima,Sayaka Hirota,2,Misaki Matsutomo,Ayaka Takahashi,5,25,23,12,21,21,13,58,57,2,1,3,4,5,10,7,4,1
+12,Yonex_All_England_Open,2018-03-16,England,WD,4,0,45,Denmark,Korea,Kamilla Rytter Juhl,Christinna Pedersen,3,Lee So Hee,Shin Seung Chan,7,21,15,21,14,0,0,42,29,2,0,3,0,3,3,2,0,1
+13,Victor_China_Open,2018-09-19,China,WD,4,0,32,China,Japan,Tang Jin Hua,Yu Xiao Han,0,Naoko Fukuman,Kurumi Yonao,0,21,11,21,10,0,0,42,21,2,0,2,0,7,4,1,0,1
+14,Blibli_Indonesia_Open,2018-07-06,Indonesia,WD,6,0,77,Japan,China,Misaki Matsutomo,Ayaka Takahashi,5,Huang Dong Ping,Li Wen Mei,0,13,21,21,12,21,19,55,52,2,1,2,2,5,4,2,0,1
+15,Blibli_Indonesia_Open,2018-07-05,Indonesia,WD,4,0,44,Japan,Malaysia,Yuki Fukushima,Sayaka Hirota,2,Vivian Hoo,Yap Cheng Wen,0,21,19,23,21,0,0,44,40,2,0,5,0,5,3,2,0,1
+16,Yonex_All_England_Open,2018-03-15,England,WD,6,0,86,Denmark,China,Kamilla Rytter Juhl,Christinna Pedersen,3,Du Yue,Li Yin Hui,0,24,22,22,24,21,16,67,62,2,1,3,6,4,4,1,0,1
+17,Blibli_Indonesia_Open,2018-07-03,Indonesia,WD,4,0,35,Malaysia,Indonesia,Vivian Hoo,Yap Cheng Wen,0,Yulfira Barkah,Nitya Krishinda Maheswari,0,21,18,21,19,0,0,42,37,2,0,5,0,5,4,1,0,1
+18,Blibli_Indonesia_Open,2018-07-06,Indonesia,WD,4,0,36,Japan,Chinesetaipei,Mayu Matsumoto,Wakana Nagahara,0,Hsu Ya Ching,Wu Ti Jung,0,21,17,21,19,0,0,42,36,2,0,6,0,6,4,3,0,1
+19,Yonex_All_England_Open,2018-03-16,England,WD,4,0,48,Japan,Thailand,Yuki Fukushima,Sayaka Hirota,4,Jongkolphan Kititharakul,Rawinda Prajongjai,8,21,16,21,18,0,0,42,34,2,0,2,0,4,4,8,3,1
+20,Blibli_Indonesia_Open,2018-07-04,Indonesia,WD,4,0,39,Malaysia,Indonesia,Chow Mei Kuan,Lee Meng Yean,0,Keshya Nurvita Hanadia,Devi Tika Permatasari,0,25,23,21,13,0,0,46,36,2,0,5,1,4,5,1,1,1
+21,Blibli_Indonesia_Open,2018-07-06,Indonesia,WD,4,0,35,China,Korea,Chen Qing Chen,Jia Yi Fan,1,Lee So Hee,Shin Seung Chan,6,21,14,21,14,0,0,42,28,2,0,7,0,5,5,5,1,1
+22,Yonex_All_England_Open,2018-03-16,England,WD,4,0,50,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,0,Misaki Matsutomo,Ayaka Takahashi,2,21,17,25,23,0,0,46,40,2,0,5,3,5,4,4,4,1
+23,Blibli_Indonesia_Open,2018-07-04,Indonesia,WD,6,0,62,China,Korea,Chen Qing Chen,Jia Yi Fan,1,Chang Ye Na,Jung Kyung Eun,0,13,21,21,17,21,17,55,55,2,1,2,2,6,4,6,0,1
+24,Victor_China_Open,2018-09-20,China,WD,4,0,31,Japan,China,Yuki Fukushima,Sayaka Hirota,1,Dong Wen Jing,Feng Xue Ying,0,21,7,21,12,0,0,42,19,2,0,4,0,7,2,3,0,1
+25,Yonex_All_England_Open,2018-03-15,England,WD,4,0,41,Japan,Indonesia,Shiho Tanaka,Koharu Yonemoto,5,Anggia Shitta Awanda,Ni Ketut Mahadewi Istarani,0,21,18,21,15,0,0,42,33,2,0,5,0,7,4,1,1,1
+26,Victor_China_Open,2018-09-22,China,WD,4,0,33,Japan,Bulgaria,Mayu Matsumoto,Wakana Nagahara,8,Gabriela Stoeva,Stefani Stoeva,0,21,16,21,12,0,0,42,28,2,0,4,0,4,2,8,0,1
+27,Yonex_All_England_Open,2018-03-15,England,WD,4,0,36,Japan,Korea,Yuki Fukushima,Sayaka Hirota,4,Kim So Yeong,Kong Hee Yong,0,21,13,21,13,0,0,42,26,2,0,3,0,7,5,5,2,1
+28,Blibli_Indonesia_Open,2018-07-04,Indonesia,WD,6,0,52,Korea,Bulgaria,Lee So Hee,Shin Seung Chan,6,Gabriela Stoeva,Stefani Stoeva,0,21,15,10,21,22,20,53,56,2,1,6,1,4,5,8,2,1
+29,Victor_China_Open,2018-09-20,China,WD,4,0,46,Denmark,China,Maiken Fruergaard,Sara Thygesen,0,Du Yue,Li Yin Hui,0,21,18,21,19,0,0,42,37,2,0,4,0,4,3,1,3,1
+30,Blibli_Indonesia_Open,2018-07-03,Indonesia,WD,4,0,40,Japan,Indonesia,Yuki Fukushima,Sayaka Hirota,2,Della Destiara Haris,Rizki Amelia Pradipta,0,21,16,21,18,0,0,42,34,2,0,8,0,5,5,4,0,1
+31,Victor_China_Open,2018-09-20,China,WD,6,0,68,Japan,China,Shiho Tanaka,Koharu Yonemoto,5,Cao Tong Wei,Zheng Yu,0,22,20,15,21,21,14,58,55,2,1,5,2,9,5,2,0,1
+32,Victor_China_Open,2018-09-22,China,WD,6,0,77,Japan,Indonesia,Misaki Matsutomo,Ayaka Takahashi,2,Greysia Polii,Apriyani Rahayu,4,21,17,12,21,21,16,54,54,2,1,2,1,6,6,10,2,1
+33,Victor_China_Open,2018-09-19,China,WD,4,0,22,China,Usa,Chen Qing Chen,Jia Yi Fan,3,Emily Kan,Isabel Zhong,0,21,11,21,13,0,0,42,24,2,0,2,0,7,3,1,0,1
+34,Victor_China_Open,2018-09-20,China,WD,4,0,51,Indonesia,Korea,Greysia Polii,Apriyani Rahayu,4,Chang Ye Na,Jung Kyung Eun,0,24,22,21,18,0,0,45,40,2,0,5,0,4,4,2,0,1
+35,Victor_China_Open,2018-09-21,China,WD,4,0,44,Indonesia,Japan,Greysia Polii,Apriyani Rahayu,4,Shiho Tanaka,Koharu Yonemoto,5,21,19,21,16,0,0,42,35,2,0,3,0,6,5,3,1,1
+36,Yonex_All_England_Open,2018-03-15,England,WD,4,0,43,China,Denmark,Chen Qing Chen,Jia Yi Fan,1,Maiken Fruergaard,Sara Thygesen,0,26,24,21,11,0,0,47,35,2,0,4,4,5,4,9,0,1
+37,Blibli_Indonesia_Open,2018-07-04,Indonesia,WD,6,0,41,Chinesetaipei,Denmark,Hsu Ya Ching,Wu Ti Jung,0,Kamilla Rytter Juhl,Christinna Pedersen,3,17,21,21,5,21,9,59,35,2,1,2,3,8,4,1,2,1
+38,Victor_China_Open,2018-09-19,China,WD,4,0,26,Bulgaria,Thailand,Gabriela Stoeva,Stefani Stoeva,0,Thanapim Kaweenuntavong,Peeraya Khantaruangsakul,0,21,15,21,7,0,0,42,22,2,0,3,0,8,4,1,0,1
+39,Blibli_Indonesia_Open,2018-07-04,Indonesia,WD,6,0,68,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,0,Naoko Fukuman,Kurumi Yonao,0,26,24,19,21,25,23,70,68,2,1,5,10,4,4,1,0,1
+40,Victor_China_Open,2018-09-23,China,WD,4,0,34,Japan,Japan,Misaki Matsutomo,Ayaka Takahashi,2,Mayu Matsumoto,Wakana Nagahara,8,21,16,21,12,0,0,42,28,2,0,4,0,5,3,4,4,1
+41,Blibli_Indonesia_Open,2018-07-05,Indonesia,WD,6,0,56,Japan,Indonesia,Misaki Matsutomo,Ayaka Takahashi,5,Agatha Imanuela,Siti Fadia Silva Ramadhanti,0,17,21,21,12,21,11,59,44,2,1,6,2,10,5,2,0,1
+42,Victor_China_Open,2018-09-18,China,WD,4,0,21,Japan,Russia,Misaki Matsutomo,Ayaka Takahashi,2,Ekaterina Malkova,Alina Davletova,0,21,9,21,9,0,0,42,18,2,0,3,0,7,3,3,0,1
+43,Blibli_Indonesia_Open,2018-07-03,Indonesia,WD,4,0,39,Indonesia,Denmark,Greysia Polii,Apriyani Rahayu,7,Maiken Fruergaard,Sara Thygesen,0,21,14,21,13,0,0,42,27,2,0,3,0,4,3,9,0,1
+44,Victor_China_Open,2018-09-21,China,WD,6,0,63,Japan,Denmark,Misaki Matsutomo,Ayaka Takahashi,2,Maiken Fruergaard,Sara Thygesen,0,16,21,21,14,21,15,58,50,2,1,5,4,6,4,1,1,1
+45,Victor_China_Open,2018-09-19,China,WD,4,0,34,China,Germany,Dong Wen Jing,Feng Xue Ying,0,Linda Efler,Isabel Lohau,0,21,15,21,16,0,0,42,31,2,0,3,0,4,3,2,0,1
+46,Yonex_All_England_Open,2018-03-14,England,WD,6,0,67,Denmark,Australia,Kamilla Rytter Juhl,Christinna Pedersen,3,Setyana Mapasa,Gronya Somerville,0,21,18,18,21,21,18,60,57,2,1,5,3,4,4,2,1,1
+47,Blibli_Indonesia_Open,2018-07-05,Indonesia,WD,4,0,43,China,Japan,Huang Dong Ping,Li Wen Mei,0,Shiho Tanaka,Koharu Yonemoto,4,21,16,21,18,0,0,42,34,2,0,4,0,4,4,2,0,1
+48,Victor_China_Open,2018-09-18,China,WD,4,0,27,China,England,Du Yue,Li Yin Hui,0,Chloe Birch,Lauren Smith,0,21,7,21,14,0,0,42,21,2,0,4,0,8,2,2,0,1
+49,Victor_China_Open,2018-09-21,China,WD,6,0,59,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,8,Yuki Fukushima,Sayaka Hirota,1,20,22,21,16,21,15,62,53,2,1,9,1,5,7,8,7,1
+50,Victor_China_Open,2018-09-21,China,WD,6,0,65,Bulgaria,China,Gabriela Stoeva,Stefani Stoeva,0,Chen Qing Chen,Jia Yi Fan,3,21,19,16,21,21,19,58,59,2,1,6,1,7,5,1,10,1
+51,Blibli_Indonesia_Open,2018-07-05,Indonesia,WD,6,0,73,Chinesetaipei,China,Hsu Ya Ching,Wu Ti Jung,0,Du Yue,Li Yin Hui,0,24,22,19,21,21,17,64,60,2,1,5,4,7,5,1,1,1
+52,Blibli_Indonesia_Open,2018-07-05,Indonesia,WD,4,0,37,Indonesia,Indonesia,Greysia Polii,Apriyani Rahayu,7,Anggia Shitta Awanda,Ni Ketut Mahadewi Istarani,0,21,18,21,19,0,0,42,37,2,0,3,0,3,4,1,0,1
+53,Victor_China_Open,2018-09-19,China,WD,6,0,66,Japan,Indonesia,Yuki Fukushima,Sayaka Hirota,1,Anggia Shitta Awanda,Ni Ketut Mahadewi Istarani,0,21,16,14,21,26,24,61,61,2,1,4,6,6,7,5,2,1
+54,Blibli_Indonesia_Open,2018-07-04,Indonesia,WD,4,0,41,Indonesia,Indonesia,Dian Fitriani,Nadya Melati,0,Rosyita Eka Putri Sari,Meirisa Cindy Sahputri,0,22,20,21,15,0,0,43,35,2,0,5,0,4,6,1,0,1
+55,Yonex_All_England_Open,2018-03-14,England,WD,4,0,44,Denmark,Chinesetaipei,Maiken Fruergaard,Sara Thygesen,0,Chiang Kai Hsin,Hung Shih Han,0,21,13,22,20,0,0,43,33,2,0,3,2,6,7,1,0,1
+56,Blibli_Indonesia_Open,2018-07-05,Indonesia,WD,4,0,45,China,Malaysia,Chen Qing Chen,Jia Yi Fan,1,Chow Mei Kuan,Lee Meng Yean,0,22,20,21,18,0,0,43,38,2,0,3,4,6,3,6,0,1
+57,Yonex_All_England_Open,2018-03-15,England,WD,6,0,72,Thailand,Thailand,Jongkolphan Kititharakul,Rawinda Prajongjai,8,Chayanit Chaladchalam,Phataimas Muenwong,0,16,21,21,17,21,17,58,55,2,1,7,2,5,4,2,1,1
+58,Victor_China_Open,2018-09-18,China,WD,4,0,37,Indonesia,Malaysia,Della Destiara Haris,Rizki Amelia Pradipta,0,Chow Mei Kuan,Lee Meng Yean,0,21,16,21,17,0,0,42,33,2,0,2,0,7,5,2,1,1
+59,Victor_China_Open,2018-09-20,China,WD,4,0,34,Japan,Korea,Mayu Matsumoto,Wakana Nagahara,8,Kim So Yeong,Kong Hee Yong,0,21,14,21,19,0,0,42,33,2,0,3,0,7,4,5,8,1
+60,Victor_China_Open,2018-09-19,China,WD,4,0,26,Japan,Chinesetaipei,Mayu Matsumoto,Wakana Nagahara,8,Hsu Ya Ching,Wu Ti Jung,0,21,14,21,11,0,0,42,25,2,0,5,0,7,3,3,0,1
+61,Victor_China_Open,2018-09-18,China,WD,4,0,28,China,China,Cao Tong Wei,Zheng Yu,0,Huang Dong Ping,Li Wen Mei,0,21,15,21,15,0,0,42,30,2,0,3,0,5,4,1,0,1
+62,Yonex_All_England_Open,2018-03-15,England,WD,6,0,70,Korea,Korea,Lee So Hee,Shin Seung Chan,7,Chae Yu Jung,Jung Kyung Eun,0,21,18,23,25,21,11,65,54,2,1,4,5,5,7,1,0,1
+63,Blibli_Indonesia_Open,2018-07-03,Indonesia,WD,4,0,32,Indonesia,India,Agatha Imanuela,Siti Fadia Silva Ramadhanti,0,Jakkampudi Meghana,S Ram Poorvisha,0,21,11,21,18,0,0,42,29,2,0,3,0,8,4,1,0,1
+64,Blibli_Indonesia_Open,2018-07-03,Indonesia,WD,6,0,69,Japan,Thailand,Shiho Tanaka,Koharu Yonemoto,4,Chayanit Chaladchalam,Phataimas Muenwong,0,21,10,22,24,21,15,64,49,2,1,5,3,5,4,3,0,1
+65,Blibli_Indonesia_Open,2018-07-05,Indonesia,WD,4,0,36,Japan,Thailand,Mayu Matsumoto,Wakana Nagahara,0,Jongkolphan Kititharakul,Rawinda Prajongjai,8,21,14,21,18,0,0,42,32,2,0,2,0,4,4,10,1,1
+66,Yonex_All_England_Open,2018-03-14,England,WD,6,0,62,Indonesia,Korea,Della Destiara Haris,Rizki Amelia Pradipta,0,Chang Ye Na,Kim Hyerin,0,22,20,18,21,21,17,61,58,2,1,2,3,5,6,1,0,1
+67,Yonex_All_England_Open,2019-03-06,England,WD,4,0,42,Bulgaria,China,Gabriela Stoeva,Stefani Stoeva,8,Du Yue,Li Yin Hui,0,21,14,21,13,0,0,42,27,2,0,3,0,6,5,2,2,1
+68,Yonex_All_England_Open,2018-03-15,England,WD,4,0,29,Japan,Bulgaria,Mayu Matsumoto,Wakana Nagahara,0,Gabriela Stoeva,Stefani Stoeva,0,21,10,21,12,0,0,42,22,2,0,2,0,4,2,8,0,1
+69,Blibli_Indonesia_Open,2018-07-04,Indonesia,WD,4,0,16,Thailand,Usa,Jongkolphan Kititharakul,Rawinda Prajongjai,8,Ariel Lee,Sydney Lee,0,21,1,21,5,0,0,42,6,2,0,3,0,16,1,2,0,1
+70,Blibli_Indonesia_Open,2018-07-03,Indonesia,WD,4,0,35,China,Netherlands,Huang Dong Ping,Li Wen Mei,0,Selena Piek,Cheryl Seinen,0,21,16,21,15,0,0,42,31,2,0,3,0,4,3,1,0,1
+71,Victor_China_Open,2018-09-20,China,WD,6,0,49,China,China,Chen Qing Chen,Jia Yi Fan,3,Tang Jin Hua,Yu Xiao Han,0,21,14,15,21,21,18,57,53,2,1,2,1,4,4,2,0,1
+72,Blibli_Indonesia_Open,2018-07-03,Indonesia,WD,4,0,38,Indonesia,Indonesia,Anggia Shitta Awanda,Ni Ketut Mahadewi Istarani,0,Pia Zebadiah Bernadet,Tiara Rosalia Nuraidah,0,21,18,21,17,0,0,42,35,2,0,2,0,5,4,1,0,1
+73,Blibli_Indonesia_Open,2018-07-04,Indonesia,WD,4,0,28,China,Korea,Du Yue,Li Yin Hui,0,Kim Hyerin,Kong Hee Yong,0,21,14,21,2,0,0,42,16,2,0,2,0,18,3,1,1,1
+74,Yonex_All_England_Open,2019-03-07,England,WD,4,0,53,Japan,Korea,Mayu Matsumoto,Wakana Nagahara,3,Kim So Yeong,Kong Hee Yong,0,24,22,21,14,0,0,45,36,2,0,5,2,4,4,5,8,1
+75,Yonex_All_England_Open,2018-03-14,England,WD,4,0,27,Japan,India,Shiho Tanaka,Koharu Yonemoto,5,Jakkampudi Meghana,S Ram Poorvisha,0,21,14,21,11,0,0,42,25,2,0,2,0,4,3,2,0,1
+76,Blibli_Indonesia_Open,2018-07-03,Indonesia,WD,4,0,39,Japan,Indonesia,Misaki Matsutomo,Ayaka Takahashi,5,Virni Putri,Jauza Fadhila Sugiarto,0,21,15,21,6,0,0,42,21,2,0,2,0,8,4,1,0,1
+77,Victor_China_Open,2018-09-18,China,WD,6,0,52,Denmark,Thailand,Maiken Fruergaard,Sara Thygesen,0,Jongkolphan Kititharakul,Rawinda Prajongjai,6,21,17,12,21,21,18,54,56,2,1,2,1,6,6,2,8,1
+78,Yonex_All_England_Open,2019-03-09,England,WD,4,0,53,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,3,Shiho Tanaka,Koharu Yonemoto,7,21,11,21,12,0,0,42,23,2,0,5,0,8,4,2,2,1
+79,Yonex_All_England_Open,2019-03-10,England,WD,6,0,83,China,Japan,Chen Qing Chen,Jia Yi Fan,5,Mayu Matsumoto,Wakana Nagahara,3,18,21,22,20,21,11,61,52,2,1,3,3,7,5,12,2,1
+80,Victor_China_Open,2018-09-18,China,WD,4,0,37,Korea,Malaysia,Chang Ye Na,Jung Kyung Eun,0,Vivian Hoo,Yap Cheng Wen,0,21,19,21,16,0,0,42,35,2,0,4,0,5,4,2,0,1
+81,Victor_China_Open,2018-09-18,China,WD,4,0,16,Japan,Usa,Shiho Tanaka,Koharu Yonemoto,5,Ariel Lee,Sydney Lee,0,21,4,21,5,0,0,42,9,2,0,2,0,7,1,1,0,1
+82,Yonex_All_England_Open,2019-03-07,England,WD,4,0,47,Bulgaria,Thailand,Gabriela Stoeva,Stefani Stoeva,8,Puttita Supajirakul,Sapsiree Taerattanachai,0,21,18,25,23,0,0,46,41,2,0,2,4,5,4,2,4,1
+83,Victor_China_Open,2018-09-19,China,WD,4,0,32,Korea,India,Kim So Yeong,Kong Hee Yong,0,Ashwini Ponnappa,Reddy Sikki,0,21,10,21,18,0,0,42,28,2,0,7,0,11,4,3,0,1
+84,Yonex_All_England_Open,2018-03-14,England,WD,6,0,61,Korea,China,Kim So Yeong,Kong Hee Yong,0,Tang Jin Hua,Yu Xiao Han,0,20,22,21,10,21,15,62,47,2,1,3,1,8,7,1,0,1
+85,Yonex_All_England_Open,2019-03-09,England,WD,4,0,65,China,Japan,Chen Qing Chen,Jia Yi Fan,5,Yuki Fukushima,Sayaka Hirota,1,21,18,23,21,0,0,44,39,2,0,3,2,4,4,12,10,1
+86,Yonex_All_England_Open,2019-03-06,England,WD,4,0,30,China,Canada,Chen Qing Chen,Jia Yi Fan,5,Rachel Honderich,Kristen Tsai,0,21,11,21,6,0,0,42,17,2,0,4,0,11,4,3,0,1
+87,Victor_China_Open,2018-09-20,China,WD,2,1,3,Bulgaria,Korea,Gabriela Stoeva,Stefani Stoeva,0,Lee So Hee,Shin Seung Chan,7,5,4,0,0,0,0,5,4,1,0,0,0,2,1,2,8,1
+88,Blibli_Indonesia_Open,2019-07-17,Indonesia,WD,4,0,51,Thailand,England,Puttita Supajirakul,Sapsiree Taerattanachai,0,Chloe Birch,Lauren Smith,0,21,17,21,19,0,0,42,36,2,0,3,0,4,4,2,0,1
+89,Victor_China_Open,2018-09-18,China,WD,4,0,29,Indonesia,Germany,Greysia Polii,Apriyani Rahayu,4,Johanna Käpplein,Lara Kaepplein,0,21,17,21,15,0,0,42,32,2,0,6,0,5,3,1,0,1
+90,Victor_China_Open,2018-09-20,China,WD,6,0,64,Japan,Indonesia,Misaki Matsutomo,Ayaka Takahashi,2,Della Destiara Haris,Rizki Amelia Pradipta,0,19,21,21,13,21,13,61,47,2,1,2,1,6,5,6,0,1
+91,Yonex_All_England_Open,2019-03-07,England,WD,4,0,33,China,Korea,Li Wen Mei,Zheng Yu,0,Lee So Hee,Shin Seung Chan,6,21,8,21,18,0,0,42,26,2,0,2,0,12,3,2,3,1
+92,Blibli_Indonesia_Open,2019-07-16,Indonesia,WD,4,0,33,Japan,Germany,Misaki Matsutomo,Ayaka Takahashi,3,Linda Efler,Isabel Lohau,0,21,17,21,8,0,0,42,25,2,0,5,0,7,5,1,0,1
+93,Yonex_All_England_Open,2019-03-08,England,WD,6,0,80,Japan,Bulgaria,Yuki Fukushima,Sayaka Hirota,1,Gabriela Stoeva,Stefani Stoeva,8,17,21,21,15,21,19,59,55,2,1,3,2,4,6,6,0,1
+94,Blibli_Indonesia_Open,2019-07-21,Indonesia,WD,4,0,51,Japan,Japan,Yuki Fukushima,Sayaka Hirota,2,Misaki Matsutomo,Ayaka Takahashi,3,21,16,21,18,0,0,42,34,2,0,2,0,7,6,7,4,1
+95,Blibli_Indonesia_Open,2019-07-20,Indonesia,WD,6,0,72,Japan,Korea,Misaki Matsutomo,Ayaka Takahashi,3,Lee So Hee,Shin Seung Chan,6,17,21,21,14,21,15,59,50,2,1,2,1,5,4,8,6,1
+96,Yonex_All_England_Open,2019-03-08,England,WD,4,0,48,Japan,Indonesia,Shiho Tanaka,Koharu Yonemoto,7,Ni Ketut Mahadewi Istarani,Rizki Amelia Pradipta,0,21,16,21,17,0,0,42,33,2,0,3,0,7,5,1,1,1
+97,Blibli_Indonesia_Open,2019-07-16,Indonesia,WD,4,0,39,Korea,Denmark,Lee So Hee,Shin Seung Chan,6,Maiken Fruergaard,Sara Thygesen,0,21,18,21,12,0,0,42,30,2,0,10,0,6,7,6,2,1
+98,Blibli_Indonesia_Open,2019-07-20,Indonesia,WD,4,0,50,Japan,China,Yuki Fukushima,Sayaka Hirota,2,Chen Qing Chen,Jia Yi Fan,4,21,14,21,12,0,0,42,26,2,0,2,0,6,3,10,12,1
+99,Yonex_All_England_Open,2019-03-08,England,WD,6,0,79,Japan,China,Mayu Matsumoto,Wakana Nagahara,3,Li Wen Mei,Zheng Yu,0,21,17,17,21,21,18,59,56,2,1,3,2,5,5,4,0,1
+100,Blibli_Indonesia_Open,2019-07-17,Indonesia,WD,6,0,65,Indonesia,China,Della Destiara Haris,Rizki Amelia Pradipta,0,Li Wen Mei,Zheng Yu,0,14,21,21,13,21,18,56,52,2,1,3,1,6,6,1,0,1
+101,Yonex_All_England_Open,2018-03-14,England,WD,4,0,37,Japan,France,Yuki Fukushima,Sayaka Hirota,4,Delphine Delrue,Lea Palermo,0,21,12,21,16,0,0,42,28,2,0,4,0,7,4,2,0,1
+102,Blibli_Indonesia_Open,2019-07-16,Indonesia,WD,6,0,75,Malaysia,India,Vivian Hoo,Yap Cheng Wen,0,Ashwini Ponnappa,Reddy Sikki,0,22,20,20,22,22,20,64,62,2,1,4,4,4,3,1,0,1
+103,Victor_China_Open,2019-09-17,China,WD,6,0,52,Bulgaria,Thailand,Gabriela Stoeva,Stefani Stoeva,0,Jongkolphan Kititharakul,Rawinda Prajongjai,0,8,21,21,15,21,18,50,54,2,1,5,1,5,6,7,6,1
+104,Yonex_All_England_Open,2019-03-08,England,WD,4,0,50,China,Indonesia,Chen Qing Chen,Jia Yi Fan,5,Greysia Polii,Apriyani Rahayu,4,21,19,21,17,0,0,42,36,2,0,3,0,5,4,6,5,1
+105,Blibli_Indonesia_Open,2019-07-16,Indonesia,WD,4,0,38,Indonesia,Australia,Nadya Melati,Tiara Rosalia Nuraidah,0,Setyana Mapasa,Gronya Somerville,0,21,15,22,20,0,0,43,35,2,0,6,0,4,3,1,0,1
+106,Blibli_Indonesia_Open,2019-07-16,Indonesia,WD,4,0,50,Malaysia,Indonesia,Chow Mei Kuan,Lee Meng Yean,0,Yulfira Barkah,Jauza Fadhila Sugiarto,0,21,16,21,16,0,0,42,32,2,0,3,0,5,4,2,0,1
+107,Blibli_Indonesia_Open,2019-07-18,Indonesia,WD,4,0,37,Japan,Indonesia,Mayu Matsumoto,Wakana Nagahara,1,Nadya Melati,Tiara Rosalia Nuraidah,0,21,12,21,17,0,0,42,29,2,0,2,0,6,7,1,0,1
+108,Blibli_Indonesia_Open,2019-07-19,Indonesia,WD,4,0,35,Korea,Japan,Lee So Hee,Shin Seung Chan,6,Mayu Matsumoto,Wakana Nagahara,1,21,13,21,11,0,0,42,24,2,0,2,0,5,4,7,3,1
+109,Blibli_Indonesia_Open,2019-07-16,Indonesia,WD,4,0,34,Japan,Canada,Mayu Matsumoto,Wakana Nagahara,1,Rachel Honderich,Kristen Tsai,0,21,12,21,18,0,0,42,30,2,0,5,0,8,3,4,0,1
+110,Blibli_Indonesia_Open,2019-07-17,Indonesia,WD,4,0,45,Japan,Chinesetaipei,Shiho Tanaka,Koharu Yonemoto,7,Hsu Ya Ching,Hu Ling Fang,0,21,17,21,15,0,0,42,32,2,0,3,0,3,4,1,0,1
+111,Yonex_All_England_Open,2019-03-07,England,WD,4,0,39,Japan,Russia,Shiho Tanaka,Koharu Yonemoto,7,Ekaterina Malkova,Alina Davletova,0,21,15,21,9,0,0,42,24,2,0,2,0,6,4,1,0,1
+112,Blibli_Indonesia_Open,2019-07-19,Indonesia,WD,4,0,38,Japan,Korea,Misaki Matsutomo,Ayaka Takahashi,3,Kim So Yeong,Kong Hee Yong,0,21,17,21,9,0,0,42,26,2,0,4,0,6,2,5,1,1
+113,Yonex_All_England_Open,2018-03-14,England,WD,4,0,36,China,England,Du Yue,Li Yin Hui,0,Lauren Smith,Sarah Walker,0,21,18,21,12,0,0,42,30,2,0,2,0,5,3,2,0,1
+114,Blibli_Indonesia_Open,2019-07-19,Indonesia,WD,4,0,48,China,China,Chen Qing Chen,Jia Yi Fan,4,Du Yue,Li Yin Hui,8,21,17,21,14,0,0,42,31,2,0,2,0,5,4,11,2,1
+115,Victor_China_Open,2019-09-19,China,WD,4,0,37,China,Bulgaria,Chen Qing Chen,Jia Yi Fan,4,Gabriela Stoeva,Stefani Stoeva,0,21,15,21,15,0,0,42,30,2,0,5,0,9,4,10,1,1
+116,Yonex_All_England_Open,2019-03-06,England,WD,4,0,31,China,Netherlands,Li Wen Mei,Zheng Yu,0,Selena Piek,Cheryl Seinen,0,21,14,21,10,0,0,42,24,2,0,3,0,5,4,2,0,1
+117,Blibli_Indonesia_Open,2019-07-19,Indonesia,WD,6,0,94,Japan,Japan,Yuki Fukushima,Sayaka Hirota,2,Shiho Tanaka,Koharu Yonemoto,7,12,21,21,16,21,17,54,54,2,1,2,2,5,8,6,2,1
+118,Victor_China_Open,2019-09-18,China,WD,6,0,62,Japan,China,Misaki Matsutomo,Ayaka Takahashi,2,Li Wen Mei,Zheng Yu,0,16,21,21,18,21,8,58,47,2,1,2,2,6,5,3,0,1
+119,Victor_China_Open,2019-09-17,China,WD,6,0,70,Japan,China,Mayu Matsumoto,Wakana Nagahara,1,Dong Wen Jing,Feng Xue Ying,0,21,15,22,24,21,17,64,56,2,1,3,4,4,3,2,0,1
+120,Yonex_All_England_Open,2018-03-14,England,WD,4,0,48,China,Japan,Chen Qing Chen,Jia Yi Fan,1,Naoko Fukuman,Kurumi Yonao,0,22,20,21,14,0,0,43,34,2,0,6,0,6,3,2,2,1
+121,Blibli_Indonesia_Open,2019-07-18,Indonesia,WD,6,0,66,Korea,Malaysia,Lee So Hee,Shin Seung Chan,6,Vivian Hoo,Yap Cheng Wen,0,19,21,21,12,21,10,61,43,2,1,2,1,11,5,5,0,1
+122,Yonex_All_England_Open,2019-03-07,England,WD,6,0,61,Japan,France,Yuki Fukushima,Sayaka Hirota,1,Emilie Lefel,Anne Tran,0,21,16,19,21,21,13,61,50,2,1,2,1,6,4,2,0,1
+123,Victor_China_Open,2019-09-17,China,WD,4,0,52,China,Korea,Du Yue,Li Yin Hui,7,Baek Ha Na,Jung Kyung Eun,0,21,17,21,15,0,0,42,32,2,0,4,0,6,5,2,1,1
+124,Yonex_All_England_Open,2019-03-07,England,WD,4,0,40,China,Thailand,Chen Qing Chen,Jia Yi Fan,5,Jongkolphan Kititharakul,Rawinda Prajongjai,0,21,18,21,14,0,0,42,32,2,0,4,0,7,6,18,1,1
+125,Victor_China_Open,2019-09-18,China,WD,4,0,28,Australia,Chinesetaipei,Setyana Mapasa,Gronya Somerville,0,Chang Ching Hui,Yang Ching Tun,0,21,11,21,12,0,0,42,23,2,0,6,0,10,3,2,0,1
+126,Blibli_Indonesia_Open,2019-07-17,Indonesia,WD,4,0,32,China,Indonesia,Chen Qing Chen,Jia Yi Fan,4,Metya Inayah Cindiani,Vania Arianti Sukoco,0,21,16,21,9,0,0,42,25,2,0,3,0,4,4,1,0,1
+127,Blibli_Indonesia_Open,2019-07-18,Indonesia,WD,4,0,39,China,Indonesia,Chen Qing Chen,Jia Yi Fan,4,Della Destiara Haris,Rizki Amelia Pradipta,0,21,15,21,14,0,0,42,29,2,0,2,0,6,3,2,3,1
+128,Blibli_Indonesia_Open,2019-07-16,Indonesia,WD,4,0,41,Indonesia,Japan,Greysia Polii,Apriyani Rahayu,5,Ayako Sakuramoto,Yukiko Takahata,0,21,15,21,16,0,0,42,31,2,0,2,0,5,5,4,1,1
+129,Victor_China_Open,2019-09-17,China,WD,4,0,33,China,Malaysia,Chen Qing Chen,Jia Yi Fan,4,Chow Mei Kuan,Lee Meng Yean,0,21,12,21,15,0,0,42,27,2,0,3,0,4,3,6,0,1
+130,Victor_China_Open,2019-09-19,China,WD,4,0,46,Korea,Japan,Chang Ye Na,Kim Hyerin,0,Mayu Matsumoto,Wakana Nagahara,1,23,21,21,17,0,0,44,38,2,0,3,1,6,7,4,0,1
+131,Blibli_Indonesia_Open,2019-07-17,Indonesia,WD,4,0,31,China,Chinesetaipei,Dong Wen Jing,Feng Xue Ying,0,Chang Ching Hui,Yang Ching Tun,0,21,7,21,11,0,0,42,18,2,0,4,0,9,3,1,0,1
+132,Victor_China_Open,2019-09-20,China,WD,4,0,48,Japan,Korea,Yuki Fukushima,Sayaka Hirota,3,Lee So Hee,Shin Seung Chan,6,21,12,21,16,0,0,42,28,2,0,2,0,7,5,7,1,1
+133,Yonex_All_England_Open,2019-03-07,England,WD,4,0,34,Indonesia,Korea,Ni Ketut Mahadewi Istarani,Rizki Amelia Pradipta,0,Chang Ye Na,Jung Kyung Eun,0,21,13,21,11,0,0,42,24,2,0,3,0,7,3,1,0,1
+134,Yonex_All_England_Open,2019-03-07,England,WD,4,0,36,Indonesia,China,Greysia Polii,Apriyani Rahayu,4,Dong Wen Jing,Feng Xue Ying,0,21,10,21,12,0,0,42,22,2,0,2,0,6,4,2,0,1
+135,Victor_China_Open,2019-09-19,China,WD,4,0,50,China,Canada,Du Yue,Li Yin Hui,7,Rachel Honderich,Kristen Tsai,0,21,15,23,21,0,0,44,36,2,0,2,2,4,2,3,0,1
+136,Blibli_Indonesia_Open,2019-07-16,Indonesia,WD,4,0,49,Korea,Thailand,Kim So Yeong,Kong Hee Yong,0,Jongkolphan Kititharakul,Rawinda Prajongjai,0,21,18,21,19,0,0,42,37,2,0,3,0,5,6,14,2,1
+137,Victor_China_Open,2019-09-20,China,WD,4,0,39,China,China,Chen Qing Chen,Jia Yi Fan,4,Du Yue,Li Yin Hui,7,21,19,21,11,0,0,42,30,2,0,4,0,6,4,11,2,1
+138,Blibli_Indonesia_Open,2019-07-18,Indonesia,WD,6,0,73,China,China,Du Yue,Li Yin Hui,8,Dong Wen Jing,Feng Xue Ying,0,21,11,17,21,21,14,59,46,2,1,3,1,7,4,1,0,1
+139,Yonex_All_England_Open,2019-03-06,England,WD,6,0,57,Russia,India,Ekaterina Malkova,Alina Davletova,0,Jakkampudi Meghana,S Ram Poorvisha,0,18,21,21,12,21,12,60,45,2,1,2,3,5,6,1,0,1
+140,Blibli_Indonesia_Open,2019-07-17,Indonesia,WD,4,0,39,China,Russia,Du Yue,Li Yin Hui,8,Ekaterina Malkova,Alina Davletova,0,21,13,21,14,0,0,42,27,2,0,8,0,6,5,3,0,1
+141,Victor_China_Open,2019-09-19,China,WD,6,0,55,Korea,Australia,Lee So Hee,Shin Seung Chan,6,Setyana Mapasa,Gronya Somerville,0,15,21,21,16,21,10,57,47,2,1,2,3,6,5,4,0,1
+142,Victor_China_Open,2019-09-20,China,WD,6,0,61,Korea,Korea,Chang Ye Na,Kim Hyerin,0,Kim So Yeong,Kong Hee Yong,0,21,14,7,21,24,22,52,57,2,1,7,2,5,8,2,1,1
+143,Blibli_Indonesia_Open,2019-07-18,Indonesia,WD,4,0,46,Japan,China,Yuki Fukushima,Sayaka Hirota,2,Liu Xuan Xuan,Xia Yu Ting,0,21,12,21,14,0,0,42,26,2,0,2,0,8,4,2,0,1
+144,Victor_China_Open,2019-09-17,China,WD,6,0,73,Canada,Russia,Rachel Honderich,Kristen Tsai,0,Ekaterina Malkova,Alina Davletova,0,18,21,21,17,26,24,65,62,2,1,10,3,6,6,1,0,1
+145,Victor_China_Open,2019-09-21,China,WD,6,0,82,China,Korea,Chen Qing Chen,Jia Yi Fan,4,Chang Ye Na,Kim Hyerin,0,21,13,23,25,21,16,65,54,2,1,6,1,7,4,3,1,1
+146,Victor_China_Open,2019-09-18,China,WD,4,0,41,Korea,China,Lee So Hee,Shin Seung Chan,6,Liu Xuan Xuan,Xia Yu Ting,0,21,13,21,17,0,0,42,30,2,0,5,0,7,5,2,0,1
+147,Victor_China_Open,2019-09-17,China,WD,4,0,36,Korea,Germany,Kim So Yeong,Kong Hee Yong,0,Linda Efler,Isabel Lohau,0,21,16,21,14,0,0,42,30,2,0,4,0,6,5,8,0,1
+148,Victor_China_Open,2019-09-20,China,WD,6,0,72,Japan,Indonesia,Misaki Matsutomo,Ayaka Takahashi,2,Greysia Polii,Apriyani Rahayu,5,21,19,19,21,21,16,61,56,2,1,3,1,5,4,10,2,1
+149,Yonex_All_England_Open,2019-03-06,England,WD,4,0,42,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,3,Ayako Sakuramoto,Yukiko Takahata,0,21,18,21,16,0,0,42,34,2,0,6,0,7,4,3,1,1
+150,Blibli_Indonesia_Open,2019-07-18,Indonesia,WD,6,0,94,Korea,Indonesia,Kim So Yeong,Kong Hee Yong,0,Greysia Polii,Apriyani Rahayu,5,22,20,18,21,21,13,61,54,2,1,2,6,6,5,3,1,1
+151,Victor_China_Open,2019-09-21,China,WD,6,0,73,Japan,Japan,Misaki Matsutomo,Ayaka Takahashi,2,Yuki Fukushima,Sayaka Hirota,3,21,17,15,21,21,16,57,54,2,1,3,1,6,5,4,7,1
+152,Victor_China_Open,2019-09-22,China,WD,4,0,40,China,Japan,Chen Qing Chen,Jia Yi Fan,4,Misaki Matsutomo,Ayaka Takahashi,2,21,14,21,18,0,0,42,32,2,0,5,0,6,3,6,5,1
+153,Blibli_Indonesia_Open,2019-07-17,Indonesia,WD,6,0,62,China,Indonesia,Liu Xuan Xuan,Xia Yu Ting,0,Agatha Imanuela,Virni Putri,0,7,21,21,14,21,7,49,42,2,1,3,1,7,5,1,0,1
+154,Blibli_Indonesia_Open,2019-07-18,Indonesia,WD,4,0,36,Japan,Malaysia,Misaki Matsutomo,Ayaka Takahashi,3,Chow Mei Kuan,Lee Meng Yean,0,21,13,21,12,0,0,42,25,2,0,6,0,6,3,6,0,1
+155,Yonex_All_England_Open,2018-03-14,England,WD,4,0,34,Japan,Russia,Mayu Matsumoto,Wakana Nagahara,0,Anastasiia Akchurina,Olga Morozova,0,21,17,21,5,0,0,42,22,2,0,3,0,10,4,1,0,1
+156,Victor_China_Open,2019-09-17,China,WD,6,0,62,Thailand,Malaysia,Puttita Supajirakul,Sapsiree Taerattanachai,0,Vivian Hoo,Yap Cheng Wen,0,21,12,17,21,21,14,59,47,2,1,4,2,9,5,2,0,1
+157,Blibli_Indonesia_Open,2019-07-18,Indonesia,WD,4,0,33,Japan,Thailand,Shiho Tanaka,Koharu Yonemoto,7,Puttita Supajirakul,Sapsiree Taerattanachai,0,21,12,21,13,0,0,42,25,2,0,6,0,6,3,3,1,1
+158,Victor_China_Open,2019-09-18,China,WD,2,1,25,India,Chinesetaipei,Ashwini Ponnappa,Reddy Sikki,0,Cheng Chi Ya,Lee Chih Chen,0,21,13,0,0,0,0,21,13,1,0,1,0,5,2,1,0,1
+159,Yonex_All_England_Open,2020-03-12,England,WD,4,0,46,Korea,Thailand,Kim So Yeong,Kong Hee Yong,5,Jongkolphan Kititharakul,Rawinda Prajongjai,0,21,13,21,15,0,0,42,28,2,0,0,0,0,0,14,2,1
+160,Blibli_Indonesia_Open,2019-07-17,Indonesia,WD,6,0,61,Japan,Netherlands,Yuki Fukushima,Sayaka Hirota,2,Selena Piek,Cheryl Seinen,0,13,21,21,11,21,11,55,43,2,1,3,4,7,5,4,0,1
+161,Yonex_All_England_Open,2020-03-13,England,WD,4,0,58,Japan,Korea,Yuki Fukushima,Sayaka Hirota,3,Kim So Yeong,Kong Hee Yong,5,21,17,23,21,0,0,44,38,2,0,0,0,0,0,5,2,1
+162,Yonex_All_England_Open,2020-03-15,England,WD,4,0,46,Japan,China,Yuki Fukushima,Sayaka Hirota,3,Du Yue,Li Yin Hui,6,21,13,21,15,0,0,42,28,2,0,0,0,0,0,5,3,1
+163,Yonex_All_England_Open,2020-03-14,England,WD,4,0,52,China,Korea,Du Yue,Li Yin Hui,6,Lee So Hee,Shin Seung Chan,4,21,17,21,17,0,0,42,34,2,0,0,0,0,0,3,2,1
+164,Victor_China_Open,2019-09-19,China,WD,4,0,32,Japan,Netherlands,Yuki Fukushima,Sayaka Hirota,3,Selena Piek,Cheryl Seinen,0,21,7,21,8,0,0,42,15,2,0,3,0,12,3,4,0,1
+165,Yonex_All_England_Open,2019-03-06,England,WD,4,0,36,Korea,Germany,Kim So Yeong,Kong Hee Yong,0,Johanna Käpplein,Lara Kaepplein,0,21,9,21,12,0,0,42,21,2,0,3,0,8,2,1,0,1
+166,Yonex_All_England_Open,2020-03-12,England,WD,4,0,49,China,England,Chen Qing Chen,Jia Yi Fan,1,Chloe Birch,Lauren Smith,0,21,16,22,20,0,0,43,36,2,0,0,0,0,0,1,0,1
+167,Yonex_All_England_Open,2020-03-13,England,WD,6,0,82,Korea,Korea,Lee So Hee,Shin Seung Chan,4,Chang Ye Na,Kim Hyerin,0,21,17,21,23,21,11,63,51,2,1,0,0,0,0,2,1,1
+168,Yonex_All_England_Open,2018-03-14,England,WD,4,0,38,Indonesia,England,Anggia Shitta Awanda,Ni Ketut Mahadewi Istarani,0,Chloe Birch,Jessica Pugh,0,22,20,21,14,0,0,43,34,2,0,2,1,5,5,2,0,1
+169,Victor_China_Open,2019-09-18,China,WD,4,0,27,Korea,Chinesetaipei,Chang Ye Na,Kim Hyerin,0,Hsu Ya Ching,Hu Ling Fang,0,21,9,21,12,0,0,42,21,2,0,3,0,7,3,2,0,1
+170,Yonex_All_England_Open,2020-03-13,England,WD,6,0,70,China,Japan,Du Yue,Li Yin Hui,6,Mayu Matsumoto,Wakana Nagahara,2,14,21,21,18,21,13,56,52,2,1,0,0,0,0,5,2,1
+171,Yonex_All_England_Open,2020-03-14,England,WD,4,0,38,Japan,Japan,Yuki Fukushima,Sayaka Hirota,3,Misaki Matsutomo,Ayaka Takahashi,7,21,12,21,12,0,0,42,24,2,0,0,0,0,0,7,4,1
+172,Yonex_All_England_Open,2021-03-18,England,WD,4,0,40,England,Denmark,Chloe Birch,Lauren Smith,7,Isabella Nielsen,Marie Louise Steffensen,0,21,14,21,11,0,0,42,25,2,0,0,0,0,0,1,0,1
+173,Victor_China_Open,2019-09-18,China,WD,4,0,50,Denmark,France,Maiken Fruergaard,Sara Thygesen,0,Emilie Lefel,Anne Tran,0,22,20,21,18,0,0,43,38,2,0,3,2,4,5,3,0,1
+174,Yonex_All_England_Open,2020-03-11,England,WD,4,0,40,China,Bulgaria,Chen Qing Chen,Jia Yi Fan,1,Gabriela Stoeva,Stefani Stoeva,0,21,11,21,12,0,0,42,23,2,0,2,0,8,3,10,1,1
+175,Victor_China_Open,2019-09-19,China,WD,4,0,40,Korea,Thailand,Kim So Yeong,Kong Hee Yong,0,Puttita Supajirakul,Sapsiree Taerattanachai,0,21,13,21,13,0,0,42,26,2,0,4,0,5,3,4,0,1
+176,Yonex_All_England_Open,2021-03-18,England,WD,4,0,42,Japan,Denmark,Yuki Fukushima,Sayaka Hirota,1,Alexandra Bøje,Mette Poulsen,0,21,7,21,15,0,0,42,22,2,0,0,0,0,0,1,0,1
+177,Yonex_All_England_Open,2021-03-19,England,WD,6,0,76,Japan,England,Yuki Fukushima,Sayaka Hirota,1,Chloe Birch,Lauren Smith,7,14,21,21,12,21,14,56,47,2,1,0,0,0,0,8,0,1
+178,Yonex_All_England_Open,2020-03-13,England,WD,6,0,79,Japan,China,Misaki Matsutomo,Ayaka Takahashi,7,Chen Qing Chen,Jia Yi Fan,1,21,12,20,22,21,12,62,46,2,1,0,0,0,0,5,6,1
+179,Yonex_All_England_Open,2018-03-14,England,WD,4,0,31,Korea,France,Lee So Hee,Shin Seung Chan,7,Emilie Lefel,Anne Tran,0,21,13,21,16,0,0,42,29,2,0,2,0,6,4,1,0,1
+180,Victor_China_Open,2019-09-18,China,WD,4,0,45,Japan,Japan,Yuki Fukushima,Sayaka Hirota,3,Ayako Sakuramoto,Yukiko Takahata,0,21,13,21,15,0,0,42,28,2,0,2,0,7,3,4,0,1
+181,Victor_China_Open,2019-09-19,China,WD,6,0,60,Indonesia,Denmark,Greysia Polii,Apriyani Rahayu,5,Maiken Fruergaard,Sara Thygesen,0,21,14,15,21,21,18,57,53,2,1,4,3,5,4,9,0,1
+182,Yonex_All_England_Open,2018-03-14,England,WD,4,0,30,Korea,Denmark,Chae Yu Jung,Jung Kyung Eun,0,Julie Finne-Ipsen,Rikke Søby,0,21,13,21,13,0,0,42,26,2,0,3,0,7,3,1,0,1
+183,Yonex_All_England_Open,2021-03-20,England,WD,4,0,50,Japan,Netherlands,Yuki Fukushima,Sayaka Hirota,1,Selena Piek,Cheryl Seinen,0,21,17,21,7,0,0,42,24,2,0,0,0,0,0,4,0,1
+184,Victor_China_Open,2019-09-19,China,WD,4,0,39,Japan,India,Misaki Matsutomo,Ayaka Takahashi,2,Ashwini Ponnappa,Reddy Sikki,0,21,12,21,17,0,0,42,29,2,0,3,0,8,4,8,0,1
+185,Yonex_All_England_Open,2021-03-18,England,WD,4,0,32,Malaysia,England,Tan Pearly,Thinaah Muralitharan,0,Jessica Hopton,Jenny Mairs,0,21,18,21,7,0,0,42,25,2,0,0,0,0,0,1,0,1
+186,Victor_China_Open,2019-09-18,China,WD,4,0,41,Indonesia,England,Greysia Polii,Apriyani Rahayu,5,Chloe Birch,Lauren Smith,0,21,18,21,15,0,0,42,33,2,0,4,0,3,3,6,0,1
+187,Yonex_All_England_Open,2021-03-17,England,WD,4,0,34,England,India,Chloe Birch,Lauren Smith,7,Ashwini Bhat K.,Shikha Gautam,0,21,14,21,11,0,0,42,25,2,0,3,0,5,3,1,0,1
+188,Yonex_All_England_Open,2019-03-06,England,WD,4,0,41,Korea,Indonesia,Lee So Hee,Shin Seung Chan,6,Della Destiara Haris,Tania Oktaviani Kusumah,0,21,17,25,23,0,0,46,40,2,0,7,1,6,5,1,0,1
+189,Yonex_All_England_Open,2021-03-20,England,WD,4,0,51,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,2,Nami Matsuyama,Chiharu Shida,5,21,19,21,17,0,0,42,36,2,0,0,0,0,0,4,4,1
+190,Yonex_All_England_Open,2021-03-21,England,WD,4,0,56,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,2,Yuki Fukushima,Sayaka Hirota,1,21,18,21,16,0,0,42,34,2,0,0,0,0,0,8,7,1
+191,Victor_China_Open,2019-09-18,China,WD,4,0,41,Netherlands,France,Selena Piek,Cheryl Seinen,0,Delphine Delrue,Lea Palermo,0,21,19,21,13,0,0,42,32,2,0,3,0,9,5,3,1,1
+192,Yonex_All_England_Open,2021-03-19,England,WD,4,0,39,Netherlands,India,Selena Piek,Cheryl Seinen,0,Ashwini Ponnappa,Reddy Sikki,0,24,22,21,12,0,0,45,34,2,0,0,0,0,0,1,0,1
+193,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WD,4,0,48,Korea,England,Baek Ha Na,Lee Yu Lim,0,Chloe Birch,Lauren Smith,6,21,19,21,9,0,0,42,28,2,0,2,0,7,6,1,0,1
+194,Yonex_All_England_Open,2018-03-14,England,WD,4,0,43,Thailand,Chinesetaipei,Chayanit Chaladchalam,Phataimas Muenwong,0,Hsu Ya Ching,Wu Ti Jung,0,21,15,21,16,0,0,42,31,2,0,4,0,5,3,1,0,1
+195,Yonex_All_England_Open,2019-03-06,England,WD,6,0,77,Japan,India,Shiho Tanaka,Koharu Yonemoto,7,Ashwini Ponnappa,Reddy Sikki,0,16,21,28,26,21,16,65,63,2,1,9,2,6,5,3,0,1
+196,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WD,4,0,28,Japan,Ukraine,Mayu Matsumoto,Ayako Sakuramoto,7,Mariia Stoliarenko,Yelyzaveta Zharka,0,21,13,21,4,0,0,42,17,2,0,2,0,9,3,1,0,1
+197,Yonex_All_England_Open,2021-03-19,England,WD,6,0,54,Japan,Denmark,Mayu Matsumoto,Wakana Nagahara,2,Maiken Fruergaard,Sara Thygesen,8,21,14,19,21,21,15,61,50,2,1,0,0,0,0,7,0,1
+198,Yonex_All_England_Open,2018-03-14,England,WD,4,0,41,Thailand,Netherlands,Jongkolphan Kititharakul,Rawinda Prajongjai,8,Selena Piek,Cheryl Seinen,0,21,17,21,16,0,0,42,33,2,0,4,0,6,4,3,0,1
+199,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WD,6,0,81,Indonesia,Malaysia,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,Tan Pearly,Thinaah Muralitharan,8,14,21,22,20,21,17,57,58,2,1,2,3,6,7,1,3,1
+200,Yonex_All_England_Open,2021-03-18,England,WD,4,0,31,Denmark,Denmark,Maiken Fruergaard,Sara Thygesen,8,Amalie Magelund,Freja Ravn,0,21,13,21,10,0,0,42,23,2,0,0,0,0,0,1,1,1
+201,Yonex_All_England_Open,2021-03-19,England,WD,6,0,60,Japan,Malaysia,Nami Matsuyama,Chiharu Shida,5,Tan Pearly,Thinaah Muralitharan,0,21,12,20,22,21,16,62,50,2,1,0,0,0,0,10,1,1
+202,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WD,4,0,55,Indonesia,Indonesia,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,Nita Violina Marwah,Putri Syaikah,0,21,11,21,15,0,0,42,26,2,0,6,0,4,4,1,0,1
+203,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WD,4,0,43,Japan,Thailand,Nami Matsuyama,Chiharu Shida,4,Puttita Supajirakul,Sapsiree Taerattanachai,0,21,17,21,16,0,0,42,33,2,0,4,0,5,3,3,0,1
+204,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WD,6,0,54,Malaysia,Indonesia,Vivian Hoo,Lim Chiew Sien,0,Melani Mamahit,Tryola Nadia,0,15,21,21,8,21,10,57,39,2,1,3,3,11,4,1,0,1
+205,Yonex_All_England_Open,2020-03-12,England,WD,4,0,38,Japan,India,Misaki Matsutomo,Ayaka Takahashi,7,Ashwini Ponnappa,Reddy Sikki,0,21,13,21,14,0,0,42,27,2,0,0,0,0,0,8,0,1
+206,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WD,6,0,64,Korea,Thailand,Jeong Na Eun,Kim Hye Jeong,0,Benyapa Aimsaard,Nuntakarn Aimsaard,0,20,22,21,6,21,11,62,39,2,1,3,2,10,4,4,4,1
+207,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,WD,6,0,76,Indonesia,Japan,Greysia Polii,Apriyani Rahayu,2,Mayu Matsumoto,Ayako Sakuramoto,7,21,16,12,21,21,18,54,55,2,1,4,1,4,7,1,0,1
+208,Yonex_All_England_Open,2021-03-17,England,WD,4,0,32,Japan,Denmark,Mayu Matsumoto,Wakana Nagahara,2,Julie Finne-Ipsen,Mai Surrow,0,21,6,21,18,0,0,42,24,2,0,4,0,8,4,2,0,1
+209,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,WD,4,0,42,Thailand,Bulgaria,Jongkolphan Kititharakul,Rawinda Prajongjai,3,Gabriela Stoeva,Stefani Stoeva,5,21,10,21,14,0,0,42,24,2,0,3,0,5,2,6,7,1
+210,Yonex_All_England_Open,2021-03-18,England,WD,4,0,28,Japan,France,Mayu Matsumoto,Wakana Nagahara,2,Emilie Lefel,Anne Tran,0,21,10,21,16,0,0,42,26,2,0,0,0,0,0,3,0,1
+211,Yonex_All_England_Open,2019-03-06,England,WD,4,0,32,China,Hongkong,Dong Wen Jing,Feng Xue Ying,0,Ng Wing Yung,Yeung Nga Ting,0,21,9,21,15,0,0,42,24,2,0,3,0,6,4,1,0,1
+212,Yonex_All_England_Open,2020-03-12,England,WD,6,0,77,Japan,Korea,Yuki Fukushima,Sayaka Hirota,3,Baek Ha Na,Jung Kyung Eun,0,16,21,21,11,21,12,58,44,2,1,0,0,0,0,1,1,1
+213,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WD,4,0,35,Bulgaria,Malaysia,Gabriela Stoeva,Stefani Stoeva,5,Lee Meng Yean,Yap Cheng Wen,0,21,14,21,15,0,0,42,29,2,0,5,0,5,4,1,0,1
+214,Yonex_All_England_Open,2020-03-12,England,WD,4,0,38,Korea,Indonesia,Lee So Hee,Shin Seung Chan,4,Siti Fadia Silva Ramadhanti,Ribka Sugiarto,0,21,8,21,18,0,0,42,26,2,0,0,0,0,0,1,1,1
+215,Yonex_All_England_Open,2019-03-06,England,WD,6,0,70,Korea,Japan,Chang Ye Na,Jung Kyung Eun,0,Misaki Matsutomo,Ayaka Takahashi,2,21,17,10,21,21,19,52,57,2,1,5,2,4,8,2,3,1
+216,Yonex_All_England_Open,2020-03-12,England,WD,6,0,83,Korea,Malaysia,Chang Ye Na,Kim Hyerin,0,Vivian Hoo,Yap Cheng Wen,0,21,23,21,17,21,14,63,54,2,1,0,0,0,0,1,0,1
+217,Siminvest_Indonesia_Open_2021_New_,2021-11-27,Indonesia,WD,4,0,58,Indonesia,Thailand,Greysia Polii,Apriyani Rahayu,2,Jongkolphan Kititharakul,Rawinda Prajongjai,3,21,18,21,14,0,0,42,32,2,0,2,0,4,3,8,1,1
+218,Siminvest_Indonesia_Open_2021_New_,2021-11-27,Indonesia,WD,4,0,58,Japan,Korea,Nami Matsuyama,Chiharu Shida,4,Baek Ha Na,Lee Yu Lim,0,21,19,21,18,0,0,42,37,2,0,7,0,4,4,3,1,1
+219,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WD,4,0,37,Indonesia,Indonesia,Greysia Polii,Apriyani Rahayu,2,Fitriani Fitriani,Yulia Yosephine Susanto,0,21,10,21,15,0,0,42,25,2,0,2,0,10,4,1,0,1
+220,Yonex_All_England_Open,2020-03-12,England,WD,6,0,70,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,2,Nami Matsuyama,Chiharu Shida,0,17,21,21,18,21,17,59,56,2,1,0,0,0,0,4,4,1
+221,Yonex_All_England_Open,2019-03-06,England,WD,4,0,41,Indonesia,England,Greysia Polii,Apriyani Rahayu,4,Chloe Birch,Lauren Smith,0,21,19,21,15,0,0,42,34,2,0,2,0,5,4,6,0,1
+222,Yonex_All_England_Open,2020-03-12,England,WD,4,0,41,China,Malaysia,Du Yue,Li Yin Hui,6,Chow Mei Kuan,Lee Meng Yean,0,21,10,21,16,0,0,42,26,2,0,0,0,0,0,2,0,1
+223,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,WD,4,0,43,Japan,Indonesia,Nami Matsuyama,Chiharu Shida,4,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,21,17,21,13,0,0,42,30,2,0,2,0,8,4,2,0,1
+224,Yonex_All_England_Open,2019-03-06,England,WD,6,0,69,Thailand,China,Puttita Supajirakul,Sapsiree Taerattanachai,0,Chen Lu,Xu Ya,0,17,21,21,17,21,18,59,56,2,1,2,2,4,4,1,0,1
+225,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WD,4,0,54,Bulgaria,India,Gabriela Stoeva,Stefani Stoeva,5,Ashwini Ponnappa,Reddy Sikki,0,29,27,21,18,0,0,50,45,2,0,6,5,6,4,3,1,1
+226,Yonex_All_England_Open,2021-03-18,England,WD,4,0,33,India,Bulgaria,Ashwini Ponnappa,Reddy Sikki,0,Gabriela Stoeva,Stefani Stoeva,6,21,17,21,10,0,0,42,27,2,0,0,0,0,0,1,3,1
+227,Siminvest_Indonesia_Open_2021_New_,2021-11-28,Indonesia,WD,4,0,65,Japan,Indonesia,Nami Matsuyama,Chiharu Shida,4,Greysia Polii,Apriyani Rahayu,2,21,19,21,19,0,0,42,38,2,0,4,0,7,6,2,2,1
+228,Yonex_All_England_Open,2022-03-16,England,WD,6,0,88,China,Japan,Zhang Shu Xian,Zheng Yu,0,Yuki Fukushima,Sayaka Hirota,4,21,19,11,21,21,11,53,51,2,1,2,1,7,7,3,1,1
+229,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,WD,6,0,100,Korea,Korea,Baek Ha Na,Lee Yu Lim,0,Kim So Yeong,Kong Hee Yong,1,18,21,21,19,21,15,60,55,2,1,4,1,8,9,3,1,1
+230,Yonex_All_England_Open,2021-03-17,England,WD,4,0,30,India,Thailand,Ashwini Ponnappa,Reddy Sikki,0,Benyapa Aimsaard,Nuntakarn Aimsaard,0,21,14,21,12,0,0,42,26,2,0,0,0,0,0,1,0,1
+231,Yonex_All_England_Open,2019-03-06,England,WD,4,0,51,Thailand,France,Jongkolphan Kititharakul,Rawinda Prajongjai,0,Delphine Delrue,Lea Palermo,0,22,20,21,18,0,0,43,38,2,0,3,0,6,4,1,0,1
+232,Yonex_All_England_Open,2021-03-18,England,WD,4,0,27,Japan,Estonia,Nami Matsuyama,Chiharu Shida,5,Kati-Kreet Käsner,Helina Rüütel,0,21,8,21,12,0,0,42,20,2,0,0,0,0,0,2,0,1
+233,Yonex_All_England_Open,2022-03-16,England,WD,6,0,59,England,Denmark,Chloe Birch,Jessica Pugh,0,Christine Busch,Amalie Schulz,0,11,21,21,18,21,14,53,53,2,1,2,1,7,6,2,0,1
+234,Yonex_All_England_Open,2022-03-18,England,WD,4,0,40,Japan,Korea,Nami Matsuyama,Chiharu Shida,7,Kim So Yeong,Kong Hee Yong,3,21,10,21,18,0,0,42,28,2,0,3,0,7,3,2,5,1
+235,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WD,4,0,43,Malaysia,Spain,Tan Pearly,Thinaah Muralitharan,8,Clara Azurmendi,Beatriz Corrales,0,22,20,21,19,0,0,43,39,2,0,8,0,10,5,1,0,1
+236,Yonex_All_England_Open,2022-03-18,England,WD,6,0,72,China,Thailand,Zhang Shu Xian,Zheng Yu,0,Jongkolphan Kititharakul,Rawinda Prajongjai,8,19,21,21,18,21,16,61,55,2,1,2,3,9,6,3,4,1
+237,Yonex_All_England_Open,2021-03-17,England,WD,4,0,31,Netherlands,Sweden,Selena Piek,Cheryl Seinen,0,Johanna Magnusson,Clara Nistad,0,22,20,21,12,0,0,43,32,2,0,2,2,5,4,1,0,1
+238,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WD,6,0,62,Japan,Japan,Rin Iwanaga,Kie Nakanishi,0,Chisato Hoshi,Aoi Matsuda,0,21,13,14,21,21,9,56,43,2,1,3,1,8,4,1,1,1
+239,Yonex_All_England_Open,2022-03-16,England,WD,4,0,53,Korea,China,Jeong Na Eun,Kim Hye Jeong,0,Chen Qing Chen,Jia Yi Fan,1,21,15,21,16,0,0,42,31,2,0,5,0,7,4,1,3,1
+240,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WD,6,0,79,Malaysia,Denmark,Lee Meng Yean,Yap Cheng Wen,0,Alexandra Bøje,Mette Poulsen,0,21,12,19,21,26,24,66,57,2,1,5,9,7,9,1,0,1
+241,Yonex_All_England_Open,2021-03-17,England,WD,6,0,55,Japan,Japan,Nami Matsuyama,Chiharu Shida,5,Ayako Sakuramoto,Yukiko Takahata,0,21,19,16,21,21,17,58,57,2,1,5,1,4,6,2,4,1
+242,Yonex_All_England_Open,2019-03-06,England,WD,2,1,8,Indonesia,Denmark,Ni Ketut Mahadewi Istarani,Rizki Amelia Pradipta,0,Maiken Fruergaard,Sara Thygesen,0,11,12,0,0,0,0,11,12,0,1,0,0,6,6,1,0,1
+243,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WD,4,0,47,Korea,Germany,Baek Ha Na,Lee Yu Lim,0,Linda Efler,Isabel Lohau,0,21,17,21,13,0,0,42,30,2,0,2,0,6,3,1,0,1
+244,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WD,6,0,78,Thailand,Malaysia,Jongkolphan Kititharakul,Rawinda Prajongjai,3,Vivian Hoo,Lim Chiew Sien,0,24,26,21,12,21,11,66,49,2,1,8,2,7,5,3,0,1
+245,Yonex_All_England_Open,2022-03-17,England,WD,4,0,38,China,England,Zhang Shu Xian,Zheng Yu,0,Chloe Birch,Jessica Pugh,0,21,16,21,15,0,0,42,31,2,0,3,0,5,5,1,0,1
+246,Yonex_All_England_Open,2022-03-19,England,WD,4,0,51,Japan,Korea,Nami Matsuyama,Chiharu Shida,7,Jeong Na Eun,Kim Hye Jeong,0,21,8,21,12,0,0,42,20,2,0,2,0,9,3,5,2,1
+247,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WD,6,0,88,Korea,Korea,Kim So Yeong,Kong Hee Yong,1,Jeong Na Eun,Kim Hye Jeong,0,21,19,18,21,21,16,60,56,2,1,2,1,4,5,3,2,1
+248,Yonex_All_England_Open,2022-03-18,England,WD,6,0,79,Korea,Malaysia,Jeong Na Eun,Kim Hye Jeong,0,Tan Pearly,Thinaah Muralitharan,0,15,21,21,17,21,9,57,47,2,1,4,1,9,7,3,1,1
+249,Yonex_All_England_Open,2021-03-17,England,WD,4,0,36,Malaysia,Thailand,Tan Pearly,Thinaah Muralitharan,0,Jongkolphan Kititharakul,Rawinda Prajongjai,4,21,17,23,21,0,0,44,38,2,0,6,1,9,4,6,1,1
+250,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WD,4,0,44,Japan,Japan,Mayu Matsumoto,Ayako Sakuramoto,7,Rin Iwanaga,Kie Nakanishi,0,21,16,22,20,0,0,43,36,2,0,6,0,6,5,1,0,1
+251,Yonex_All_England_Open,2022-03-18,England,WD,6,0,67,India,Korea,Treesa Jolly,Gayatri Gopichand Pullela,0,Lee So Hee,Shin Seung Chan,2,14,21,22,20,21,15,57,56,2,1,3,3,5,6,1,0,1
+252,Yonex_All_England_Open,2022-03-19,England,WD,4,0,51,China,India,Zhang Shu Xian,Zheng Yu,0,Treesa Jolly,Gayatri Gopichand Pullela,0,21,17,21,16,0,0,42,33,2,0,4,0,5,4,2,0,1
+253,Yonex_All_England_Open,2022-03-17,England,WD,6,0,66,Korea,Thailand,Jeong Na Eun,Kim Hye Jeong,0,Supissara Paewsampran,Puttita Supajirakul,0,19,21,21,13,21,13,61,47,2,1,3,1,6,5,2,0,1
+254,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WD,4,0,40,England,Denmark,Chloe Birch,Lauren Smith,6,Julie Finne-Ipsen,Mai Surrow,0,21,15,21,11,0,0,42,26,2,0,2,0,6,4,1,0,1
+255,Yonex_All_England_Open,2022-03-17,England,WD,6,0,63,Korea,Canada,Kim So Yeong,Kong Hee Yong,3,Rachel Honderich,Kristen Tsai,0,20,22,21,18,21,8,62,48,2,1,3,2,6,3,3,0,1
+256,Yonex_All_England_Open,2019-03-06,England,WD,4,0,35,France,Sweden,Emilie Lefel,Anne Tran,0,Emma Karlsson,Johanna Magnusson,0,21,19,21,19,0,0,42,38,2,0,5,0,5,3,4,0,1
+257,Yonex_All_England_Open,2022-03-20,England,WD,4,0,41,Japan,China,Nami Matsuyama,Chiharu Shida,7,Zhang Shu Xian,Zheng Yu,0,21,13,21,9,0,0,42,22,2,0,2,0,6,5,1,2,1
+258,Yonex_All_England_Open,2020-03-11,England,WD,4,0,28,Malaysia,Switzerland,Vivian Hoo,Yap Cheng Wen,0,Nadia Fankhauser,Iris Tabeling,0,21,13,21,17,0,0,42,30,2,0,4,0,8,3,1,0,1
+259,Yonex_All_England_Open,2022-03-17,England,WD,4,0,35,Japan,Sweden,Nami Matsuyama,Chiharu Shida,7,Johanna Magnusson,Clara Nistad,0,21,19,21,19,0,0,42,38,2,0,4,0,5,5,2,0,1
+260,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WD,4,0,37,Netherlands,Ukraine,Debora Jille,Cheryl Seinen,0,Mariia Stoliarenko,Yelyzaveta Zharka,0,21,16,21,10,0,0,42,26,2,0,4,0,5,7,2,0,1
+261,Yonex_All_England_Open,2020-03-11,England,WD,6,0,62,Malaysia,China,Chow Mei Kuan,Lee Meng Yean,0,Li Wen Mei,Zheng Yu,0,15,21,21,15,21,18,57,54,2,1,3,1,5,5,1,1,1
+262,Yonex_All_England_Open,2020-03-11,England,WD,4,0,54,Korea,Indonesia,Chang Ye Na,Kim Hyerin,0,Greysia Polii,Apriyani Rahayu,8,21,17,21,15,0,0,42,32,2,0,2,0,5,4,3,1,1
+263,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,WD,4,0,59,Thailand,China,Jongkolphan Kititharakul,Rawinda Prajongjai,7,Chen Qing Chen,Jia Yi Fan,1,21,19,21,15,0,0,42,34,2,0,3,0,9,4,1,18,1
+264,Yonex_All_England_Open,2022-03-16,England,WD,4,0,45,Thailand,Scotland,Jongkolphan Kititharakul,Rawinda Prajongjai,8,Julie Macpherson,Ciara Torrance,0,21,13,21,19,0,0,42,32,2,0,3,0,4,4,3,0,1
+265,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WD,4,0,39,China,India,Chen Qing Chen,Jia Yi Fan,1,Ashwini Ponnappa,Reddy Sikki,0,21,16,21,13,0,0,42,29,2,0,2,0,7,4,4,0,1
+266,Yonex_All_England_Open,2019-03-06,England,WD,4,0,32,Japan,Hongkong,Yuki Fukushima,Sayaka Hirota,1,Ng Tsz Yau,Yuen Sin Ying,0,21,17,21,12,0,0,42,29,2,0,4,0,5,3,2,0,1
+267,Yonex_All_England_Open,2020-03-11,England,WD,4,0,42,China,Canada,Du Yue,Li Yin Hui,6,Rachel Honderich,Kristen Tsai,0,21,9,21,17,0,0,42,26,2,0,4,0,6,5,3,0,1
+268,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WD,6,0,68,Indonesia,Japan,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Mayu Matsumoto,Wakana Nagahara,5,21,7,17,21,21,17,59,45,2,1,3,1,6,4,2,1,1
+269,East_Ventures_Indonesia_Open,2022-06-19,Indonesia,WD,6,0,75,Japan,Japan,Nami Matsuyama,Chiharu Shida,6,Yuki Fukushima,Sayaka Hirota,4,18,21,21,14,21,17,60,52,2,1,2,1,6,6,6,0,1
+270,East_Ventures_Indonesia_Open,2022-06-18,Indonesia,WD,4,0,42,Japan,Thailand,Nami Matsuyama,Chiharu Shida,6,Jongkolphan Kititharakul,Rawinda Prajongjai,7,21,15,21,14,0,0,42,29,2,0,5,0,5,4,8,1,1
+271,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WD,4,0,27,India,India,Ashwini Ponnappa,Reddy Sikki,0,Srivedya Gurazada,Ishika Jaiswal,0,21,15,21,8,0,0,42,23,2,0,3,0,6,4,1,0,1
+272,Yonex_All_England_Open,2020-03-11,England,WD,4,0,34,Japan,China,Yuki Fukushima,Sayaka Hirota,3,Liu Xuan Xuan,Xia Yu Ting,0,21,10,21,6,0,0,42,16,2,0,4,0,7,2,2,0,1
+273,East_Ventures_Indonesia_Open,2022-06-18,Indonesia,WD,6,0,68,Japan,Korea,Yuki Fukushima,Sayaka Hirota,4,Lee So Hee,Shin Seung Chan,2,9,21,21,14,21,18,51,53,2,1,2,1,4,9,7,1,1
+274,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,WD,4,0,52,Korea,Indonesia,Lee So Hee,Shin Seung Chan,2,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,21,14,21,19,0,0,42,33,2,0,3,0,5,5,1,1,1
+275,Yonex_All_England_Open,2020-03-11,England,WD,4,0,33,Japan,Sweden,Misaki Matsutomo,Ayaka Takahashi,7,Emma Karlsson,Johanna Magnusson,0,21,13,21,13,0,0,42,26,2,0,4,0,5,3,1,0,1
+276,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,WD,4,0,60,Japan,Korea,Yuki Fukushima,Sayaka Hirota,4,Jeong Na Eun,Kim Hye Jeong,0,21,18,21,9,0,0,42,27,2,0,2,0,4,3,1,0,1
+277,Yonex_All_England_Open,2022-03-17,England,WD,2,1,48,India,Indonesia,Treesa Jolly,Gayatri Gopichand Pullela,0,Greysia Polii,Apriyani Rahayu,6,18,21,0,0,0,0,18,21,0,1,0,1,6,5,1,0,1
+278,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WD,4,0,33,China,Scotland,Liu Xuan Xuan,Xia Yu Ting,0,Julie Macpherson,Ciara Torrance,0,21,10,21,8,0,0,42,18,2,0,2,0,5,3,1,0,1
+279,Petronas_Malaysia_Open,2023-01-11,Malaysia,WD,6,0,70,China,Japan,Zhang Shu Xian,Zheng Yu,0,Yuki Fukushima,Sayaka Hirota,0,21,15,19,21,21,16,61,52,2,1,2,1,5,4,3,1,1
+280,Yonex_All_England_Open,2021-03-17,England,WD,4,0,32,Denmark,England,Maiken Fruergaard,Sara Thygesen,8,Annie Lado,Victoria Williams,0,21,11,21,10,0,0,42,21,2,0,2,0,9,3,1,0,1
+281,Petronas_Malaysia_Open,2023-01-10,Malaysia,WD,4,0,33,Indonesia,Chinesetaipei,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Lee Chia Hsin,Teng Chun Hsun,0,21,16,21,15,0,0,42,31,2,0,3,0,4,3,1,0,1
+282,Yonex_All_England_Open,2022-03-17,England,WD,6,0,73,Thailand,Netherlands,Jongkolphan Kititharakul,Rawinda Prajongjai,8,Debora Jille,Cheryl Seinen,0,21,18,18,21,25,23,64,62,2,1,8,3,5,5,4,0,1
+283,Petronas_Malaysia_Open,2023-01-11,Malaysia,WD,4,0,55,China,Korea,Du Yue,Xia Yu Ting,0,Lee So Hee,Shin Seung Chan,4,21,19,22,20,0,0,43,39,2,0,6,0,5,12,1,1,1
+284,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,WD,4,0,51,Japan,China,Nami Matsuyama,Chiharu Shida,6,Du Yue,Li Wen Mei,0,21,14,22,20,0,0,43,34,2,0,4,0,6,4,2,0,1
+285,Yonex_All_England_Open,2020-03-11,England,WD,4,0,46,Korea,Thailand,Kim So Yeong,Kong Hee Yong,5,Puttita Supajirakul,Sapsiree Taerattanachai,0,21,14,22,20,0,0,43,34,2,0,4,0,4,2,4,0,1
+286,Yonex_All_England_Open,2022-03-17,England,WD,6,0,74,Malaysia,Japan,Tan Pearly,Thinaah Muralitharan,0,Rin Iwanaga,Kie Nakanishi,0,18,21,21,19,21,16,60,56,2,1,6,1,6,3,3,1,1
+287,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WD,6,0,63,Korea,Bulgaria,Jeong Na Eun,Kim Hye Jeong,0,Gabriela Stoeva,Stefani Stoeva,8,18,21,21,12,21,15,60,48,2,1,2,2,7,6,4,0,1
+288,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WD,6,0,73,Thailand,Canada,Jongkolphan Kititharakul,Rawinda Prajongjai,7,Rachel Honderich,Kristen Tsai,0,21,18,16,21,21,12,58,51,2,1,4,2,6,4,2,0,1
+289,Yonex_All_England_Open,2020-03-11,England,WD,2,1,5,India,England,Ashwini Ponnappa,Reddy Sikki,0,Jenny Mairs,Victoria Williams,0,5,4,0,0,0,0,5,4,1,0,0,0,3,2,3,0,1
+290,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WD,4,0,48,Korea,Indonesia,Lee So Hee,Shin Seung Chan,2,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,25,23,21,11,0,0,46,34,2,0,5,1,6,3,1,0,1
+291,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WD,6,0,80,Indonesia,France,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,Margot Lambert,Anne Tran,0,21,19,17,21,21,15,59,55,2,1,3,4,7,4,3,1,1
+292,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WD,4,0,47,Korea,Indonesia,Lee So Hee,Shin Seung Chan,2,Febby Valencia Dwijayanti Gani,Ribka Sugiarto,0,21,16,22,20,0,0,43,36,2,0,3,0,5,5,1,0,1
+293,Yonex_All_England_Open,2021-03-17,England,WD,6,0,51,Estonia,Denmark,Kati-Kreet Käsner,Helina Rüütel,0,Christine Busch,Amalie Schulz,0,24,22,16,21,21,14,61,57,2,1,3,6,6,4,1,1,1
+294,Petronas_Malaysia_Open,2023-01-12,Malaysia,WD,6,0,79,Indonesia,Korea,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Jeong Na Eun,Kim Hye Jeong,0,21,16,13,21,21,15,55,52,2,1,3,1,4,6,3,1,1
+295,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WD,6,0,80,Indonesia,China,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Zhang Shu Xian,Zheng Yu,0,21,16,16,21,21,18,58,55,2,1,4,1,4,5,3,2,1
+296,Yonex_All_England_Open,2022-03-17,England,WD,2,1,13,Korea,China,Lee So Hee,Shin Seung Chan,2,Liu Xuan Xuan,Xia Yu Ting,0,13,8,0,0,0,0,13,8,1,0,0,0,7,3,2,0,1
+297,Yonex_All_England_Open,2020-03-11,England,WD,4,0,35,Korea,Russia,Baek Ha Na,Jung Kyung Eun,0,Ekaterina Malkova,Alina Davletova,0,21,13,21,6,0,0,42,19,2,0,0,0,0,0,1,0,1
+298,Yonex_All_England_Open,2021-03-17,England,WD,4,0,30,Denmark,India,Alexandra Bøje,Mette Poulsen,0,Jakkampudi Meghana,S Ram Poorvisha,0,21,10,21,15,0,0,42,25,2,0,2,0,6,3,1,0,1
+299,Petronas_Malaysia_Open,2023-01-11,Malaysia,WD,6,0,57,Korea,Thailand,Baek Ha Na,Lee Yu Lim,0,Jongkolphan Kititharakul,Rawinda Prajongjai,6,21,15,17,21,21,16,59,52,2,1,3,2,6,5,1,0,1
+300,Petronas_Malaysia_Open,2023-01-10,Malaysia,WD,4,0,31,Bulgaria,Malaysia,Gabriela Stoeva,Stefani Stoeva,0,Tan Pearly,Thinaah Muralitharan,8,21,19,21,14,0,0,42,33,2,0,5,0,5,3,1,2,1
+301,Yonex_All_England_Open,2022-03-16,England,WD,6,0,67,India,Thailand,Treesa Jolly,Gayatri Gopichand Pullela,0,Benyapa Aimsaard,Nuntakarn Aimsaard,0,17,21,22,20,21,14,60,55,2,1,2,3,6,7,1,1,1
+302,Yonex_All_England_Open,2020-03-11,England,WD,4,0,35,Korea,Chinesetaipei,Lee So Hee,Shin Seung Chan,4,Hsu Ya Ching,Hu Ling Fang,0,21,16,21,15,0,0,42,31,2,0,0,0,0,0,3,0,1
+303,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WD,4,0,48,Japan,Denmark,Nami Matsuyama,Chiharu Shida,6,Julie Finne-Ipsen,Mai Surrow,0,21,14,24,22,0,0,45,36,2,0,7,0,6,6,1,0,1
+304,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WD,4,0,49,Japan,China,Nami Matsuyama,Chiharu Shida,6,Liu Xuan Xuan,Xia Yu Ting,0,21,17,21,15,0,0,42,32,2,0,6,0,5,3,1,0,1
+305,Yonex_All_England_Open,2020-03-11,England,WD,4,0,42,England,Germany,Chloe Birch,Lauren Smith,0,Linda Efler,Isabel Lohau,0,21,18,21,14,0,0,42,32,2,0,0,0,0,0,8,0,1
+306,Petronas_Malaysia_Open,2023-01-12,Malaysia,WD,6,0,69,Bulgaria,India,Gabriela Stoeva,Stefani Stoeva,0,Treesa Jolly,Gayatri Gopichand Pullela,0,21,13,15,21,21,17,57,51,2,1,4,1,6,5,1,0,1
+307,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WD,6,0,63,China,Malaysia,Du Yue,Li Wen Mei,0,Vivian Hoo,Lim Chiew Sien,0,21,10,13,21,21,9,55,40,2,1,2,1,9,4,1,0,1
+308,Petronas_Malaysia_Open,2023-01-13,Malaysia,WD,4,0,62,Indonesia,Korea,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Kim So Yeong,Kong Hee Yong,3,22,20,21,15,0,0,43,35,2,0,3,0,10,4,3,0,1
+309,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WD,6,0,90,China,Korea,Chen Qing Chen,Jia Yi Fan,1,Baek Ha Na,Lee Yu Lim,0,21,14,20,22,23,21,64,57,2,1,6,2,5,4,2,1,1
+310,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WD,4,0,49,Japan,Malaysia,Yuki Fukushima,Sayaka Hirota,4,Tan Pearly,Thinaah Muralitharan,0,21,19,21,12,0,0,42,31,2,0,2,0,6,4,4,3,1
+311,Yonex_All_England_Open,2021-03-17,England,WD,4,0,20,Denmark,Egypt,Amalie Magelund,Freja Ravn,0,Doha Hany,Hadia Hosny,0,21,8,21,7,0,0,42,15,2,0,3,0,12,2,1,0,1
+312,Yonex_All_England_Open,2022-03-16,England,WD,6,0,77,Indonesia,Denmark,Greysia Polii,Apriyani Rahayu,6,Maiken Fruergaard,Sara Thygesen,0,21,17,20,22,21,14,62,53,2,1,3,2,5,4,9,0,1
+313,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WD,4,0,36,Thailand,Netherlands,Jongkolphan Kititharakul,Rawinda Prajongjai,7,Debora Jille,Cheryl Seinen,0,21,12,21,12,0,0,42,24,2,0,2,0,5,3,4,0,1
+314,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WD,4,0,28,China,India,Zhang Shu Xian,Zheng Yu,0,Ashwini Bhat K.,Shikha Gautam,0,21,9,21,10,0,0,42,19,2,0,4,0,10,3,1,0,1
+315,Yonex_All_England_Open,2020-03-11,England,WD,4,0,38,Thailand,Denmark,Jongkolphan Kititharakul,Rawinda Prajongjai,0,Julie Finne-Ipsen,Mai Surrow,0,21,15,21,14,0,0,42,29,2,0,0,0,0,0,3,0,1
+316,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WD,4,0,38,China,Malaysia,Du Yue,Li Wen Mei,0,Low Yeen Yuan,Valeree Siow,0,21,10,21,14,0,0,42,24,2,0,2,0,5,3,1,0,1
+317,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WD,4,0,25,Korea,India,Jeong Na Eun,Kim Hye Jeong,0,Haritha Manazhiyil H,Ashna Roy,0,21,9,21,8,0,0,42,17,2,0,4,0,7,3,2,0,1
+318,Petronas_Malaysia_Open,2023-01-10,Malaysia,WD,6,0,59,Korea,Japan,Kim So Yeong,Kong Hee Yong,3,Rin Iwanaga,Kie Nakanishi,0,21,15,16,21,21,15,58,51,2,1,2,2,7,5,3,2,1
+319,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WD,4,0,33,Malaysia,Malaysia,Tan Pearly,Thinaah Muralitharan,0,Anna Ching Yik Cheong,Teoh Mei Xing,0,21,12,21,16,0,0,42,28,2,0,4,0,7,4,2,0,1
+320,Petronas_Malaysia_Open,2023-01-10,Malaysia,WD,4,0,34,India,Hongkong,Treesa Jolly,Gayatri Gopichand Pullela,0,Yeung Nga Ting,Yeung Pui Lam,0,21,19,21,14,0,0,42,33,2,0,3,0,7,5,1,1,1
+321,Petronas_Malaysia_Open,2023-01-13,Malaysia,WD,4,0,50,China,Bulgaria,Chen Qing Chen,Jia Yi Fan,1,Gabriela Stoeva,Stefani Stoeva,0,21,17,21,17,0,0,42,34,2,0,3,0,4,4,10,1,1
+322,Yonex_All_England_Open,2022-03-16,England,WD,4,0,31,Sweden,Estonia,Johanna Magnusson,Clara Nistad,0,Kati-Kreet Käsner,Helina Rüütel,0,21,19,21,10,0,0,42,29,2,0,5,0,4,3,1,0,1
+323,Petronas_Malaysia_Open,2023-01-12,Malaysia,WD,4,0,33,China,Malaysia,Zhang Shu Xian,Zheng Yu,0,Go Pei Kee,Teoh Mei Xing,0,21,10,21,7,0,0,42,17,2,0,4,0,10,3,1,0,1
+324,Petronas_Malaysia_Open,2023-01-11,Malaysia,WD,6,0,51,Usa,Spain,Srivedya Gurazada,Ishika Jaiswal,0,Clara Azurmendi,Beatriz Corrales,0,21,17,18,21,21,16,60,54,2,1,5,3,5,4,1,0,1
+325,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WD,4,0,26,Malaysia,Brazil,Vivian Hoo,Lim Chiew Sien,0,Jaqueline Lima,Samia Lima,0,21,10,21,5,0,0,42,15,2,0,5,0,11,4,1,0,1
+326,Yonex_All_England_Open,2022-03-16,England,WD,4,0,44,Japan,Germany,Nami Matsuyama,Chiharu Shida,7,Linda Efler,Isabel Lohau,0,21,18,21,18,0,0,42,36,2,0,2,0,5,6,5,0,1
+327,Petronas_Malaysia_Open,2023-01-12,Malaysia,WD,4,0,31,China,Indonesia,Chen Qing Chen,Jia Yi Fan,1,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,21,7,21,9,0,0,42,16,2,0,2,0,10,3,5,0,1
+328,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WD,4,0,37,Japan,Thailand,Yuki Fukushima,Sayaka Hirota,4,Benyapa Aimsaard,Nuntakarn Aimsaard,0,21,14,21,15,0,0,42,29,2,0,7,0,12,4,3,0,1
+329,Petronas_Malaysia_Open,2023-01-14,Malaysia,WD,2,1,33,China,Indonesia,Chen Qing Chen,Jia Yi Fan,1,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,21,9,0,0,0,0,21,9,1,0,1,0,6,2,8,1,1
+330,Petronas_Malaysia_Open,2023-01-10,Malaysia,WD,4,0,36,Korea,England,Jeong Na Eun,Kim Hye Jeong,0,Chloe Birch,Lauren Smith,0,21,16,21,11,0,0,42,27,2,0,3,0,5,3,1,0,1
+331,Petronas_Malaysia_Open,2023-01-15,Malaysia,WD,4,0,52,China,Korea,Chen Qing Chen,Jia Yi Fan,1,Baek Ha Na,Lee Yu Lim,0,21,16,21,10,0,0,42,26,2,0,2,0,6,3,2,1,1
+332,Yonex_All_England_Open,2022-03-16,England,WD,4,0,40,Korea,Malaysia,Kim So Yeong,Kong Hee Yong,3,Vivian Hoo,Lim Chiew Sien,0,21,9,21,12,0,0,42,21,2,0,4,0,5,2,1,0,1
+333,Petronas_Malaysia_Open,2023-01-13,Malaysia,WD,4,0,41,Korea,Singapore,Baek Ha Na,Lee Yu Lim,0,Jin Yu Jia,Wong Jia Ying Crystal,0,21,10,21,6,0,0,42,16,2,0,4,0,10,2,1,0,1
+334,Petronas_Malaysia_Open,2023-01-10,Malaysia,WD,4,0,26,China,Netherlands,Chen Qing Chen,Jia Yi Fan,1,Debora Jille,Cheryl Seinen,0,21,11,21,14,0,0,42,25,2,0,6,0,6,3,1,0,1
+335,Petronas_Malaysia_Open,2023-01-14,Malaysia,WD,4,0,72,Korea,China,Baek Ha Na,Lee Yu Lim,0,Zhang Shu Xian,Zheng Yu,0,21,17,23,21,0,0,44,38,2,0,4,1,5,6,1,1,1
+336,Petronas_Malaysia_Open,2023-01-11,Malaysia,WD,4,0,28,Thailand,India,Supissara Paewsampran,Puttita Supajirakul,0,Ashwini Bhat K.,Shikha Gautam,0,21,10,21,12,0,0,42,22,2,0,3,0,6,2,2,0,1
+337,Yonex_All_England_Open,2022-03-16,England,WD,4,0,28,Canada,India,Rachel Honderich,Kristen Tsai,0,Srivedya Gurazada,Ishika Jaiswal,0,21,9,21,4,0,0,42,13,2,0,2,0,6,3,1,0,1
+338,Petronas_Malaysia_Open,2023-01-11,Malaysia,WD,6,0,57,Singapore,Scotland,Jin Yu Jia,Wong Jia Ying Crystal,0,Julie Macpherson,Ciara Torrance,0,20,22,21,14,21,19,62,55,2,1,4,6,5,8,1,0,1
+339,Petronas_Malaysia_Open,2023-01-10,Malaysia,WD,4,0,32,Indonesia,France,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,Margot Lambert,Anne Tran,0,21,16,21,15,0,0,42,31,2,0,2,0,5,5,3,1,1
+340,Petronas_Malaysia_Open,2023-01-13,Malaysia,WD,4,0,49,China,China,Zhang Shu Xian,Zheng Yu,0,Li Wen Mei,Liu Xuan Xuan,0,21,19,21,19,0,0,42,38,2,0,4,0,7,5,2,1,1
+341,Yonex_All_England_Open,2023-03-16,England,WD,4,0,51,Indonesia,Thailand,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,8,Supissara Paewsampran,Puttita Supajirakul,0,21,16,21,19,0,0,42,35,2,0,6,0,5,4,5,0,1
+342,Yonex_All_England_Open,2023-03-14,England,WD,4,0,35,England,Usa,Chloe Birch,Lauren Smith,0,Srivedya Gurazada,Ishika Jaiswal,0,21,9,21,18,0,0,42,27,2,0,2,0,6,5,1,0,1
+343,Yonex_All_England_Open,2022-03-16,England,WD,4,0,22,Thailand,India,Supissara Paewsampran,Puttita Supajirakul,0,Jakkampudi Meghana,S Ram Poorvisha,0,21,5,21,3,0,0,42,8,2,0,3,0,10,2,1,0,1
+344,Petronas_Malaysia_Open,2023-01-12,Malaysia,WD,4,0,27,Korea,Usa,Baek Ha Na,Lee Yu Lim,0,Srivedya Gurazada,Ishika Jaiswal,0,21,2,21,6,0,0,42,8,2,0,2,0,12,1,1,0,1
+345,Yonex_All_England_Open,2023-03-16,England,WD,4,0,32,Japan,England,Mayu Matsumoto,Wakana Nagahara,0,Chloe Birch,Lauren Smith,0,21,9,21,10,0,0,42,19,2,0,2,0,7,3,4,0,1
+346,Yonex_All_England_Open,2023-03-17,England,WD,6,0,93,Korea,Indonesia,Baek Ha Na,Lee So Hee,0,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,8,21,11,14,21,21,14,56,46,2,1,3,1,7,6,4,1,1
+347,Yonex_All_England_Open,2023-03-18,England,WD,4,0,46,Korea,India,Baek Ha Na,Lee So Hee,0,Treesa Jolly,Gayatri Gopichand Pullela,0,21,10,21,10,0,0,42,20,2,0,2,0,8,3,2,1,1
+348,Petronas_Malaysia_Open,2023-01-12,Malaysia,WD,4,0,48,Korea,Thailand,Kim So Yeong,Kong Hee Yong,3,Benyapa Aimsaard,Nuntakarn Aimsaard,0,21,17,23,21,0,0,44,38,2,0,2,2,5,4,5,0,1
+349,Yonex_All_England_Open,2022-03-16,England,WD,4,0,35,Japan,India,Rin Iwanaga,Kie Nakanishi,0,Ashwini Ponnappa,Reddy Sikki,0,21,9,21,13,0,0,42,22,2,0,4,0,5,3,1,0,1
+350,Yonex_All_England_Open,2023-03-17,England,WD,6,0,93,Korea,China,Kim So Yeong,Kong Hee Yong,6,Chen Qing Chen,Jia Yi Fan,1,19,21,22,20,24,22,65,63,2,1,7,2,5,5,5,12,1
+351,Petronas_Malaysia_Open,2023-01-11,Malaysia,WD,4,0,35,Malaysia,Malaysia,Go Pei Kee,Teoh Mei Xing,0,Vivian Hoo,Lim Chiew Sien,0,21,13,21,13,0,0,42,26,2,0,5,0,6,4,1,0,1
+352,Yonex_All_England_Open,2023-03-18,England,WD,4,0,55,Korea,China,Kim So Yeong,Kong Hee Yong,6,Zhang Shu Xian,Zheng Yu,0,21,14,25,23,0,0,46,37,2,0,8,1,5,4,2,0,1
+353,Petronas_Malaysia_Open,2023-01-12,Malaysia,WD,6,0,89,China,China,Li Wen Mei,Liu Xuan Xuan,0,Du Yue,Xia Yu Ting,0,21,12,17,21,21,14,59,47,2,1,3,2,8,7,1,0,1
+354,Petronas_Malaysia_Open,2023-01-10,Malaysia,WD,4,0,30,Thailand,Germany,Benyapa Aimsaard,Nuntakarn Aimsaard,0,Linda Efler,Isabel Lohau,0,21,16,21,15,0,0,42,31,2,0,2,0,7,3,2,0,1
+355,Yonex_All_England_Open,2020-03-11,England,WD,4,0,30,Japan,Netherlands,Mayu Matsumoto,Wakana Nagahara,2,Selena Piek,Cheryl Seinen,0,21,12,21,12,0,0,42,24,2,0,0,0,0,0,5,1,1
+356,Yonex_All_England_Open,2022-03-16,England,WD,4,0,27,Malaysia,Brazil,Tan Pearly,Thinaah Muralitharan,0,Jaqueline Lima,Samia Lima,0,21,8,21,12,0,0,42,20,2,0,3,0,12,3,1,0,1
+357,Petronas_Malaysia_Open,2023-01-11,Malaysia,WD,4,0,27,China,Hongkong,Li Wen Mei,Liu Xuan Xuan,0,Ng Tsz Yau,Tsang Hiu Yan,0,21,7,21,11,0,0,42,18,2,0,4,0,12,3,3,0,1
+358,Yonex_All_England_Open,2023-03-19,England,WD,4,0,43,Korea,Korea,Kim So Yeong,Kong Hee Yong,6,Baek Ha Na,Lee So Hee,0,21,5,21,12,0,0,42,17,2,0,3,0,8,4,1,6,1
+359,Yonex_All_England_Open,2023-03-17,England,WD,6,0,64,India,China,Treesa Jolly,Gayatri Gopichand Pullela,0,Li Wen Mei,Liu Xuan Xuan,0,21,14,18,21,21,12,60,47,2,1,3,3,7,5,1,0,1
+360,Yonex_All_England_Open,2023-03-15,England,WD,4,0,37,Korea,India,Baek Ha Na,Lee So Hee,0,Ashwini Bhat K.,Shikha Gautam,0,21,9,21,8,0,0,42,17,2,0,3,0,9,2,2,0,1
+361,Yonex_All_England_Open,2022-03-16,England,WD,4,0,47,China,France,Liu Xuan Xuan,Xia Yu Ting,0,Margot Lambert,Anne Tran,0,21,14,21,18,0,0,42,32,2,0,3,0,5,3,1,0,1
+362,Yonex_All_England_Open,2023-03-14,England,WD,6,0,55,Japan,Malaysia,Mayu Matsumoto,Wakana Nagahara,0,Tan Pearly,Thinaah Muralitharan,5,21,13,15,21,21,15,57,49,2,1,3,1,4,6,2,4,1
+363,Yonex_All_England_Open,2023-03-15,England,WD,4,0,46,India,Thailand,Treesa Jolly,Gayatri Gopichand Pullela,0,Jongkolphan Kititharakul,Rawinda Prajongjai,7,21,18,21,14,0,0,42,32,2,0,5,0,8,3,2,5,1
+364,Yonex_All_England_Open,2023-03-16,England,WD,4,0,50,India,Japan,Treesa Jolly,Gayatri Gopichand Pullela,0,Yuki Fukushima,Sayaka Hirota,0,21,14,24,22,0,0,45,36,2,0,8,0,5,5,2,0,1
+365,Yonex_All_England_Open,2020-03-11,England,WD,4,0,40,Japan,Russia,Nami Matsuyama,Chiharu Shida,0,Anastasiia Akchurina,Olga Morozova,0,21,15,21,17,0,0,42,32,2,0,0,0,0,0,2,0,1
+366,Yonex_All_England_Open,2022-03-16,England,WD,6,0,82,Korea,Bulgaria,Lee So Hee,Shin Seung Chan,2,Gabriela Stoeva,Stefani Stoeva,0,16,21,23,21,23,21,62,63,2,1,5,3,4,5,8,2,1
+367,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WD,6,0,72,Japan,India,Rin Iwanaga,Kie Nakanishi,0,Treesa Jolly,Gayatri Gopichand Pullela,0,20,22,21,12,21,16,62,50,2,1,3,1,6,5,1,0,1
+368,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,29,Thailand,Singapore,Jongkolphan Kititharakul,Rawinda Prajongjai,0,Jin Yu Jia,Wong Jia Ying Crystal,0,21,9,21,8,0,0,42,17,2,0,4,0,7,2,1,0,1
+369,Petronas_Malaysia_Open,2023-01-12,Malaysia,WD,4,0,53,Singapore,Thailand,Jin Yu Jia,Wong Jia Ying Crystal,0,Supissara Paewsampran,Puttita Supajirakul,0,21,18,25,23,0,0,46,41,2,0,5,5,5,4,1,1,1
+370,Yonex_All_England_Open,2023-03-17,England,WD,4,0,47,China,Japan,Zhang Shu Xian,Zheng Yu,0,Mayu Matsumoto,Wakana Nagahara,0,21,13,22,20,0,0,43,33,2,0,5,0,4,4,2,2,1
+371,Yonex_All_England_Open,2023-03-16,England,WD,6,0,76,Korea,Japan,Baek Ha Na,Lee So Hee,0,Nami Matsuyama,Chiharu Shida,2,18,21,21,19,21,9,60,49,2,1,7,1,9,5,8,2,1
+372,Yonex_All_England_Open,2023-03-14,England,WD,6,0,66,France,Malaysia,Margot Lambert,Anne Tran,0,Vivian Hoo,Lim Chiew Sien,0,21,19,18,21,21,15,60,55,2,1,5,1,6,4,1,0,1
+373,Yonex_All_England_Open,2020-03-11,England,WD,4,0,21,Indonesia,Egypt,Siti Fadia Silva Ramadhanti,Ribka Sugiarto,0,Doha Hany,Hadia Hosny,0,21,8,21,11,0,0,42,19,2,0,0,0,0,0,1,0,1
+374,Yonex_All_England_Open,2023-03-14,England,WD,4,0,29,Korea,Germany,Kim So Yeong,Kong Hee Yong,6,Linda Efler,Isabel Lohau,0,21,11,21,3,0,0,42,14,2,0,4,0,15,4,8,0,1
+375,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WD,4,0,39,China,Indonesia,Chen Qing Chen,Jia Yi Fan,1,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,21,11,21,12,0,0,42,23,2,0,2,0,7,4,5,0,1
+376,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,52,Indonesia,Germany,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,4,Linda Efler,Isabel Lohau,0,26,24,21,15,0,0,47,39,2,0,5,3,6,5,2,0,1
+377,Kapal_Api_Group_Indonesia_Open,2023-06-18,Indonesia,WD,4,0,68,Korea,Japan,Baek Ha Na,Lee So Hee,0,Yuki Fukushima,Sayaka Hirota,7,22,20,21,10,0,0,43,30,2,0,3,0,5,4,3,1,1
+378,Kapal_Api_Group_Indonesia_Open,2023-06-17,Indonesia,WD,4,0,52,Korea,Korea,Baek Ha Na,Lee So Hee,0,Jeong Na Eun,Kim Hye Jeong,0,21,13,21,10,0,0,42,23,2,0,4,0,7,2,3,0,1
+379,Yonex_All_England_Open,2023-03-14,England,WD,6,0,68,Denmark,Netherlands,Maiken Fruergaard,Sara Thygesen,0,Debora Jille,Cheryl Seinen,0,21,18,21,23,21,16,63,57,2,1,6,4,6,4,2,0,1
+380,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,WD,4,0,61,Japan,Indonesia,Yuki Fukushima,Sayaka Hirota,7,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,4,21,13,21,13,0,0,42,26,2,0,3,0,7,3,3,2,1
+381,Yonex_All_England_Open,2023-03-16,England,WD,4,0,41,China,Denmark,Chen Qing Chen,Jia Yi Fan,1,Maiken Fruergaard,Sara Thygesen,0,21,12,21,15,0,0,42,27,2,0,2,0,7,5,9,0,1
+382,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WD,4,0,45,Indonesia,Indonesia,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,Lanny Tria Mayasari,Ribka Sugiarto,0,21,15,21,18,0,0,42,33,2,0,2,0,5,4,3,1,1
+383,Kapal_Api_Group_Indonesia_Open,2023-06-17,Indonesia,WD,6,0,80,Japan,Japan,Yuki Fukushima,Sayaka Hirota,7,Mayu Matsumoto,Wakana Nagahara,0,21,16,12,21,21,13,54,50,2,1,3,1,4,7,7,8,1
+384,Yonex_All_England_Open,2023-03-14,England,WD,4,0,33,China,Japan,Zhang Shu Xian,Zheng Yu,0,Rui Hirokami,Yuna Kato,0,21,11,21,12,0,0,42,23,2,0,4,0,6,4,2,0,1
+385,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WD,6,0,70,Japan,Chinesetaipei,Yuki Fukushima,Sayaka Hirota,7,Lee Chia Hsin,Teng Chun Hsun,0,15,21,21,17,21,8,57,46,2,1,2,2,12,5,1,0,1
+386,Yonex_All_England_Open,2023-03-15,England,WD,6,0,67,Thailand,Singapore,Supissara Paewsampran,Puttita Supajirakul,0,Jin Yu Jia,Wong Jia Ying Crystal,0,21,14,20,22,21,12,62,48,2,1,3,3,7,4,1,1,1
+387,Yonex_All_England_Open,2023-03-15,England,WD,2,1,25,Japan,Scotland,Yuki Fukushima,Sayaka Hirota,0,Julie Macpherson,Ciara Torrance,0,21,10,0,0,0,0,21,10,1,0,1,0,7,2,1,0,1
+388,Victor_China_Open,2023-09-05,China,WD,4,0,46,China,India,Chen Qing Chen,Jia Yi Fan,1,Treesa Jolly,Gayatri Gopichand Pullela,0,21,18,21,11,0,0,42,29,2,0,2,0,7,3,4,0,1
+389,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,37,Japan,England,Yuki Fukushima,Sayaka Hirota,7,Chloe Birch,Lauren Smith,0,21,11,21,17,0,0,42,28,2,0,3,0,8,5,8,0,1
+390,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WD,4,0,41,China,France,Zhang Shu Xian,Zheng Yu,0,Margot Lambert,Anne Tran,0,21,14,21,18,0,0,42,32,2,0,3,0,5,3,2,0,1
+391,Yonex_All_England_Open,2023-03-15,England,WD,4,0,43,China,Hongkong,Li Wen Mei,Liu Xuan Xuan,0,Ng Tsz Yau,Tsang Hiu Yan,0,21,13,21,14,0,0,42,27,2,0,4,0,6,3,3,0,1
+392,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,WD,4,0,54,Korea,China,Baek Ha Na,Lee So Hee,0,Chen Qing Chen,Jia Yi Fan,1,21,18,21,12,0,0,42,30,2,0,3,0,9,4,4,4,1
+393,Yonex_All_England_Open,2023-03-14,England,WD,4,0,31,Chinesetaipei,Bulgaria,Lee Chia Hsin,Teng Chun Hsun,0,Gabriela Stoeva,Stefani Stoeva,0,21,19,21,16,0,0,42,35,2,0,4,0,4,5,1,0,1
+394,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WD,6,0,49,Japan,Thailand,Mayu Matsumoto,Wakana Nagahara,0,Benyapa Aimsaard,Nuntakarn Aimsaard,0,9,21,21,9,21,12,51,42,2,1,5,1,7,8,4,1,1
+395,Yonex_All_England_Open,2023-03-14,England,WD,4,0,37,China,Japan,Chen Qing Chen,Jia Yi Fan,1,Rin Iwanaga,Kie Nakanishi,0,21,11,21,13,0,0,42,24,2,0,3,0,7,3,4,0,1
+396,Victor_China_Open,2023-09-06,China,WD,4,0,47,Korea,China,Baek Ha Na,Lee So Hee,0,Li Wen Mei,Liu Xuan Xuan,0,21,18,21,13,0,0,42,31,2,0,7,0,8,5,4,0,1
+397,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,WD,6,0,97,Korea,China,Jeong Na Eun,Kim Hye Jeong,0,Zhang Shu Xian,Zheng Yu,0,21,19,12,21,21,18,54,58,2,1,2,2,5,5,3,3,1
+398,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,WD,4,0,35,Japan,Japan,Mayu Matsumoto,Wakana Nagahara,0,Rena Miyaura,Ayako Sakuramoto,0,21,16,21,12,0,0,42,28,2,0,3,0,5,4,1,1,1
+399,Yonex_All_England_Open,2023-03-15,England,WD,4,0,32,Japan,Canada,Nami Matsuyama,Chiharu Shida,2,Catherine Choi,Josephine Wu,0,21,18,21,7,0,0,42,25,2,0,4,0,7,3,2,0,1
+400,Victor_China_Open,2023-09-06,China,WD,6,0,67,Korea,Thailand,Jeong Na Eun,Kim Hye Jeong,0,Benyapa Aimsaard,Nuntakarn Aimsaard,0,21,13,24,26,21,15,66,54,2,1,6,5,7,5,4,4,1
+401,Victor_China_Open,2023-09-05,China,WD,4,0,36,Denmark,Chinesetaipei,Maiken Fruergaard,Sara Thygesen,0,Lee Chia Hsin,Teng Chun Hsun,0,21,15,21,18,0,0,42,33,2,0,3,0,5,4,1,0,1
+402,Victor_China_Open,2023-09-05,China,WD,6,0,71,Chinesetaipei,China,Hsu Ya Ching,Lin Wan Ching,0,Li Yi Jing,Luo Xu Min,0,17,21,22,20,25,23,64,64,2,1,4,5,7,5,1,4,1
+403,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,45,Japan,Korea,Mayu Matsumoto,Wakana Nagahara,0,Kim So Yeong,Kong Hee Yong,8,21,17,21,16,0,0,42,33,2,0,2,0,5,4,5,8,1
+404,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WD,4,0,59,Indonesia,Malaysia,Meilysa Trias Puspitasari,Rachel Allessya Rose,0,Vivian Hoo,Lim Chiew Sien,0,21,18,23,21,0,0,44,39,2,0,4,1,7,4,1,1,1
+405,Yonex_All_England_Open,2023-03-16,England,WD,4,0,41,China,Hongkong,Li Wen Mei,Liu Xuan Xuan,0,Yeung Nga Ting,Yeung Pui Lam,0,21,7,24,22,0,0,45,29,2,0,7,2,6,6,3,0,1
+406,Yonex_All_England_Open,2023-03-15,England,WD,6,0,73,Hongkong,Korea,Yeung Nga Ting,Yeung Pui Lam,0,Jeong Na Eun,Kim Hye Jeong,0,12,21,21,19,21,14,54,54,2,1,3,3,8,5,1,1,1
+407,Victor_China_Open,2023-09-08,China,WD,4,0,45,China,Japan,Chen Qing Chen,Jia Yi Fan,1,Yuki Fukushima,Sayaka Hirota,5,21,18,21,11,0,0,42,29,2,0,6,0,5,4,12,10,1
+408,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WD,4,0,32,Indonesia,Canada,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,4,Catherine Choi,Josephine Wu,0,21,13,21,10,0,0,42,23,2,0,2,0,5,2,2,0,1
+409,Victor_China_Open,2023-09-08,China,WD,6,0,75,Korea,Indonesia,Baek Ha Na,Lee So Hee,0,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,21,15,18,21,21,10,60,46,2,1,6,1,5,5,4,1,1
+410,Yonex_All_England_Open,2023-03-16,England,WD,4,0,53,China,France,Zhang Shu Xian,Zheng Yu,0,Margot Lambert,Anne Tran,0,21,19,24,22,0,0,45,41,2,0,4,2,4,6,2,0,1
+411,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WD,4,0,51,Korea,Hongkong,Jeong Na Eun,Kim Hye Jeong,0,Yeung Nga Ting,Yeung Pui Lam,0,23,21,21,11,0,0,44,32,2,0,4,1,12,5,1,1,1
+412,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,30,Canada,Indonesia,Catherine Choi,Josephine Wu,0,Ridya Aulia Fatasya,Kelly Larissa,0,21,17,21,12,0,0,42,29,2,0,6,0,9,3,1,0,1
+413,Victor_China_Open,2023-09-05,China,WD,6,0,69,Hongkong,Japan,Yeung Nga Ting,Yeung Pui Lam,0,Rin Iwanaga,Kie Nakanishi,0,17,21,21,15,21,9,59,45,2,1,3,2,5,5,1,1,1
+414,Victor_China_Open,2023-09-07,China,WD,4,0,36,China,Hongkong,Chen Qing Chen,Jia Yi Fan,1,Yeung Nga Ting,Yeung Pui Lam,0,21,15,21,19,0,0,42,34,2,0,3,0,6,7,4,0,1
+415,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,48,Korea,Japan,Baek Ha Na,Lee So Hee,0,Rui Hirokami,Yuna Kato,0,21,16,21,12,0,0,42,28,2,0,2,0,4,2,2,0,1
+416,Yonex_All_England_Open,2023-03-16,England,WD,4,0,33,Korea,Chinesetaipei,Kim So Yeong,Kong Hee Yong,6,Lee Chia Hsin,Teng Chun Hsun,0,21,11,21,13,0,0,42,24,2,0,3,0,4,3,2,0,1
+417,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WD,4,0,31,Korea,Usa,Jeong Na Eun,Kim Hye Jeong,0,Srivedya Gurazada,Ishika Jaiswal,0,21,15,21,7,0,0,42,22,2,0,3,0,9,3,1,0,1
+418,Yonex_All_England_Open,2023-03-15,England,WD,4,0,32,Indonesia,Brazil,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,8,Jaqueline Lima,Samia Lima,0,21,12,21,14,0,0,42,26,2,0,3,0,9,3,1,0,1
+419,Victor_China_Open,2023-09-07,China,WD,4,0,34,Japan,Denmark,Mayu Matsumoto,Wakana Nagahara,4,Maiken Fruergaard,Sara Thygesen,0,21,12,21,15,0,0,42,27,2,0,4,0,6,3,7,0,1
+420,Victor_China_Open,2023-09-06,China,WD,6,0,80,Indonesia,Thailand,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Jongkolphan Kititharakul,Rawinda Prajongjai,0,17,21,21,12,21,19,59,52,2,1,3,2,5,4,4,1,1
+421,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WD,4,0,38,Hongkong,Scotland,Yeung Nga Ting,Yeung Pui Lam,0,Julie Macpherson,Ciara Torrance,0,21,16,21,17,0,0,42,33,2,0,3,0,5,5,1,0,1
+422,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,43,Chinesetaipei,Netherlands,Lee Chia Hsin,Teng Chun Hsun,0,Debora Jille,Cheryl Seinen,0,21,14,21,19,0,0,42,33,2,0,4,0,6,7,2,0,1
+423,Victor_China_Open,2023-09-09,China,WD,6,0,73,China,Japan,Chen Qing Chen,Jia Yi Fan,1,Nami Matsuyama,Chiharu Shida,3,20,22,21,15,21,16,62,53,2,1,3,2,4,5,12,5,1
+424,Victor_China_Open,2023-09-10,China,WD,4,0,50,China,Korea,Chen Qing Chen,Jia Yi Fan,1,Baek Ha Na,Lee So Hee,0,21,11,21,17,0,0,42,28,2,0,4,0,10,4,4,4,1
+425,Victor_China_Open,2023-09-08,China,WD,4,0,45,Japan,Japan,Nami Matsuyama,Chiharu Shida,3,Mayu Matsumoto,Wakana Nagahara,4,21,14,21,16,0,0,42,30,2,0,5,0,4,4,4,4,1
+426,Victor_China_Open,2023-09-07,China,WD,4,0,36,Japan,Chinesetaipei,Nami Matsuyama,Chiharu Shida,3,Hsu Ya Ching,Lin Wan Ching,0,21,16,21,16,0,0,42,32,2,0,4,0,6,5,2,0,1
+427,Victor_China_Open,2023-09-09,China,WD,4,0,43,Korea,Japan,Baek Ha Na,Lee So Hee,0,Rena Miyaura,Ayako Sakuramoto,0,21,18,21,14,0,0,42,32,2,0,4,0,6,4,2,1,1
+428,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WD,6,0,69,Japan,Thailand,Rena Miyaura,Ayako Sakuramoto,0,Jongkolphan Kititharakul,Rawinda Prajongjai,0,13,21,21,16,21,18,55,55,2,1,3,1,7,5,1,0,1
+429,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,6,0,60,Japan,Japan,Rena Miyaura,Ayako Sakuramoto,0,Nami Matsuyama,Chiharu Shida,2,21,16,19,21,21,17,61,54,2,1,4,3,3,3,2,2,1
+430,Victor_China_Open,2023-09-08,China,WD,6,0,75,Japan,China,Rena Miyaura,Ayako Sakuramoto,0,Liu Sheng Shu,Tan Ning,0,20,22,21,18,21,16,62,56,2,1,7,1,5,4,3,1,1
+431,Yonex_All_England_Open,2022-03-16,England,WD,4,0,31,Netherlands,Spain,Debora Jille,Cheryl Seinen,0,Clara Azurmendi,Beatriz Corrales,0,21,16,21,9,0,0,42,25,2,0,2,0,7,4,2,0,1
+432,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WD,6,0,85,Korea,Japan,Baek Ha Na,Lee So Hee,0,Rin Iwanaga,Kie Nakanishi,0,21,15,17,21,21,10,59,46,2,1,4,2,10,4,6,0,1
+433,Victor_China_Open,2023-09-06,China,WD,4,0,42,China,Korea,Liu Sheng Shu,Tan Ning,0,Lee Yu Lim,Shin Seung Chan,0,21,19,21,7,0,0,42,26,2,0,3,0,12,7,2,0,1
+434,Victor_China_Open,2023-09-07,China,WD,4,0,47,Japan,Malaysia,Yuki Fukushima,Sayaka Hirota,5,Tan Pearly,Thinaah Muralitharan,0,21,16,21,16,0,0,42,32,2,0,4,0,7,5,4,3,1
+435,Petronas_Malaysia_Open,2024-01-11,Malaysia,WD,4,0,46,China,Denmark,Chen Qing Chen,Jia Yi Fan,1,Maiken Fruergaard,Sara Thygesen,0,21,13,22,20,0,0,43,33,2,0,4,0,7,5,9,0,1
+436,Petronas_Malaysia_Open,2024-01-10,Malaysia,WD,4,0,43,Korea,Malaysia,Baek Ha Na,Lee So Hee,8,Anna Ching Yik Cheong,Teoh Mei Xing,0,21,14,21,13,0,0,42,27,2,0,2,0,5,3,1,0,1
+437,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WD,4,0,41,China,Indonesia,Zhang Shu Xian,Zheng Yu,0,Meilysa Trias Puspitasari,Rachel Allessya Rose,0,21,18,21,8,0,0,42,26,2,0,4,0,6,2,4,0,1
+438,Petronas_Malaysia_Open,2024-01-12,Malaysia,WD,4,0,40,Korea,China,Baek Ha Na,Lee So Hee,8,Li Wen Mei,Liu Xuan Xuan,0,21,13,21,14,0,0,42,27,2,0,6,0,4,3,4,0,1
+439,Victor_China_Open,2023-09-05,China,WD,6,0,54,Malaysia,Netherlands,Tan Pearly,Thinaah Muralitharan,0,Debora Jille,Cheryl Seinen,0,17,21,21,17,21,10,59,48,2,1,2,4,6,4,1,0,1
+440,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,28,Thailand,Usa,Benyapa Aimsaard,Nuntakarn Aimsaard,0,Annie Xu,Kerry Xu,0,21,11,21,15,0,0,42,26,2,0,3,0,5,5,2,0,1
+441,Petronas_Malaysia_Open,2024-01-12,Malaysia,WD,4,0,39,Japan,India,Rin Iwanaga,Kie Nakanishi,0,Tanisha Crasto,Ashwini Ponnappa,0,21,15,21,13,0,0,42,28,2,0,3,0,5,4,2,0,1
+442,Petronas_Malaysia_Open,2024-01-09,Malaysia,WD,2,1,13,Japan,Korea,Rin Iwanaga,Kie Nakanishi,0,Jeong Na Eun,Kim Hye Jeong,5,14,8,0,0,0,0,14,8,1,0,0,0,5,3,1,2,1
+443,Victor_China_Open,2023-09-05,China,WD,4,0,34,Japan,Germany,Yuki Fukushima,Sayaka Hirota,5,Linda Efler,Isabel Lohau,0,21,6,21,8,0,0,42,14,2,0,2,0,9,2,7,0,1
+444,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WD,4,0,48,China,China,Chen Qing Chen,Jia Yi Fan,1,Li Wen Mei,Liu Xuan Xuan,0,21,17,21,16,0,0,42,33,2,0,3,0,6,4,2,0,1
+445,Victor_China_Open,2023-09-07,China,WD,4,0,34,Japan,Malaysia,Rena Miyaura,Ayako Sakuramoto,0,Anna Ching Yik Cheong,Teoh Mei Xing,0,21,11,21,18,0,0,42,29,2,0,4,0,8,5,1,0,1
+446,Petronas_Malaysia_Open,2024-01-13,Malaysia,WD,4,0,45,China,Korea,Zhang Shu Xian,Zheng Yu,0,Baek Ha Na,Lee So Hee,8,21,17,21,17,0,0,42,34,2,0,3,0,4,4,1,3,1
+447,Victor_China_Open,2023-09-07,China,WD,4,0,45,Korea,Malaysia,Baek Ha Na,Lee So Hee,0,Vivian Hoo,Lim Chiew Sien,0,21,17,21,14,0,0,42,31,2,0,4,0,6,3,2,0,1
+448,Petronas_Malaysia_Open,2024-01-09,Malaysia,WD,4,0,35,Korea,Chinesetaipei,Kim So Yeong,Kong Hee Yong,3,Lee Chia Hsin,Teng Chun Hsun,0,21,11,21,11,0,0,42,22,2,0,2,0,6,2,2,0,1
+449,Victor_China_Open,2023-09-06,China,WD,6,0,66,Malaysia,Japan,Vivian Hoo,Lim Chiew Sien,0,Rui Hirokami,Yuna Kato,0,12,21,21,11,22,20,55,52,2,1,3,2,5,4,1,0,1
+450,Petronas_Malaysia_Open,2024-01-14,Malaysia,WD,4,0,52,China,China,Liu Sheng Shu,Tan Ning,0,Zhang Shu Xian,Zheng Yu,0,21,18,21,18,0,0,42,36,2,0,2,0,5,4,4,2,1
+451,Petronas_Malaysia_Open,2024-01-13,Malaysia,WD,4,0,47,China,Japan,Liu Sheng Shu,Tan Ning,0,Rin Iwanaga,Kie Nakanishi,0,21,11,21,16,0,0,42,27,2,0,3,0,5,3,1,1,1
+452,Victor_China_Open,2023-09-05,China,WD,4,0,32,Japan,Bulgaria,Mayu Matsumoto,Wakana Nagahara,4,Gabriela Stoeva,Stefani Stoeva,0,21,10,21,13,0,0,42,23,2,0,4,0,12,3,8,0,1
+453,Petronas_Malaysia_Open,2024-01-10,Malaysia,WD,4,0,38,Japan,Usa,Nami Matsuyama,Chiharu Shida,0,Paula Lynn Cao Hok,Lauren Lam,0,21,11,21,9,0,0,42,20,2,0,2,0,5,3,2,0,1
+454,Petronas_Malaysia_Open,2024-01-11,Malaysia,WD,4,0,32,China,Usa,Zhang Shu Xian,Zheng Yu,0,Annie Xu,Kerry Xu,0,21,14,21,8,0,0,42,22,2,0,4,0,6,3,2,0,1
+455,Petronas_Malaysia_Open,2024-01-12,Malaysia,WD,4,0,42,China,Japan,Zhang Shu Xian,Zheng Yu,0,Rena Miyaura,Ayako Sakuramoto,0,21,17,21,15,0,0,42,32,2,0,2,0,6,4,2,2,1
+456,Yonex_All_England_Open,2024-03-12,England,WD,4,0,33,Thailand,Chinesetaipei,Benyapa Aimsaard,Nuntakarn Aimsaard,0,Lee Chia Hsin,Teng Chun Hsun,0,21,18,21,12,0,0,42,30,2,0,2,0,7,4,1,0,1
+457,Victor_China_Open,2023-09-05,China,WD,6,0,78,Japan,France,Nami Matsuyama,Chiharu Shida,3,Margot Lambert,Anne Tran,6,21,15,22,24,21,18,64,57,2,1,3,4,5,5,3,0,1
+458,Petronas_Malaysia_Open,2024-01-11,Malaysia,WD,6,0,63,Japan,Japan,Rena Miyaura,Ayako Sakuramoto,0,Nami Matsuyama,Chiharu Shida,0,21,11,13,21,21,18,55,50,2,1,2,4,7,6,2,2,1
+459,Victor_China_Open,2023-09-06,China,WD,6,0,73,Malaysia,Indonesia,Anna Ching Yik Cheong,Teoh Mei Xing,0,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,19,21,21,15,22,20,62,56,2,1,3,1,9,6,1,0,1
+460,Yonex_All_England_Open,2024-03-15,England,WD,2,1,3,Japan,Thailand,Nami Matsuyama,Chiharu Shida,0,Benyapa Aimsaard,Nuntakarn Aimsaard,0,6,0,0,0,0,0,6,0,1,0,0,0,6,0,7,1,1
+461,Petronas_Malaysia_Open,2024-01-10,Malaysia,WD,4,0,46,Hongkong,Germany,Yeung Nga Ting,Yeung Pui Lam,0,Linda Efler,Isabel Lohau,0,21,17,21,16,0,0,42,33,2,0,2,0,5,4,2,1,1
+462,Yonex_All_England_Open,2024-03-14,England,WD,6,0,60,Japan,Indonesia,Rena Miyaura,Ayako Sakuramoto,0,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,14,21,21,10,21,16,56,47,2,1,2,4,7,4,1,0,1
+463,Petronas_Malaysia_Open,2024-01-11,Malaysia,WD,4,0,49,Japan,Korea,Rin Iwanaga,Kie Nakanishi,0,Kim So Yeong,Kong Hee Yong,3,21,16,21,16,0,0,42,32,2,0,3,0,7,4,2,3,1
+464,Victor_China_Open,2023-09-06,China,WD,4,0,47,Japan,China,Rena Miyaura,Ayako Sakuramoto,0,Zhang Shu Xian,Zheng Yu,6,21,18,21,18,0,0,42,36,2,0,3,0,6,4,2,2,1
+465,Petronas_Malaysia_Open,2024-01-12,Malaysia,WD,6,0,68,China,China,Liu Sheng Shu,Tan Ning,0,Chen Qing Chen,Jia Yi Fan,1,21,12,17,21,21,10,59,43,2,1,3,3,8,6,2,4,1
+466,Yonex_All_England_Open,2024-03-16,England,WD,4,0,48,Japan,Japan,Nami Matsuyama,Chiharu Shida,0,Rena Miyaura,Ayako Sakuramoto,0,21,15,21,12,0,0,42,27,2,0,5,0,5,3,2,2,1
+467,Yonex_All_England_Open,2024-03-17,England,WD,6,0,90,Korea,Japan,Baek Ha Na,Lee So Hee,2,Nami Matsuyama,Chiharu Shida,0,21,19,11,21,21,17,53,57,2,1,4,1,4,4,8,2,1
+468,Yonex_All_England_Open,2024-03-16,England,WD,6,0,86,Korea,Korea,Baek Ha Na,Lee So Hee,2,Kim So Yeong,Kong Hee Yong,3,21,17,18,21,21,16,60,54,2,1,3,1,6,5,6,1,1
+469,Victor_China_Open,2023-09-07,China,WD,4,0,57,Indonesia,Korea,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Jeong Na Eun,Kim Hye Jeong,0,21,16,21,18,0,0,42,34,2,0,4,0,4,4,3,1,1
+470,Yonex_All_England_Open,2024-03-13,England,WD,2,1,25,Korea,China,Kim So Yeong,Kong Hee Yong,3,Li Yi Jing,Luo Xu Min,0,21,14,0,0,0,0,21,14,1,0,3,0,4,4,2,0,1
+471,Petronas_Malaysia_Open,2024-01-09,Malaysia,WD,4,0,58,China,Malaysia,Liu Sheng Shu,Tan Ning,0,Tan Pearly,Thinaah Muralitharan,0,22,20,21,15,0,0,43,35,2,0,2,1,6,3,4,2,1
+472,Yonex_All_England_Open,2024-03-12,England,WD,4,0,43,Indonesia,India,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Treesa Jolly,Gayatri Gopichand Pullela,0,21,18,21,12,0,0,42,30,2,0,2,0,8,5,3,0,1
+473,Yonex_All_England_Open,2024-03-15,England,WD,6,0,73,Japan,Malaysia,Rena Miyaura,Ayako Sakuramoto,0,Tan Pearly,Thinaah Muralitharan,0,11,21,21,18,21,18,53,57,2,1,5,2,6,7,2,1,1
+474,Victor_China_Open,2023-09-07,China,WD,4,0,29,China,Usa,Liu Sheng Shu,Tan Ning,0,Paula Lynn Cao Hok,Lauren Lam,5,21,14,21,7,0,0,42,21,2,0,4,0,9,3,1,0,1
+475,Petronas_Malaysia_Open,2024-01-09,Malaysia,WD,4,0,37,Japan,India,Mayu Matsumoto,Wakana Nagahara,5,Rutaparna Panda,Swetaparna Panda,0,21,12,21,11,0,0,42,23,2,0,3,0,6,3,1,0,1
+476,Petronas_Malaysia_Open,2024-01-10,Malaysia,WD,4,0,46,China,Malaysia,Zhang Shu Xian,Zheng Yu,0,Go Pei Kee,Low Yeen Yuan,0,21,13,21,13,0,0,42,26,2,0,5,0,6,3,1,0,1
+477,Yonex_All_England_Open,2024-03-12,England,WD,4,0,48,China,China,Liu Sheng Shu,Tan Ning,0,Li Wen Mei,Liu Xuan Xuan,0,21,15,21,19,0,0,42,34,2,0,3,0,5,4,2,0,1
+478,Yonex_All_England_Open,2024-03-15,England,WD,6,0,81,Korea,China,Kim So Yeong,Kong Hee Yong,3,Zhang Shu Xian,Zheng Yu,0,15,21,21,18,21,18,57,57,2,1,4,2,4,5,2,0,1
+479,Yonex_All_England_Open,2024-03-15,England,WD,4,0,54,Korea,Japan,Baek Ha Na,Lee So Hee,2,Yuki Fukushima,Sayaka Hirota,7,21,16,21,15,0,0,42,31,2,0,2,0,7,4,3,1,1
+480,Petronas_Malaysia_Open,2024-01-10,Malaysia,WD,4,0,43,China,Malaysia,Li Wen Mei,Liu Xuan Xuan,0,Vivian Hoo,Lim Chiew Sien,0,21,15,21,16,0,0,42,31,2,0,2,0,6,4,2,0,1
+481,Petronas_Malaysia_Open,2024-01-11,Malaysia,WD,6,0,75,China,Thailand,Li Wen Mei,Liu Xuan Xuan,0,Jongkolphan Kititharakul,Rawinda Prajongjai,0,19,21,22,20,21,14,62,55,2,1,8,2,7,6,1,1,1
+482,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WD,6,0,63,Indonesia,Thailand,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,Jongkolphan Kititharakul,Rawinda Prajongjai,0,21,17,16,21,21,14,58,52,2,1,2,1,5,4,4,1,1
+483,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WD,4,0,36,Korea,India,Kim So Yeong,Kong Hee Yong,0,Rutaparna Panda,Swetaparna Panda,0,21,12,21,9,0,0,42,21,2,0,4,0,11,3,1,0,1
+484,Yonex_All_England_Open,2024-03-13,England,WD,4,0,42,Korea,Usa,Baek Ha Na,Lee So Hee,2,Francesca Corbett,Allison Lee,0,21,13,21,19,0,0,42,32,2,0,5,0,5,3,4,0,1
+485,Petronas_Malaysia_Open,2024-01-11,Malaysia,WD,4,0,47,Korea,Hongkong,Baek Ha Na,Lee So Hee,8,Yeung Nga Ting,Yeung Pui Lam,0,21,13,22,20,0,0,43,33,2,0,5,0,8,7,4,0,1
+486,Yonex_All_England_Open,2024-03-14,England,WD,4,0,49,Thailand,China,Benyapa Aimsaard,Nuntakarn Aimsaard,0,Liu Sheng Shu,Tan Ning,0,21,16,23,21,0,0,44,37,2,0,5,0,6,3,1,3,1
+487,Yonex_All_England_Open,2024-03-12,England,WD,4,0,26,Malaysia,Malaysia,Tan Pearly,Thinaah Muralitharan,0,Vivian Hoo,Lim Chiew Sien,0,21,10,21,10,0,0,42,20,2,0,2,0,5,3,3,0,1
+488,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WD,4,0,41,Korea,Hongkong,Kim So Yeong,Kong Hee Yong,0,Yeung Nga Ting,Yeung Pui Lam,0,21,13,21,11,0,0,42,24,2,0,2,0,8,3,2,0,1
+489,Petronas_Malaysia_Open,2024-01-11,Malaysia,WD,6,0,62,India,Japan,Tanisha Crasto,Ashwini Ponnappa,0,Mayu Matsumoto,Wakana Nagahara,5,21,19,13,21,21,15,55,55,2,1,4,2,5,5,1,1,1
+490,Petronas_Malaysia_Open,2024-01-09,Malaysia,WD,4,0,40,China,Netherlands,Li Yi Jing,Luo Xu Min,0,Debora Jille,Cheryl Seinen,0,21,18,21,16,0,0,42,34,2,0,3,0,4,3,1,0,1
+491,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WD,4,0,29,India,Chinesetaipei,Treesa Jolly,Gayatri Gopichand Pullela,0,Cheng Yu-Pei,Sun Yu Hsing,0,21,15,21,11,0,0,42,26,2,0,3,0,7,4,2,0,1
+492,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WD,4,0,39,China,Indonesia,Liu Sheng Shu,Tan Ning,0,Febriana Dwipuji Kusuma,Amallia Cahaya Pratiwi,0,21,13,21,12,0,0,42,25,2,0,2,0,7,4,2,0,1
+493,Yonex_All_England_Open,2024-03-13,England,WD,4,0,45,Japan,Thailand,Nami Matsuyama,Chiharu Shida,0,Jongkolphan Kititharakul,Rawinda Prajongjai,0,21,16,21,14,0,0,42,30,2,0,2,0,4,4,8,1,1
+494,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WD,4,0,40,Malaysia,Chinesetaipei,Tan Pearly,Thinaah Muralitharan,0,Sung Shuo Yun,Yu Chien Hui,0,21,19,22,20,0,0,43,39,2,0,3,1,5,4,1,0,1
+495,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WD,4,0,49,Malaysia,Indonesia,Tan Pearly,Thinaah Muralitharan,0,Apriyani Rahayu,Siti Fadia Silva Ramadhanti,0,21,18,21,19,0,0,42,37,2,0,6,0,4,4,4,3,1
+496,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,WD,4,0,51,China,Malaysia,Chen Qing Chen,Jia Yi Fan,0,Tan Pearly,Thinaah Muralitharan,0,22,20,21,18,0,0,43,38,2,0,6,0,6,5,8,1,1
+497,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WD,4,0,41,Denmark,Indonesia,Maiken Fruergaard,Sara Thygesen,1,Jesita Putri Miantoro,Febi Setianingrum,0,21,12,21,18,0,0,42,30,2,0,5,0,9,3,2,1,1
+498,Petronas_Malaysia_Open,2024-01-11,Malaysia,WD,4,0,43,China,China,Liu Sheng Shu,Tan Ning,0,Li Yi Jing,Luo Xu Min,0,21,19,21,10,0,0,42,29,2,0,2,0,8,4,5,0,1
+499,Petronas_Malaysia_Open,2024-01-09,Malaysia,WD,4,0,46,China,Korea,Chen Qing Chen,Jia Yi Fan,1,Lee Yu Lim,Shin Seung Chan,0,21,14,21,14,0,0,42,28,2,0,3,0,5,5,2,0,1
+500,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,WD,4,0,51,Japan,China,Mayu Matsumoto,Wakana Nagahara,7,Li Yi Jing,Luo Xu Min,0,21,19,21,17,0,0,42,36,2,0,2,0,4,3,2,0,1
+501,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WD,4,0,40,France,China,Margot Lambert,Anne Tran,0,Li Wen Mei,Liu Xuan Xuan,0,21,19,21,18,0,0,42,37,2,0,7,0,7,4,1,0,1
+502,Petronas_Malaysia_Open,2024-01-09,Malaysia,WD,4,0,38,India,Usa,Tanisha Crasto,Ashwini Ponnappa,0,Francesca Corbett,Allison Lee,0,21,13,21,16,0,0,42,29,2,0,3,0,7,6,1,0,1
+503,Yonex_All_England_Open,2024-03-12,England,WD,4,0,31,Usa,Canada,Paula Lynn Cao Hok,Lauren Lam,0,Jeslyn Chow,Eliana Zhang,0,21,13,21,10,0,0,42,23,2,0,5,0,6,3,1,0,1
+504,Petronas_Malaysia_Open,2024-01-09,Malaysia,WD,4,0,32,Denmark,Canada,Maiken Fruergaard,Sara Thygesen,0,Catherine Choi,Josephine Wu,0,21,13,21,11,0,0,42,24,2,0,6,0,6,2,2,0,1
+505,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WD,4,0,32,China,Chinesetaipei,Liu Sheng Shu,Tan Ning,0,Chang Ching Hui,Yang Ching Tun,0,21,7,21,12,0,0,42,19,2,0,5,0,8,2,1,0,1
+506,Petronas_Malaysia_Open,2024-01-10,Malaysia,WD,4,0,42,Japan,Japan,Rena Miyaura,Ayako Sakuramoto,0,Rui Hirokami,Yuna Kato,0,21,17,21,9,0,0,42,26,2,0,4,0,7,5,4,1,1
+507,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WD,6,0,75,Japan,India,Mayu Matsumoto,Wakana Nagahara,7,Treesa Jolly,Gayatri Gopichand Pullela,0,19,21,21,19,21,19,61,59,2,1,3,5,7,4,2,0,1
+508,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WD,4,0,28,China,Thailand,Li Yi Jing,Luo Xu Min,0,Ornnicha Jongsathapornparn,Sukitta Suwachai,0,21,8,21,7,0,0,42,15,2,0,6,0,9,3,1,0,1
+509,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WD,4,0,44,Hongkong,Malaysia,Yeung Nga Ting,Yeung Pui Lam,0,Vivian Hoo,Lim Chiew Sien,0,21,17,21,18,0,0,42,35,2,0,2,0,7,6,3,0,1
+510,Petronas_Malaysia_Open,2024-01-10,Malaysia,WD,6,0,75,Usa,France,Annie Xu,Kerry Xu,0,Margot Lambert,Anne Tran,3,19,21,21,16,21,16,61,53,2,1,7,1,5,5,1,1,1
+511,Yonex_All_England_Open,2024-03-13,England,WD,6,0,63,China,Chinesetaipei,Chen Qing Chen,Jia Yi Fan,1,Hsu Ya Ching,Lin Wan Ching,0,21,10,15,21,21,16,57,47,2,1,3,1,6,4,2,0,1
+512,Yonex_All_England_Open,2024-03-14,England,WD,6,0,55,China,India,Zhang Shu Xian,Zheng Yu,0,Tanisha Crasto,Ashwini Ponnappa,0,11,21,21,11,21,11,53,43,2,1,5,1,6,6,2,0,1
+513,Petronas_Malaysia_Open,2024-01-10,Malaysia,WD,4,0,34,Thailand,Australia,Jongkolphan Kititharakul,Rawinda Prajongjai,0,Setyana Mapasa,Angela Yu,0,21,12,21,17,0,0,42,29,2,0,2,0,5,4,2,0,1
+514,Yonex_All_England_Open,2024-03-14,England,WD,4,0,28,Korea,Canada,Kim So Yeong,Kong Hee Yong,3,Catherine Choi,Josephine Wu,0,21,9,21,11,0,0,42,20,2,0,2,0,7,2,1,0,1
+515,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WD,6,0,67,Japan,Denmark,Mayu Matsumoto,Wakana Nagahara,7,Julie Finne-Ipsen,Mai Surrow,0,24,22,18,21,21,15,63,58,2,1,3,3,4,6,2,0,1
+516,Yonex_All_England_Open,2024-03-12,England,WD,6,0,54,Japan,Japan,Rena Miyaura,Ayako Sakuramoto,0,Mayu Matsumoto,Wakana Nagahara,3,21,15,17,21,21,15,59,51,2,1,3,4,4,5,1,1,1
+517,Kapal_Api_Indonesia_Open,2024-06-09,Indonesia,WD,4,0,57,Korea,China,Baek Ha Na,Lee So Hee,2,Chen Qing Chen,Jia Yi Fan,0,21,17,21,13,0,0,42,30,2,0,2,0,8,6,4,4,1
+518,Kapal_Api_Indonesia_Open,2024-06-08,Indonesia,WD,6,0,67,China,Japan,Chen Qing Chen,Jia Yi Fan,0,Mayu Matsumoto,Wakana Nagahara,7,21,10,15,21,21,17,57,48,2,1,3,2,7,4,12,2,1
+519,Yonex_All_England_Open,2024-03-13,England,WD,4,0,37,Australia,Netherlands,Setyana Mapasa,Angela Yu,0,Debora Jille,Cheryl Seinen,0,21,18,21,16,0,0,42,34,2,0,4,0,5,4,1,0,1
+520,Kapal_Api_Indonesia_Open,2024-06-08,Indonesia,WD,4,0,46,Korea,China,Baek Ha Na,Lee So Hee,2,Liu Sheng Shu,Tan Ning,0,21,11,21,14,0,0,42,25,2,0,2,0,5,3,4,3,1
+521,Yonex_All_England_Open,2024-03-13,England,WD,4,0,47,China,Korea,Zhang Shu Xian,Zheng Yu,0,Jeong Na Eun,Kim Hye Jeong,0,21,12,22,20,0,0,43,32,2,0,3,0,5,4,3,3,1
+522,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,WD,6,0,72,Korea,Korea,Baek Ha Na,Lee So Hee,2,Kim So Yeong,Kong Hee Yong,0,21,10,16,21,21,10,58,41,2,1,4,1,6,4,6,1,1
+523,Yonex_All_England_Open,2024-03-14,England,WD,6,0,86,Japan,Australia,Yuki Fukushima,Sayaka Hirota,7,Setyana Mapasa,Angela Yu,0,21,17,19,21,21,19,61,57,2,1,6,2,6,6,1,0,1
+524,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,WD,4,0,29,China,China,Liu Sheng Shu,Tan Ning,0,Zhang Shu Xian,Zheng Yu,5,21,12,21,10,0,0,42,22,2,0,2,0,7,3,4,2,1
+525,Yonex_All_England_Open,2024-03-14,England,WD,4,0,49,Malaysia,China,Tan Pearly,Thinaah Muralitharan,0,Chen Qing Chen,Jia Yi Fan,1,22,20,21,16,0,0,43,36,2,0,6,0,6,4,1,8,1
+526,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WD,4,0,41,China,France,Chen Qing Chen,Jia Yi Fan,0,Margot Lambert,Anne Tran,0,21,17,21,19,0,0,42,36,2,0,7,0,6,4,4,0,1
+527,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WD,4,0,33,China,Chinesetaipei,Zhang Shu Xian,Zheng Yu,5,Hsu Ya Ching,Lin Wan Ching,0,21,13,21,11,0,0,42,24,2,0,3,0,6,3,3,0,1
+528,Yonex_All_England_Open,2024-03-14,England,WD,4,0,25,Japan,Usa,Nami Matsuyama,Chiharu Shida,0,Paula Lynn Cao Hok,Lauren Lam,0,21,7,21,5,0,0,42,12,2,0,3,0,8,2,2,0,1
+529,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WD,4,0,46,Japan,Usa,Nami Matsuyama,Chiharu Shida,1,Francesca Corbett,Allison Lee,1,21,14,21,17,0,0,42,31,2,0,4,0,4,4,2,0,1
+530,Yonex_All_England_Open,2024-03-14,England,WD,4,0,48,Korea,Japan,Baek Ha Na,Lee So Hee,2,Rin Iwanaga,Kie Nakanishi,0,21,16,21,14,0,0,42,30,2,0,5,0,5,3,6,0,1
+531,Yonex_All_England_Open,2024-03-13,England,WD,6,0,58,Canada,Usa,Catherine Choi,Josephine Wu,0,Annie Xu,Kerry Xu,0,14,21,21,17,21,16,56,54,2,1,3,3,7,9,4,2,1
+532,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WD,4,0,47,China,Japan,Li Yi Jing,Luo Xu Min,0,Nami Matsuyama,Chiharu Shida,1,21,19,21,15,0,0,42,34,2,0,9,0,5,5,1,2,1
+533,Yonex_All_England_Open,2024-03-13,England,WD,6,0,69,Japan,Denmark,Yuki Fukushima,Sayaka Hirota,7,Maiken Fruergaard,Sara Thygesen,0,15,21,21,19,21,13,57,53,2,1,5,4,6,6,6,1,1
+534,Yonex_All_England_Open,2024-03-13,England,WD,4,0,36,India,Hongkong,Tanisha Crasto,Ashwini Ponnappa,0,Yeung Nga Ting,Yeung Pui Lam,0,21,13,21,18,0,0,42,31,2,0,5,0,5,3,2,0,1
+535,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WD,6,0,64,Korea,India,Baek Ha Na,Lee So Hee,2,Tanisha Crasto,Ashwini Ponnappa,0,21,13,19,21,21,13,61,47,2,1,3,3,6,5,1,0,1
+536,Yonex_All_England_Open,2024-03-13,England,WD,4,0,30,Japan,India,Rin Iwanaga,Kie Nakanishi,0,Rutaparna Panda,Swetaparna Panda,0,21,9,21,9,0,0,42,18,2,0,2,0,8,3,2,0,1
+537,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WD,4,0,33,Chinesetaipei,Ukraine,Chang Ching Hui,Yang Ching Tun,0,Polina Buhrova,Yevheniia Kantemyr,0,21,17,21,18,0,0,42,35,2,0,4,0,4,2,2,0,1
+538,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WD,4,0,34,India,Canada,Tanisha Crasto,Ashwini Ponnappa,0,Jackie Dent,Crystal Lai,0,21,15,21,15,0,0,42,30,2,0,3,0,7,4,1,0,1
+539,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WD,4,0,41,China,Denmark,Zhang Shu Xian,Zheng Yu,5,Maiken Fruergaard,Sara Thygesen,1,21,15,21,19,0,0,42,34,2,0,2,0,5,4,4,0,1

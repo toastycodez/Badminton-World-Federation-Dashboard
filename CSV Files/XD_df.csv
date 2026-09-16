@@ -1,0 +1,556 @@
+,Tournament Name,Tournament Date,Tournament Country,Discipline,Number of Sets Played,Retired,Match Duration (min),Team One Nationalities,Team Two Nationalities,Player 1 Team 1 Name,Player 2 Team 1 Name,Team 1 Seed,Player 1 Team 2 Name,Player 2 Team 2 Name,Team 2 Seed,Points Set 1 Team 1,Points Set 1 Team 2,Points Set 2 Team 1,Points Set 2 Team 2,Points Set 3 Team 1,Points Set 3 Team 2,Total Points Team 1,Total Points Team 2,Sets Won Team 1,Sets Won Team 2,Total Game Points Team 1,Total Game Points Team 2,Most Consecutive Points Team 1,Most Consecutive Points Team 2,Team 1 Head to Head Analysis,Team 2 Head to Head Analysis,Match Winner
+0,Yonex_All_England_Open,2018-03-17,England,XD,4,0,43,Japan,China,Yuta Watanabe,Arisa Higashino,0,Zhang Nan,Li Yin Hui,8,21,14,21,18,0,0,42,32,2,0,2,0,6,4,1,2,1
+1,Blibli_Indonesia_Open,2018-07-06,Indonesia,XD,4,0,33,Indonesia,China,Tontowi Ahmad,Liliyana Natsir,1,Zhang Nan,Li Yin Hui,5,21,17,21,14,0,0,42,31,2,0,3,0,10,5,4,0,1
+2,Yonex_All_England_Open,2018-03-18,England,XD,6,0,62,Japan,China,Yuta Watanabe,Arisa Higashino,0,Zheng Si Wei,Huang Ya Qiong,5,15,21,22,20,21,16,58,57,2,1,3,3,7,4,5,15,1
+3,Blibli_Indonesia_Open,2018-07-05,Indonesia,XD,4,0,40,Indonesia,Thailand,Ricky Karandasuwardi,Debby Susanto,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,21,14,21,19,0,0,42,33,2,0,3,0,4,5,1,1,1
+4,Blibli_Indonesia_Open,2018-07-04,Indonesia,XD,4,0,37,Chinesetaipei,Indonesia,Wang Chi-Lin,Lee Chia Hsin,0,Riky Widianto,Masita Mahmudin,0,21,12,26,24,0,0,47,36,2,0,4,3,6,4,1,0,1
+5,Yonex_All_England_Open,2018-03-15,England,XD,4,0,33,Indonesia,England,Praveen Jordan,Debby Susanto,4,Marcus Ellis,Lauren Smith,0,21,12,21,17,0,0,42,29,2,0,7,0,6,5,1,0,1
+6,Blibli_Indonesia_Open,2018-07-07,Indonesia,XD,4,0,30,Indonesia,Indonesia,Tontowi Ahmad,Liliyana Natsir,1,Hafiz Faizal,Gloria Emanuelle Widjaja,0,21,18,21,8,0,0,42,26,2,0,3,0,6,3,2,1,1
+7,Blibli_Indonesia_Open,2018-07-05,Indonesia,XD,4,0,38,Indonesia,Japan,Tontowi Ahmad,Liliyana Natsir,1,Yugo Kobayashi,Misaki Matsutomo,0,23,21,21,19,0,0,44,40,2,0,9,0,6,4,1,0,1
+8,Yonex_All_England_Open,2018-03-16,England,XD,4,0,45,Denmark,Indonesia,Mathias Christiansen,Christinna Pedersen,6,Praveen Jordan,Debby Susanto,4,21,16,21,15,0,0,42,31,2,0,2,0,4,4,1,0,1
+9,Blibli_Indonesia_Open,2018-07-07,Indonesia,XD,4,0,36,Malaysia,China,Chan Peng Soon,Goh Liu Ying,0,Zheng Si Wei,Huang Ya Qiong,4,21,18,21,16,0,0,42,34,2,0,2,0,4,4,1,3,1
+10,Yonex_All_England_Open,2018-03-16,England,XD,6,0,55,Japan,England,Yuta Watanabe,Arisa Higashino,0,Chris Adcock,Gabrielle Adcock,7,18,21,21,15,21,15,60,51,2,1,2,1,6,5,4,1,1
+11,Yonex_All_England_Open,2018-03-17,England,XD,6,0,69,China,Denmark,Zheng Si Wei,Huang Ya Qiong,5,Mathias Christiansen,Christinna Pedersen,6,18,21,21,14,21,19,60,54,2,1,3,1,4,5,3,0,1
+12,Blibli_Indonesia_Open,2018-07-08,Indonesia,XD,4,0,38,Indonesia,Malaysia,Tontowi Ahmad,Liliyana Natsir,1,Chan Peng Soon,Goh Liu Ying,0,21,17,21,8,0,0,42,25,2,0,4,0,5,3,11,1,1
+13,Blibli_Indonesia_Open,2018-07-04,Indonesia,XD,6,0,72,Denmark,Indonesia,Joachim Fischer Nielsen,Alexandra Bøje,0,Ronald Ronald,Annisa Saufika,0,17,21,21,16,24,22,62,59,2,1,5,3,6,6,1,0,1
+14,Yonex_All_England_Open,2018-03-15,England,XD,4,0,44,England,Korea,Chris Adcock,Gabrielle Adcock,7,Seo Seung Jae,Kim Ha Na,0,23,21,23,21,0,0,46,42,2,0,4,3,5,4,1,0,1
+15,Victor_China_Open,2018-09-18,China,XD,4,0,30,China,Chinesetaipei,He Ji Ting,Du Yue,0,Lee Yang,Hsu Ya Ching,0,21,16,21,11,0,0,42,27,2,0,2,0,7,4,2,0,1
+16,Victor_China_Open,2018-09-19,China,XD,6,0,63,India,England,Satwiksairaj Rankireddy,Ashwini Ponnappa,0,Marcus Ellis,Lauren Smith,0,21,13,20,22,21,17,62,52,2,1,3,5,4,5,1,2,1
+17,Victor_China_Open,2018-09-18,China,XD,4,0,22,Indonesia,Japan,Tontowi Ahmad,Liliyana Natsir,3,Yuki Kaneko,Misaki Matsutomo,0,21,7,21,16,0,0,42,23,2,0,4,0,11,4,1,0,1
+18,Victor_China_Open,2018-09-20,China,XD,6,0,63,Hongkong,Malaysia,Tang Chun Man,Tse Ying Suet,4,Tan Kian Meng,Lai Pei Jing,0,19,21,21,16,24,22,64,59,2,1,4,4,5,6,7,3,1
+19,Yonex_All_England_Open,2018-03-16,England,XD,6,0,65,China,Indonesia,Zhang Nan,Li Yin Hui,8,Hafiz Faizal,Gloria Emanuelle Widjaja,0,21,14,18,21,21,18,60,53,2,1,4,4,5,6,1,1,1
+20,Victor_China_Open,2018-09-18,China,XD,6,0,51,China,Netherlands,Zhang Nan,Li Yin Hui,5,Robin Tabeling,Cheryl Seinen,0,21,13,20,22,21,14,62,49,2,1,3,2,6,3,1,0,1
+21,Blibli_Indonesia_Open,2018-07-05,Indonesia,XD,4,0,27,China,Hongkong,Zhang Nan,Li Yin Hui,5,Lee Chun Hei Reginald,Chau Hoi Wah,0,21,11,21,6,0,0,42,17,2,0,2,0,7,3,2,0,1
+22,Yonex_All_England_Open,2018-03-15,England,XD,4,0,51,China,Malaysia,Zhang Nan,Li Yin Hui,8,Chan Peng Soon,Goh Liu Ying,0,24,22,22,20,0,0,46,42,2,0,3,4,4,5,4,1,1
+23,Blibli_Indonesia_Open,2018-07-06,Indonesia,XD,6,0,43,China,Japan,Zheng Si Wei,Huang Ya Qiong,4,Yuta Watanabe,Arisa Higashino,0,21,13,16,21,21,10,58,44,2,1,2,1,6,4,15,5,1
+24,Victor_China_Open,2018-09-20,China,XD,6,0,51,Japan,Indonesia,Yuta Watanabe,Arisa Higashino,0,Tontowi Ahmad,Liliyana Natsir,3,21,12,14,21,21,12,56,45,2,1,2,2,5,5,2,1,1
+25,Yonex_All_England_Open,2018-03-15,England,XD,4,0,40,Japan,Netherlands,Yuta Watanabe,Arisa Higashino,0,Jacco Arends,Selena Piek,0,21,17,21,19,0,0,42,36,2,0,4,0,5,5,1,0,1
+26,Yonex_All_England_Open,2018-03-14,England,XD,6,0,63,Denmark,Germany,Mathias Christiansen,Christinna Pedersen,6,Mark Lamsfuss,Isabel Lohau,0,17,21,21,17,21,12,59,50,2,1,2,2,5,5,1,0,1
+27,Blibli_Indonesia_Open,2018-07-06,Indonesia,XD,6,0,65,Indonesia,Indonesia,Hafiz Faizal,Gloria Emanuelle Widjaja,0,Ricky Karandasuwardi,Debby Susanto,0,21,15,22,24,21,19,64,58,2,1,5,3,6,4,1,0,1
+28,Yonex_All_England_Open,2018-03-16,England,XD,6,0,54,China,China,Zheng Si Wei,Huang Ya Qiong,5,Wang Yi Lyu,Huang Dong Ping,2,21,16,16,21,21,11,58,48,2,1,3,2,4,4,16,5,1
+29,Yonex_All_England_Open,2018-03-14,England,XD,4,0,34,England,Malaysia,Chris Adcock,Gabrielle Adcock,7,Goh Soon Huat,Lai Shevon Jemie,0,21,14,21,15,0,0,42,29,2,0,4,0,4,3,1,1,1
+30,Blibli_Indonesia_Open,2018-07-06,Indonesia,XD,4,0,38,Malaysia,China,Chan Peng Soon,Goh Liu Ying,0,Wang Yi Lyu,Huang Dong Ping,2,21,19,21,14,0,0,42,33,2,0,4,0,5,3,2,9,1
+31,Blibli_Indonesia_Open,2018-07-05,Indonesia,XD,6,0,56,Indonesia,Denmark,Hafiz Faizal,Gloria Emanuelle Widjaja,0,Mathias Christiansen,Christinna Pedersen,6,14,21,21,13,21,7,56,41,2,1,2,1,7,5,2,0,1
+32,Victor_China_Open,2018-09-21,China,XD,4,0,30,Hongkong,Indonesia,Tang Chun Man,Tse Ying Suet,4,Ricky Karandasuwardi,Debby Susanto,0,21,15,21,11,0,0,42,26,2,0,3,0,6,4,2,0,1
+33,Yonex_All_England_Open,2018-03-15,England,XD,6,0,80,Denmark,Thailand,Mathias Christiansen,Christinna Pedersen,6,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,21,18,18,21,21,15,60,54,2,1,3,2,6,6,2,0,1
+34,Victor_China_Open,2018-09-18,China,XD,4,0,27,China,Japan,Wang Yi Lyu,Huang Dong Ping,2,Takuro Hoki,Koharu Yonemoto,0,21,17,21,12,0,0,42,29,2,0,4,0,5,4,1,0,1
+35,Victor_China_Open,2018-09-22,China,XD,4,0,29,China,Hongkong,Zheng Si Wei,Huang Ya Qiong,1,Tang Chun Man,Tse Ying Suet,4,21,19,21,15,0,0,42,34,2,0,3,0,8,5,13,1,1
+36,Blibli_Indonesia_Open,2018-07-03,Indonesia,XD,6,0,41,Japan,Indonesia,Yugo Kobayashi,Misaki Matsutomo,0,Yantoni Edy Saputra,Marsheilla Gischa Islami,0,21,18,17,21,21,8,59,47,2,1,3,1,6,6,1,0,1
+37,Victor_China_Open,2018-09-19,China,XD,4,0,43,China,Germany,Lu Kai,Chen Lu,0,Mark Lamsfuss,Isabel Lohau,0,21,12,30,29,0,0,51,41,2,0,12,3,5,6,2,2,1
+38,Victor_China_Open,2018-09-20,China,XD,4,0,36,Indonesia,China,Ricky Karandasuwardi,Debby Susanto,0,Lu Kai,Chen Lu,0,21,18,21,19,0,0,42,37,2,0,4,0,5,4,1,0,1
+39,Blibli_Indonesia_Open,2018-07-03,Indonesia,XD,6,0,50,Indonesia,France,Hafiz Faizal,Gloria Emanuelle Widjaja,0,Ronan Labar,Audrey Mittelheisser,0,20,22,21,11,21,15,62,48,2,1,3,2,6,5,2,0,1
+40,Blibli_Indonesia_Open,2018-07-05,Indonesia,XD,4,0,38,Malaysia,Denmark,Chan Peng Soon,Goh Liu Ying,0,Niclas Nohr,Sara Thygesen,0,21,15,21,17,0,0,42,32,2,0,3,0,5,4,1,0,1
+41,Victor_China_Open,2018-09-19,China,XD,4,0,31,China,Malaysia,Zheng Si Wei,Huang Ya Qiong,1,Chan Peng Soon,Goh Liu Ying,0,21,18,21,17,0,0,42,35,2,0,2,0,6,3,3,1,1
+42,Yonex_All_England_Open,2018-03-14,England,XD,6,0,57,Korea,Chinesetaipei,Seo Seung Jae,Kim Ha Na,0,Wang Chi-Lin,Lee Chia Hsin,0,24,22,16,21,21,12,61,55,2,1,6,1,6,6,2,0,1
+43,Victor_China_Open,2018-09-22,China,XD,6,0,55,China,China,Zhang Nan,Li Yin Hui,5,Wang Yi Lyu,Huang Dong Ping,2,21,10,19,21,21,14,61,45,2,1,3,1,6,4,1,1,1
+44,Blibli_Indonesia_Open,2018-07-03,Indonesia,XD,6,0,57,Indonesia,China,Ricky Karandasuwardi,Debby Susanto,0,He Ji Ting,Du Yue,0,17,21,21,13,24,22,62,56,2,1,2,6,9,6,1,0,1
+45,Blibli_Indonesia_Open,2018-07-04,Indonesia,XD,4,0,28,England,Netherlands,Chris Adcock,Gabrielle Adcock,8,Jacco Arends,Selena Piek,0,21,14,21,13,0,0,42,27,2,0,4,0,7,3,4,0,1
+46,Victor_China_Open,2018-09-23,China,XD,4,0,29,China,China,Zheng Si Wei,Huang Ya Qiong,1,Zhang Nan,Li Yin Hui,5,21,16,21,9,0,0,42,25,2,0,4,0,5,3,3,0,1
+47,Blibli_Indonesia_Open,2018-07-03,Indonesia,XD,4,0,30,Indonesia,Malaysia,Tontowi Ahmad,Liliyana Natsir,1,Tan Kian Meng,Lai Pei Jing,0,21,11,21,14,0,0,42,25,2,0,3,0,10,5,4,1,1
+48,Victor_China_Open,2018-09-21,China,XD,6,0,73,China,Denmark,Wang Yi Lyu,Huang Dong Ping,2,Mathias Christiansen,Christinna Pedersen,6,24,22,13,21,28,26,65,69,2,1,13,4,5,7,1,1,1
+49,Victor_China_Open,2018-09-21,China,XD,6,0,57,China,Thailand,Zheng Si Wei,Huang Ya Qiong,1,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,17,21,21,14,21,19,59,54,2,1,2,1,6,6,13,3,1
+50,Victor_China_Open,2018-09-20,China,XD,4,0,28,China,India,Zheng Si Wei,Huang Ya Qiong,1,Satwiksairaj Rankireddy,Ashwini Ponnappa,0,21,14,21,11,0,0,42,25,2,0,6,0,6,3,2,0,1
+51,Blibli_Indonesia_Open,2018-07-04,Indonesia,XD,4,0,42,Malaysia,Malaysia,Chan Peng Soon,Goh Liu Ying,0,Goh Soon Huat,Lai Shevon Jemie,7,21,19,21,19,0,0,42,38,2,0,2,0,5,7,2,0,1
+52,Blibli_Indonesia_Open,2018-07-03,Indonesia,XD,6,0,48,Thailand,Hongkong,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,Tang Chun Man,Tse Ying Suet,3,21,19,13,21,21,15,55,55,2,1,4,1,6,6,7,2,1
+53,Blibli_Indonesia_Open,2018-07-03,Indonesia,XD,4,0,37,Denmark,Ireland,Mathias Christiansen,Christinna Pedersen,6,Sam Magee,Chloe Magee,0,21,12,21,14,0,0,42,26,2,0,2,0,6,3,2,0,1
+54,Yonex_All_England_Open,2019-03-06,England,XD,6,0,68,England,China,Marcus Ellis,Lauren Smith,7,He Ji Ting,Du Yue,0,12,21,21,19,21,19,54,59,2,1,2,1,5,5,1,1,1
+55,Yonex_All_England_Open,2018-03-14,England,XD,6,0,68,Malaysia,Ireland,Chan Peng Soon,Goh Liu Ying,0,Sam Magee,Chloe Magee,0,18,21,24,22,21,15,63,58,2,1,6,3,5,6,1,0,1
+56,Blibli_Indonesia_Open,2018-07-05,Indonesia,XD,6,0,53,Japan,England,Yuta Watanabe,Arisa Higashino,0,Chris Adcock,Gabrielle Adcock,8,21,19,16,21,21,13,58,53,2,1,3,1,5,4,4,1,1
+57,Victor_China_Open,2018-09-20,China,XD,4,0,19,China,Vietnam,Zhang Nan,Li Yin Hui,5,Tuan Duc Do,Nhu Thao Pham,0,21,5,21,10,0,0,42,15,2,0,4,0,8,2,2,0,1
+58,Victor_China_Open,2018-09-21,China,XD,4,0,36,China,Japan,Zhang Nan,Li Yin Hui,5,Yuta Watanabe,Arisa Higashino,0,21,18,21,13,0,0,42,31,2,0,5,0,4,4,2,1,1
+59,Blibli_Indonesia_Open,2018-07-04,Indonesia,XD,4,0,27,China,Netherlands,Wang Yi Lyu,Huang Dong Ping,2,Robin Tabeling,Cheryl Seinen,0,21,10,21,16,0,0,42,26,2,0,3,0,6,3,1,0,1
+60,Victor_China_Open,2018-09-18,China,XD,6,0,39,Vietnam,Russia,Tuan Duc Do,Nhu Thao Pham,0,Evgenij Dremin,Evgenia Dimova,0,21,14,17,21,21,9,59,44,2,1,4,3,5,5,2,1,1
+61,Blibli_Indonesia_Open,2018-07-03,Indonesia,XD,6,0,55,Hongkong,Indonesia,Lee Chun Hei Reginald,Chau Hoi Wah,0,Praveen Jordan,Melati Daeva Oktavianti,0,17,21,21,14,21,17,59,52,2,1,3,1,8,4,1,0,1
+62,Blibli_Indonesia_Open,2018-07-05,Indonesia,XD,6,0,40,China,Chinesetaipei,Zheng Si Wei,Huang Ya Qiong,4,Wang Chi-Lin,Lee Chia Hsin,0,21,12,17,21,21,16,59,49,2,1,3,1,7,6,2,0,1
+63,Blibli_Indonesia_Open,2018-07-05,Indonesia,XD,4,0,41,China,Denmark,Wang Yi Lyu,Huang Dong Ping,2,Joachim Fischer Nielsen,Alexandra Bøje,0,21,16,21,18,0,0,42,34,2,0,2,0,5,4,1,0,1
+64,Victor_China_Open,2018-09-19,China,XD,6,0,49,England,Ireland,Chris Adcock,Gabrielle Adcock,8,Sam Magee,Chloe Magee,0,17,21,21,8,21,8,59,37,2,1,3,1,8,4,4,0,1
+65,Yonex_All_England_Open,2019-03-07,England,XD,6,0,62,England,England,Chris Adcock,Gabrielle Adcock,6,Ben Lane,Jessica Pugh,0,15,21,21,15,21,15,57,51,2,1,2,1,5,6,1,0,1
+66,Yonex_All_England_Open,2018-03-15,England,XD,6,0,64,Indonesia,Indonesia,Hafiz Faizal,Gloria Emanuelle Widjaja,0,Tontowi Ahmad,Liliyana Natsir,1,18,21,21,15,30,29,69,65,2,1,9,7,4,6,1,2,1
+67,Yonex_All_England_Open,2019-03-07,England,XD,4,0,48,Malaysia,England,Goh Soon Huat,Lai Shevon Jemie,0,Marcus Ellis,Lauren Smith,7,21,15,26,24,0,0,47,39,2,0,6,5,5,4,3,3,1
+68,Blibli_Indonesia_Open,2018-07-04,Indonesia,XD,4,0,31,Japan,Chinesetaipei,Yuta Watanabe,Arisa Higashino,0,Lu Ching Yao,Hu Ling Fang,0,21,15,21,18,0,0,42,33,2,0,3,0,7,4,2,0,1
+69,Victor_China_Open,2018-09-18,China,XD,4,0,33,India,Germany,Pranaav Jerry Chopra,Reddy Sikki,0,Marvin Seidel,Linda Efler,0,21,19,21,17,0,0,42,36,2,0,5,0,7,3,3,1,1
+70,Yonex_All_England_Open,2018-03-15,England,XD,4,0,20,China,Chinesetaipei,Zheng Si Wei,Huang Ya Qiong,5,Lu Ching Yao,Chiang Kai Hsin,0,21,5,21,5,0,0,42,10,2,0,2,0,9,2,1,0,1
+71,Victor_China_Open,2018-09-20,China,XD,4,0,28,China,China,Wang Yi Lyu,Huang Dong Ping,2,He Ji Ting,Du Yue,0,21,19,21,9,0,0,42,28,2,0,2,0,6,3,4,1,1
+72,Blibli_Indonesia_Open,2018-07-04,Indonesia,XD,4,0,26,China,India,Zheng Si Wei,Huang Ya Qiong,4,Pranaav Jerry Chopra,Reddy Sikki,0,21,12,21,14,0,0,42,26,2,0,6,0,4,4,6,0,1
+73,Yonex_All_England_Open,2019-03-06,England,XD,4,0,36,England,Malaysia,Chris Adcock,Gabrielle Adcock,6,Chen Tang Jie,Peck Yen Wei,0,21,16,21,18,0,0,42,34,2,0,8,0,5,4,1,0,1
+74,Yonex_All_England_Open,2018-03-14,England,XD,4,0,37,Indonesia,Malaysia,Hafiz Faizal,Gloria Emanuelle Widjaja,0,Tan Kian Meng,Lai Pei Jing,0,21,18,21,11,0,0,42,29,2,0,2,0,6,5,3,2,1
+75,Blibli_Indonesia_Open,2018-07-03,Indonesia,XD,4,0,29,China,Russia,Zhang Nan,Li Yin Hui,5,Evgenij Dremin,Evgenia Dimova,0,21,17,21,13,0,0,42,30,2,0,2,0,7,4,1,0,1
+76,Victor_China_Open,2018-09-19,China,XD,4,0,40,Malaysia,Denmark,Tan Kian Meng,Lai Pei Jing,0,Niclas Nohr,Sara Thygesen,0,22,20,21,18,0,0,43,38,2,0,2,4,6,6,3,1,1
+77,Yonex_All_England_Open,2018-03-15,England,XD,4,0,24,China,India,Wang Yi Lyu,Huang Dong Ping,2,Pranaav Jerry Chopra,Reddy Sikki,0,21,6,21,10,0,0,42,16,2,0,2,0,9,3,2,0,1
+78,Victor_China_Open,2018-09-20,China,XD,4,0,40,Denmark,India,Mathias Christiansen,Christinna Pedersen,6,Pranaav Jerry Chopra,Reddy Sikki,0,21,16,21,10,0,0,42,26,2,0,4,0,6,6,2,0,1
+79,Victor_China_Open,2018-09-19,China,XD,4,0,27,Thailand,Indonesia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,Praveen Jordan,Melati Daeva Oktavianti,0,21,11,21,13,0,0,42,24,2,0,3,0,9,3,8,4,1
+80,Blibli_Indonesia_Open,2018-07-04,Indonesia,XD,4,0,36,Denmark,Japan,Niclas Nohr,Sara Thygesen,0,Takuro Hoki,Koharu Yonemoto,0,21,19,21,19,0,0,42,38,2,0,3,0,4,5,1,1,1
+81,Yonex_All_England_Open,2019-03-09,England,XD,4,0,37,Japan,Malaysia,Yuta Watanabe,Arisa Higashino,3,Goh Soon Huat,Lai Shevon Jemie,0,21,16,21,13,0,0,42,29,2,0,2,0,5,4,4,1,1
+82,Yonex_All_England_Open,2019-03-08,England,XD,6,0,64,Malaysia,China,Goh Soon Huat,Lai Shevon Jemie,0,Wang Yi Lyu,Huang Dong Ping,2,13,21,22,20,21,18,56,59,2,1,4,1,4,5,3,3,1
+83,Yonex_All_England_Open,2018-03-14,England,XD,4,0,35,China,Korea,Wang Yi Lyu,Huang Dong Ping,2,Choi Sol Gyu,Chae Yu Jung,0,21,15,21,17,0,0,42,32,2,0,3,0,6,5,2,1,1
+84,Yonex_All_England_Open,2019-03-07,England,XD,6,0,57,Indonesia,Malaysia,Tontowi Ahmad,Winny Oktavina Kandow,0,Chan Peng Soon,Goh Liu Ying,5,21,15,16,21,23,21,60,57,2,1,5,6,5,5,2,1,1
+85,Victor_China_Open,2018-09-19,China,XD,4,0,27,Hongkong,Russia,Tang Chun Man,Tse Ying Suet,4,Rodion Alimov,Alina Davletova,0,21,14,21,19,0,0,42,33,2,0,2,0,4,4,1,1,1
+86,Yonex_All_England_Open,2019-03-10,England,XD,4,0,41,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Yuta Watanabe,Arisa Higashino,3,21,17,22,20,0,0,43,37,2,0,3,1,6,5,15,5,1
+87,Victor_China_Open,2018-09-18,China,XD,4,0,30,Denmark,Chinesetaipei,Mathias Christiansen,Christinna Pedersen,6,Wang Chi-Lin,Lee Chia Hsin,0,21,10,21,10,0,0,42,20,2,0,0,0,0,0,2,0,1
+88,Victor_China_Open,2018-09-18,China,XD,6,0,52,Japan,Indonesia,Yuta Watanabe,Arisa Higashino,0,Hafiz Faizal,Gloria Emanuelle Widjaja,0,22,20,16,21,21,16,59,57,2,1,3,2,6,4,5,1,1
+89,Victor_China_Open,2018-09-20,China,XD,6,0,63,Thailand,England,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,Chris Adcock,Gabrielle Adcock,8,17,21,25,23,21,16,63,60,2,1,4,3,6,4,5,0,1
+90,Victor_China_Open,2018-09-19,China,XD,6,0,54,Indonesia,Malaysia,Ricky Karandasuwardi,Debby Susanto,0,Goh Soon Huat,Lai Shevon Jemie,7,21,15,19,21,21,16,61,52,2,1,3,1,7,4,2,0,1
+91,Yonex_All_England_Open,2018-03-14,England,XD,4,0,30,China,England,Zheng Si Wei,Huang Ya Qiong,5,Ben Lane,Jessica Pugh,0,21,14,21,9,0,0,42,23,2,0,2,0,7,3,1,0,1
+92,Blibli_Indonesia_Open,2019-07-16,Indonesia,XD,4,0,40,Hongkong,Japan,Tang Chun Man,Tse Ying Suet,8,Takuro Hoki,Wakana Nagahara,0,22,20,21,17,0,0,43,37,2,0,4,1,4,3,1,0,1
+93,Yonex_All_England_Open,2019-03-08,England,XD,4,0,35,China,England,Zheng Si Wei,Huang Ya Qiong,1,Chris Adcock,Gabrielle Adcock,6,21,16,21,12,0,0,42,28,2,0,4,0,6,4,5,0,1
+94,Blibli_Indonesia_Open,2019-07-18,Indonesia,XD,4,0,37,Malaysia,Hongkong,Tan Kian Meng,Lai Pei Jing,0,Tang Chun Man,Tse Ying Suet,8,21,15,21,14,0,0,42,29,2,0,5,0,5,4,3,7,1
+95,Yonex_All_England_Open,2019-03-09,England,XD,6,0,53,China,Indonesia,Zheng Si Wei,Huang Ya Qiong,1,Praveen Jordan,Melati Daeva Oktavianti,0,13,21,22,20,21,13,56,54,2,1,4,4,6,5,11,2,1
+96,Blibli_Indonesia_Open,2019-07-16,Indonesia,XD,2,1,7,England,Japan,Chris Adcock,Gabrielle Adcock,0,Yuta Watanabe,Arisa Higashino,3,11,6,0,0,0,0,11,6,1,0,0,0,3,1,1,4,1
+97,Blibli_Indonesia_Open,2019-07-19,Indonesia,XD,6,0,60,Malaysia,Indonesia,Chan Peng Soon,Goh Liu Ying,5,Tontowi Ahmad,Winny Oktavina Kandow,0,21,11,14,21,21,14,56,46,2,1,3,1,4,3,1,2,1
+98,Yonex_All_England_Open,2019-03-08,England,XD,4,0,46,Japan,Indonesia,Yuta Watanabe,Arisa Higashino,3,Tontowi Ahmad,Winny Oktavina Kandow,0,24,22,21,19,0,0,45,41,2,0,4,4,4,4,1,0,1
+99,Yonex_All_England_Open,2019-03-07,England,XD,6,0,65,Japan,China,Yuta Watanabe,Arisa Higashino,3,Lu Kai,Chen Lu,0,21,12,21,23,21,17,63,52,2,1,5,2,6,4,3,1,1
+100,Blibli_Indonesia_Open,2019-07-21,Indonesia,XD,4,0,31,China,China,Zheng Si Wei,Huang Ya Qiong,1,Wang Yi Lyu,Huang Dong Ping,2,21,13,21,18,0,0,42,31,2,0,4,0,5,3,16,5,1
+101,Blibli_Indonesia_Open,2019-07-17,Indonesia,XD,4,0,28,Indonesia,India,Tontowi Ahmad,Winny Oktavina Kandow,0,Satwiksairaj Rankireddy,Ashwini Ponnappa,0,21,13,21,11,0,0,42,24,2,0,4,0,6,2,1,0,1
+102,Yonex_All_England_Open,2019-03-07,England,XD,4,0,29,Indonesia,Germany,Praveen Jordan,Melati Daeva Oktavianti,0,Mark Lamsfuss,Isabel Lohau,0,21,11,21,17,0,0,42,28,2,0,3,0,5,3,2,1,1
+103,Blibli_Indonesia_Open,2019-07-18,Indonesia,XD,4,0,34,Indonesia,Thailand,Tontowi Ahmad,Winny Oktavina Kandow,0,Nipitphon Phuangphuapet,Savitree Amitrapai,0,21,14,21,18,0,0,42,32,2,0,5,0,6,3,2,0,1
+104,Yonex_All_England_Open,2019-03-07,England,XD,4,0,29,Thailand,Ireland,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,Sam Magee,Chloe Magee,0,21,9,21,11,0,0,42,20,2,0,3,0,7,2,2,0,1
+105,Victor_China_Open,2019-09-17,China,XD,6,0,57,Indonesia,Malaysia,Rinov Rivaldy,Pitha Haningtyas Mentari,0,Tan Kian Meng,Lai Pei Jing,0,21,18,16,21,21,12,58,51,2,1,6,1,5,5,3,5,1
+106,Yonex_All_England_Open,2019-03-06,England,XD,4,0,28,Thailand,Japan,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,Yuki Kaneko,Misaki Matsutomo,0,21,11,21,15,0,0,42,26,2,0,6,0,5,3,6,0,1
+107,Blibli_Indonesia_Open,2019-07-20,Indonesia,XD,4,0,43,China,Malaysia,Wang Yi Lyu,Huang Dong Ping,2,Chan Peng Soon,Goh Liu Ying,5,21,13,22,20,0,0,43,33,2,0,3,0,4,4,9,2,1
+108,Blibli_Indonesia_Open,2019-07-17,Indonesia,XD,6,0,49,Malaysia,Indonesia,Chan Peng Soon,Goh Liu Ying,5,Ronald Ronald,Annisa Saufika,0,16,21,21,7,21,11,58,39,2,1,3,1,9,6,1,0,1
+109,Blibli_Indonesia_Open,2019-07-19,Indonesia,XD,6,0,63,Malaysia,England,Tan Kian Meng,Lai Pei Jing,0,Chris Adcock,Gabrielle Adcock,0,21,15,14,21,21,15,56,51,2,1,3,2,6,6,1,3,1
+110,Yonex_All_England_Open,2018-03-14,England,XD,6,0,48,Thailand,Hongkong,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,Lee Chun Hei Reginald,Chau Hoi Wah,0,21,16,7,21,21,18,49,55,2,1,7,2,7,9,4,0,1
+111,Yonex_All_England_Open,2019-03-07,England,XD,4,0,24,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Kohei Gondo,Ayane Kurihara,0,21,10,21,10,0,0,42,20,2,0,4,0,8,3,1,0,1
+112,Blibli_Indonesia_Open,2019-07-16,Indonesia,XD,4,0,43,Malaysia,China,Tan Kian Meng,Lai Pei Jing,0,Lu Kai,Chen Lu,0,23,21,21,13,0,0,44,34,2,0,3,5,8,5,1,1,1
+113,Blibli_Indonesia_Open,2019-07-20,Indonesia,XD,4,0,35,China,Malaysia,Zheng Si Wei,Huang Ya Qiong,1,Tan Kian Meng,Lai Pei Jing,0,21,12,21,16,0,0,42,28,2,0,7,0,6,4,9,0,1
+114,Victor_China_Open,2019-09-17,China,XD,4,0,26,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Takuro Hoki,Wakana Nagahara,0,21,12,21,12,0,0,42,24,2,0,3,0,6,3,3,0,1
+115,Blibli_Indonesia_Open,2019-07-19,Indonesia,XD,4,0,32,China,Malaysia,Wang Yi Lyu,Huang Dong Ping,2,Goh Soon Huat,Lai Shevon Jemie,0,21,4,21,15,0,0,42,19,2,0,3,0,11,2,3,3,1
+116,Yonex_All_England_Open,2019-03-08,England,XD,6,0,59,Indonesia,Thailand,Praveen Jordan,Melati Daeva Oktavianti,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,16,21,21,12,21,17,58,50,2,1,3,3,5,4,4,8,1
+117,Yonex_All_England_Open,2018-03-14,England,XD,4,0,42,Netherlands,Denmark,Jacco Arends,Selena Piek,0,Joachim Fischer Nielsen,Alexandra Bøje,0,24,22,21,18,0,0,45,40,2,0,8,0,5,4,2,0,1
+118,Blibli_Indonesia_Open,2019-07-18,Indonesia,XD,4,0,40,England,Ireland,Chris Adcock,Gabrielle Adcock,0,Sam Magee,Chloe Magee,0,21,17,21,16,0,0,42,33,2,0,9,0,6,6,4,0,1
+119,Blibli_Indonesia_Open,2019-07-19,Indonesia,XD,4,0,33,China,England,Zheng Si Wei,Huang Ya Qiong,1,Marcus Ellis,Lauren Smith,0,21,12,21,13,0,0,42,25,2,0,7,0,6,6,4,0,1
+120,Victor_China_Open,2019-09-18,China,XD,4,0,44,Thailand,Indonesia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,Hafiz Faizal,Gloria Emanuelle Widjaja,0,21,14,21,19,0,0,42,33,2,0,2,0,5,4,6,0,1
+121,Blibli_Indonesia_Open,2019-07-18,Indonesia,XD,4,0,44,Malaysia,Korea,Chan Peng Soon,Goh Liu Ying,5,Seo Seung Jae,Chae Yu Jung,0,21,19,21,15,0,0,42,34,2,0,3,0,5,4,2,4,1
+122,Blibli_Indonesia_Open,2019-07-18,Indonesia,XD,4,0,31,China,China,Wang Yi Lyu,Huang Dong Ping,2,Ou Xuan Yi,Feng Xue Ying,0,21,14,21,17,0,0,42,31,2,0,2,0,6,4,2,0,1
+123,Blibli_Indonesia_Open,2019-07-17,Indonesia,XD,6,0,58,Korea,Japan,Seo Seung Jae,Chae Yu Jung,0,Yuki Kaneko,Misaki Matsutomo,0,21,12,17,21,23,21,61,54,2,1,5,1,6,5,5,0,1
+124,Victor_China_Open,2019-09-20,China,XD,4,0,41,Thailand,Malaysia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,Goh Soon Huat,Lai Shevon Jemie,0,21,17,21,16,0,0,42,33,2,0,11,0,7,9,11,7,1
+125,Yonex_All_England_Open,2019-03-07,England,XD,4,0,30,China,Hongkong,Wang Yi Lyu,Huang Dong Ping,2,Chang Tak Ching,Ng Wing Yung,0,21,17,21,11,0,0,42,28,2,0,2,0,6,4,1,0,1
+126,Victor_China_Open,2019-09-18,China,XD,4,0,31,China,Japan,Wang Yi Lyu,Huang Dong Ping,2,Kohei Gondo,Ayane Kurihara,0,21,9,21,18,0,0,42,27,2,0,3,0,6,3,1,0,1
+127,Victor_China_Open,2019-09-19,China,XD,4,0,36,Japan,China,Yuta Watanabe,Arisa Higashino,3,He Ji Ting,Du Yue,0,21,12,21,10,0,0,42,22,2,0,3,0,6,3,4,2,1
+128,Blibli_Indonesia_Open,2019-07-16,Indonesia,XD,4,0,29,England,Germany,Marcus Ellis,Lauren Smith,0,Marvin Seidel,Linda Efler,0,21,8,21,10,0,0,42,18,2,0,2,0,8,3,6,0,1
+129,Victor_China_Open,2019-09-20,China,XD,4,0,31,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Yuki Kaneko,Misaki Matsutomo,0,21,15,21,15,0,0,42,30,2,0,5,0,4,3,8,0,1
+130,Victor_China_Open,2019-09-19,China,XD,6,0,70,Malaysia,England,Goh Soon Huat,Lai Shevon Jemie,0,Marcus Ellis,Lauren Smith,8,18,21,21,17,22,20,61,58,2,1,4,1,4,4,3,3,1
+131,Blibli_Indonesia_Open,2019-07-16,Indonesia,XD,4,0,34,Germany,Indonesia,Mark Lamsfuss,Isabel Lohau,0,Praveen Jordan,Melati Daeva Oktavianti,7,22,20,21,14,0,0,43,34,2,0,2,2,5,7,1,2,1
+132,Blibli_Indonesia_Open,2019-07-18,Indonesia,XD,4,0,34,Malaysia,Indonesia,Goh Soon Huat,Lai Shevon Jemie,0,Hafiz Faizal,Gloria Emanuelle Widjaja,6,21,15,21,18,0,0,42,33,2,0,3,0,3,3,2,2,1
+133,Victor_China_Open,2019-09-20,China,XD,4,0,38,China,Indonesia,Wang Yi Lyu,Huang Dong Ping,2,Tontowi Ahmad,Winny Oktavina Kandow,0,24,22,21,17,0,0,45,39,2,0,3,3,6,6,1,0,1
+134,Victor_China_Open,2019-09-17,China,XD,6,0,50,India,Indonesia,Satwiksairaj Rankireddy,Ashwini Ponnappa,0,Praveen Jordan,Melati Daeva Oktavianti,6,22,20,17,21,21,17,60,58,2,1,3,3,5,5,1,1,1
+135,Yonex_All_England_Open,2019-03-06,England,XD,6,0,58,China,Malaysia,Wang Yi Lyu,Huang Dong Ping,2,Tan Kian Meng,Lai Pei Jing,0,15,21,21,16,21,12,57,49,2,1,2,1,5,5,7,1,1
+136,Yonex_All_England_Open,2018-03-14,England,XD,6,0,56,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,0,Tang Chun Man,Tse Ying Suet,3,18,21,21,18,21,16,60,55,2,1,2,3,10,5,17,2,1
+137,Victor_China_Open,2019-09-18,China,XD,4,0,35,Malaysia,Korea,Chan Peng Soon,Goh Liu Ying,5,Ko Sung Hyun,Eom Hye Won,0,21,16,21,10,0,0,42,26,2,0,3,0,5,3,1,2,1
+138,Yonex_All_England_Open,2018-03-14,England,XD,4,0,28,Indonesia,Chinesetaipei,Praveen Jordan,Debby Susanto,4,Lee Yang,Hsu Ya Ching,0,21,12,21,19,0,0,42,31,2,0,5,0,6,4,1,0,1
+139,Victor_China_Open,2019-09-20,China,XD,4,0,38,Korea,Japan,Seo Seung Jae,Chae Yu Jung,7,Yuta Watanabe,Arisa Higashino,3,21,17,21,13,0,0,42,30,2,0,4,0,4,3,4,7,1
+140,Blibli_Indonesia_Open,2019-07-17,Indonesia,XD,2,1,5,China,Chinesetaipei,Wang Yi Lyu,Huang Dong Ping,2,Wang Chi-Lin,Cheng Chi Ya,0,11,4,0,0,0,0,11,4,1,0,0,0,4,2,2,1,1
+141,Victor_China_Open,2019-09-17,China,XD,4,0,34,Germany,France,Marvin Seidel,Linda Efler,0,Thom Gicquel,Delphine Delrue,0,21,14,21,16,0,0,42,30,2,0,4,0,5,2,1,2,1
+142,Yonex_All_England_Open,2018-03-14,England,XD,4,0,33,India,Germany,Pranaav Jerry Chopra,Reddy Sikki,0,Marvin Seidel,Linda Efler,0,21,19,21,13,0,0,42,32,2,0,3,0,6,4,3,1,1
+143,Victor_China_Open,2019-09-17,China,XD,4,0,23,China,Canada,He Ji Ting,Du Yue,0,Joshua Hurlburt-Yu,Josephine Wu,0,21,11,21,10,0,0,42,21,2,0,3,0,6,3,1,0,1
+144,Victor_China_Open,2019-09-21,China,XD,4,0,40,China,Thailand,Wang Yi Lyu,Huang Dong Ping,2,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,21,16,21,10,0,0,42,26,2,0,2,0,7,3,8,10,1
+145,Victor_China_Open,2019-09-18,China,XD,4,0,35,China,Netherlands,Lu Kai,Chen Lu,0,Robin Tabeling,Selena Piek,0,21,16,21,18,0,0,42,34,2,0,5,0,6,5,1,0,1
+146,Victor_China_Open,2019-09-19,China,XD,4,0,23,China,Germany,Zheng Si Wei,Huang Ya Qiong,1,Marvin Seidel,Linda Efler,0,21,9,21,10,0,0,42,19,2,0,3,0,4,3,2,0,1
+147,Victor_China_Open,2019-09-21,China,XD,4,0,31,China,Korea,Zheng Si Wei,Huang Ya Qiong,1,Seo Seung Jae,Chae Yu Jung,7,21,14,21,15,0,0,42,29,2,0,8,0,5,6,16,3,1
+148,Blibli_Indonesia_Open,2019-07-17,Indonesia,XD,6,0,62,Indonesia,Indonesia,Hafiz Faizal,Gloria Emanuelle Widjaja,6,Rinov Rivaldy,Pitha Haningtyas Mentari,0,22,24,22,20,21,15,65,59,2,1,8,2,7,4,3,0,1
+149,Blibli_Indonesia_Open,2019-07-16,Indonesia,XD,4,0,29,China,China,Zheng Si Wei,Huang Ya Qiong,1,He Ji Ting,Du Yue,0,21,19,21,8,0,0,42,27,2,0,4,0,6,4,5,1,1
+150,Victor_China_Open,2019-09-19,China,XD,6,0,54,Japan,India,Yuki Kaneko,Misaki Matsutomo,0,Satwiksairaj Rankireddy,Ashwini Ponnappa,0,21,11,16,21,21,12,58,44,2,1,3,1,6,6,2,0,1
+151,Victor_China_Open,2019-09-22,China,XD,6,0,52,China,China,Zheng Si Wei,Huang Ya Qiong,1,Wang Yi Lyu,Huang Dong Ping,2,21,17,13,21,21,16,55,54,2,1,5,3,4,4,16,5,1
+152,Blibli_Indonesia_Open,2019-07-16,Indonesia,XD,6,0,64,India,Netherlands,Pranaav Jerry Chopra,Reddy Sikki,0,Robin Tabeling,Selena Piek,0,25,23,16,21,21,19,62,63,2,1,5,6,6,5,1,1,1
+153,Victor_China_Open,2019-09-18,China,XD,4,0,29,Korea,China,Seo Seung Jae,Chae Yu Jung,7,Ou Xuan Yi,Feng Xue Ying,0,21,14,21,12,0,0,42,26,2,0,5,0,9,3,1,0,1
+154,Victor_China_Open,2019-09-17,China,XD,4,0,26,Japan,Ireland,Yuki Kaneko,Misaki Matsutomo,0,Sam Magee,Chloe Magee,0,21,9,21,7,0,0,42,16,2,0,4,0,9,2,2,0,1
+155,Victor_China_Open,2019-09-19,China,XD,6,0,65,Indonesia,Malaysia,Tontowi Ahmad,Winny Oktavina Kandow,0,Chan Peng Soon,Goh Liu Ying,5,17,21,23,21,21,18,61,60,2,1,4,3,4,5,2,1,1
+156,Yonex_All_England_Open,2020-03-12,England,XD,4,0,38,England,Japan,Marcus Ellis,Lauren Smith,0,Yuta Watanabe,Arisa Higashino,4,21,15,21,10,0,0,42,25,2,0,0,0,0,0,1,2,1
+157,Blibli_Indonesia_Open,2019-07-17,Indonesia,XD,6,0,59,Thailand,Thailand,Nipitphon Phuangphuapet,Savitree Amitrapai,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,13,21,21,19,21,19,55,59,2,1,3,2,5,4,1,1,1
+158,Yonex_All_England_Open,2020-03-13,England,XD,6,0,84,England,Hongkong,Marcus Ellis,Lauren Smith,0,Tang Chun Man,Tse Ying Suet,0,24,26,22,20,21,11,67,57,2,1,0,0,0,0,1,7,1
+159,Blibli_Indonesia_Open,2019-07-17,Indonesia,XD,6,0,49,China,Indonesia,Ou Xuan Yi,Feng Xue Ying,0,Alfian Eko Prasetya,Marsheilla Gischa Islami,0,21,14,7,21,21,19,49,54,2,1,2,1,4,7,1,0,1
+160,Blibli_Indonesia_Open,2019-07-18,Indonesia,XD,4,0,42,England,Germany,Marcus Ellis,Lauren Smith,0,Mark Lamsfuss,Isabel Lohau,0,21,18,21,18,0,0,42,36,2,0,4,0,5,3,7,3,1
+161,Victor_China_Open,2019-09-17,China,XD,6,0,63,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,3,Tang Chun Man,Tse Ying Suet,0,17,21,21,17,21,14,59,52,2,1,5,1,5,5,17,2,1
+162,Yonex_All_England_Open,2019-03-06,England,XD,2,1,4,Japan,Denmark,Kohei Gondo,Ayane Kurihara,0,Niclas Nohr,Sara Thygesen,0,7,3,0,0,0,0,7,3,1,0,0,0,5,1,1,0,1
+163,Victor_China_Open,2019-09-18,China,XD,6,0,55,Malaysia,Thailand,Goh Soon Huat,Lai Shevon Jemie,0,Nipitphon Phuangphuapet,Savitree Amitrapai,0,21,16,19,21,21,18,61,55,2,1,3,1,8,6,1,0,1
+164,Yonex_All_England_Open,2020-03-12,England,XD,6,0,51,Hongkong,Indonesia,Tang Chun Man,Tse Ying Suet,0,Rinov Rivaldy,Pitha Haningtyas Mentari,0,19,21,21,12,21,13,61,46,2,1,0,0,0,0,3,1,1
+165,Blibli_Indonesia_Open,2019-07-17,Indonesia,XD,4,0,29,Malaysia,Japan,Goh Soon Huat,Lai Shevon Jemie,0,Kohei Gondo,Ayane Kurihara,0,21,12,21,8,0,0,42,20,2,0,2,0,10,3,2,0,1
+166,Yonex_All_England_Open,2018-03-14,England,XD,4,0,23,Indonesia,Russia,Tontowi Ahmad,Liliyana Natsir,1,Evgenij Dremin,Evgenia Dimova,0,21,10,21,12,0,0,42,22,2,0,3,0,7,3,1,0,1
+167,Victor_China_Open,2019-09-19,China,XD,6,0,48,Thailand,Germany,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,Mark Lamsfuss,Isabel Lohau,0,19,21,21,10,21,11,61,42,2,1,3,2,7,5,9,1,1
+168,Blibli_Indonesia_Open,2019-07-18,Indonesia,XD,4,0,33,China,India,Zheng Si Wei,Huang Ya Qiong,1,Pranaav Jerry Chopra,Reddy Sikki,0,21,14,21,11,0,0,42,25,2,0,3,0,4,3,6,0,1
+169,Victor_China_Open,2019-09-18,China,XD,4,0,44,England,England,Marcus Ellis,Lauren Smith,8,Chris Adcock,Gabrielle Adcock,0,21,16,21,18,0,0,42,34,2,0,4,0,4,2,2,1,1
+170,Yonex_All_England_Open,2020-03-11,England,XD,4,0,37,England,Japan,Marcus Ellis,Lauren Smith,0,Takuro Hoki,Wakana Nagahara,0,21,9,21,15,0,0,42,24,2,0,3,0,5,4,1,0,1
+171,Yonex_All_England_Open,2018-03-14,England,XD,6,0,59,Chinesetaipei,China,Lu Ching Yao,Chiang Kai Hsin,0,Lu Kai,Cao Tong Wei,0,21,13,14,21,22,20,57,54,2,1,6,3,5,6,1,0,1
+172,Yonex_All_England_Open,2020-03-14,England,XD,6,0,83,Thailand,Korea,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,Seo Seung Jae,Chae Yu Jung,6,21,18,17,21,21,19,59,58,2,1,0,0,0,0,10,10,1
+173,Yonex_All_England_Open,2020-03-15,England,XD,6,0,62,Indonesia,Thailand,Praveen Jordan,Melati Daeva Oktavianti,5,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,21,15,17,21,21,8,59,44,2,1,0,0,0,0,4,8,1
+174,Yonex_All_England_Open,2020-03-13,England,XD,6,0,71,Indonesia,China,Praveen Jordan,Melati Daeva Oktavianti,5,Wang Yi Lyu,Huang Dong Ping,2,15,21,21,19,21,19,57,59,2,1,0,0,0,0,2,7,1
+175,Victor_China_Open,2019-09-19,China,XD,4,0,35,Korea,Indonesia,Seo Seung Jae,Chae Yu Jung,7,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,15,21,18,0,0,42,33,2,0,3,0,5,4,8,0,1
+176,Victor_China_Open,2019-09-18,China,XD,4,0,31,Germany,India,Mark Lamsfuss,Isabel Lohau,0,Pranaav Jerry Chopra,Reddy Sikki,0,21,12,23,21,0,0,44,33,2,0,2,3,5,5,1,0,1
+177,Yonex_All_England_Open,2021-03-17,England,XD,4,0,31,England,Ireland,Marcus Ellis,Lauren Smith,4,Paul Reynolds,Rachael Darragh,0,21,12,21,11,0,0,42,23,2,0,3,0,4,3,1,0,1
+178,Yonex_All_England_Open,2020-03-13,England,XD,4,0,37,Thailand,Indonesia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,Hafiz Faizal,Gloria Emanuelle Widjaja,8,21,17,21,11,0,0,42,28,2,0,0,0,0,0,6,0,1
+179,Yonex_All_England_Open,2020-03-14,England,XD,6,0,68,Indonesia,England,Praveen Jordan,Melati Daeva Oktavianti,5,Marcus Ellis,Lauren Smith,0,21,15,21,23,21,11,63,49,2,1,0,0,0,0,4,0,1
+180,Yonex_All_England_Open,2020-03-13,England,XD,4,0,36,Korea,Netherlands,Seo Seung Jae,Chae Yu Jung,6,Robin Tabeling,Selena Piek,0,21,16,21,19,0,0,42,35,2,0,0,0,0,0,7,3,1
+181,Yonex_All_England_Open,2019-03-06,England,XD,4,0,30,Malaysia,Indonesia,Goh Soon Huat,Lai Shevon Jemie,0,Ronald Ronald,Annisa Saufika,0,21,16,21,11,0,0,42,27,2,0,2,0,6,4,1,0,1
+182,Yonex_All_England_Open,2020-03-12,England,XD,4,0,35,Netherlands,China,Robin Tabeling,Selena Piek,0,Zheng Si Wei,Huang Ya Qiong,1,22,20,21,17,0,0,43,37,2,0,0,0,0,0,1,3,1
+183,Victor_China_Open,2019-09-19,China,XD,4,0,34,China,China,Wang Yi Lyu,Huang Dong Ping,2,Lu Kai,Chen Lu,0,21,16,21,12,0,0,42,28,2,0,3,0,5,3,2,0,1
+184,Yonex_All_England_Open,2020-03-11,England,XD,6,0,59,Indonesia,England,Hafiz Faizal,Gloria Emanuelle Widjaja,8,Chris Adcock,Gabrielle Adcock,0,21,19,17,21,21,12,59,52,2,1,2,2,5,7,3,1,1
+185,Yonex_All_England_Open,2019-03-06,England,XD,4,0,35,China,Korea,Lu Kai,Chen Lu,0,Seo Seung Jae,Chae Yu Jung,0,21,18,21,18,0,0,42,36,2,0,4,0,4,4,1,1,1
+186,Yonex_All_England_Open,2020-03-12,England,XD,4,0,38,Korea,Germany,Seo Seung Jae,Chae Yu Jung,6,Mark Lamsfuss,Isabel Lohau,0,21,18,21,15,0,0,42,33,2,0,0,0,0,0,3,0,1
+187,Yonex_All_England_Open,2019-03-06,England,XD,4,0,26,Indonesia,Indonesia,Tontowi Ahmad,Winny Oktavina Kandow,0,Alfian Eko Prasetya,Marsheilla Gischa Islami,0,21,7,21,18,0,0,42,25,2,0,3,0,8,5,1,0,1
+188,Yonex_All_England_Open,2018-03-14,England,XD,4,0,34,China,France,Zhang Nan,Li Yin Hui,8,Ronan Labar,Audrey Mittelheisser,0,21,17,21,16,0,0,42,33,2,0,3,0,6,3,1,0,1
+189,Yonex_All_England_Open,2020-03-12,England,XD,4,0,33,Indonesia,France,Hafiz Faizal,Gloria Emanuelle Widjaja,8,Thom Gicquel,Delphine Delrue,0,21,15,21,12,0,0,42,27,2,0,0,0,0,0,1,1,1
+190,Yonex_All_England_Open,2020-03-11,England,XD,4,0,33,Indonesia,Malaysia,Rinov Rivaldy,Pitha Haningtyas Mentari,0,Chan Peng Soon,Goh Liu Ying,7,21,16,21,11,0,0,42,27,2,0,2,0,6,5,1,2,1
+191,Yonex_All_England_Open,2020-03-12,England,XD,4,0,29,Thailand,Chinesetaipei,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,Lee Jhe-Huei,Hsu Ya Ching,0,21,15,21,7,0,0,42,22,2,0,0,0,0,0,6,0,1
+192,Yonex_All_England_Open,2021-03-18,England,XD,4,0,36,England,Denmark,Marcus Ellis,Lauren Smith,4,Rasmus Espersen,Christine Busch,0,21,19,21,13,0,0,42,32,2,0,0,0,0,0,1,0,1
+193,Yonex_All_England_Open,2021-03-20,England,XD,4,0,42,Japan,Malaysia,Yuki Kaneko,Misaki Matsutomo,0,Chan Peng Soon,Goh Liu Ying,3,21,14,22,20,0,0,43,34,2,0,0,0,0,0,1,1,1
+194,Yonex_All_England_Open,2021-03-19,England,XD,4,0,45,England,Denmark,Marcus Ellis,Lauren Smith,4,Mikkel Mikkelsen,Rikke Søby,0,22,20,21,19,0,0,43,39,2,0,0,0,0,0,2,1,1
+195,Victor_China_Open,2019-09-18,China,XD,6,0,63,Indonesia,Russia,Tontowi Ahmad,Winny Oktavina Kandow,0,Rodion Alimov,Alina Davletova,0,21,13,16,21,26,24,63,58,2,1,6,3,6,3,1,0,1
+196,Yonex_All_England_Open,2021-03-18,England,XD,4,0,34,Malaysia,England,Tan Kian Meng,Lai Pei Jing,6,Steven Stallwood,Annie Lado,0,21,15,21,15,0,0,42,30,2,0,0,0,0,0,1,0,1
+197,Yonex_All_England_Open,2021-03-21,England,XD,4,0,40,Japan,Japan,Yuta Watanabe,Arisa Higashino,2,Yuki Kaneko,Misaki Matsutomo,0,21,14,21,13,0,0,42,27,2,0,0,0,0,0,5,1,1
+198,Yonex_All_England_Open,2021-03-19,England,XD,6,0,66,Malaysia,France,Chan Peng Soon,Goh Liu Ying,3,Thom Gicquel,Delphine Delrue,7,17,21,21,18,22,20,60,59,2,1,0,0,0,0,4,0,1
+199,Yonex_All_England_Open,2021-03-20,England,XD,4,0,39,Japan,England,Yuta Watanabe,Arisa Higashino,2,Marcus Ellis,Lauren Smith,4,21,10,21,18,0,0,42,28,2,0,0,0,0,0,2,1,1
+200,Yonex_All_England_Open,2020-03-11,England,XD,6,0,51,China,India,Zheng Si Wei,Huang Ya Qiong,1,Pranaav Jerry Chopra,Reddy Sikki,0,21,13,11,21,21,17,53,51,2,1,3,1,5,5,6,0,1
+201,Yonex_All_England_Open,2021-03-18,England,XD,4,0,44,Ireland,Malaysia,Sam Magee,Chloe Magee,0,Goh Soon Huat,Lai Shevon Jemie,5,21,19,21,16,0,0,42,35,2,0,0,0,0,0,1,2,1
+202,Yonex_All_England_Open,2020-03-12,England,XD,6,0,56,Indonesia,Malaysia,Praveen Jordan,Melati Daeva Oktavianti,5,Tan Kian Meng,Lai Pei Jing,0,21,19,18,21,21,10,60,50,2,1,0,0,0,0,3,1,1
+203,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,XD,4,0,46,Indonesia,France,Adnan Maulana,Mychelle Crhystine Bandaso,0,Thom Gicquel,Delphine Delrue,7,21,17,21,17,0,0,42,34,2,0,2,0,6,6,1,1,1
+204,Yonex_All_England_Open,2020-03-12,England,XD,4,0,25,China,Chinesetaipei,Wang Yi Lyu,Huang Dong Ping,2,Yang Po-Hsuan,Hu Ling Fang,0,21,8,21,15,0,0,42,23,2,0,0,0,0,0,1,1,1
+205,Yonex_All_England_Open,2020-03-11,England,XD,4,0,43,Japan,Korea,Yuta Watanabe,Arisa Higashino,4,Ko Sung Hyun,Eom Hye Won,0,23,21,21,14,0,0,44,35,2,0,5,3,4,4,5,0,1
+206,Yonex_All_England_Open,2020-03-11,England,XD,4,0,34,Netherlands,Denmark,Robin Tabeling,Selena Piek,0,Mathias Christiansen,Alexandra Bøje,0,21,10,22,20,0,0,43,30,2,0,2,1,6,4,5,5,1
+207,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,XD,6,0,63,Hongkong,Korea,Tang Chun Man,Tse Ying Suet,8,Seo Seung Jae,Kim Hye Jeong,0,21,12,19,21,21,19,61,52,2,1,4,1,4,5,1,0,1
+208,Yonex_All_England_Open,2020-03-11,England,XD,4,0,30,Korea,Malaysia,Seo Seung Jae,Chae Yu Jung,6,Goh Soon Huat,Lai Shevon Jemie,0,21,12,21,13,0,0,42,25,2,0,4,0,7,4,4,1,1
+209,Yonex_All_England_Open,2021-03-18,England,XD,4,0,23,Malaysia,Thailand,Chan Peng Soon,Goh Liu Ying,3,Nipitphon Phuangphuapet,Benyapa Aimsaard,0,21,9,21,8,0,0,42,17,2,0,0,0,0,0,2,0,1
+210,Yonex_All_England_Open,2021-03-19,England,XD,4,0,32,Japan,Denmark,Yuki Kaneko,Misaki Matsutomo,0,Niclas Nohr,Amalie Magelund,0,21,15,21,10,0,0,42,25,2,0,0,0,0,0,1,0,1
+211,Yonex_All_England_Open,2018-03-14,England,XD,4,0,34,England,Denmark,Marcus Ellis,Lauren Smith,0,Mikkel Mikkelsen,Mai Surrow,0,21,15,21,17,0,0,42,32,2,0,5,0,4,3,3,0,1
+212,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,XD,4,0,41,Hongkong,Japan,Tang Chun Man,Tse Ying Suet,8,Kyohei Yamashita,Naru Shinoya,0,21,15,21,19,0,0,42,34,2,0,2,0,4,3,2,1,1
+213,Yonex_All_England_Open,2021-03-19,England,XD,4,0,31,Japan,Malaysia,Yuta Watanabe,Arisa Higashino,2,Tan Kian Meng,Lai Pei Jing,6,21,17,21,9,0,0,42,26,2,0,0,0,0,0,8,2,1
+214,Yonex_All_England_Open,2019-03-06,England,XD,4,0,22,China,Russia,Zheng Si Wei,Huang Ya Qiong,1,Evgenij Dremin,Evgenia Dimova,0,21,8,21,12,0,0,42,20,2,0,2,0,7,3,2,0,1
+215,Yonex_All_England_Open,2021-03-17,England,XD,6,0,46,Germany,Israel,Patrick Volkmann,Franziska Volkmann,0,Misha Zilberman,Svetlana Zilberman,0,21,15,21,23,21,14,63,52,2,1,12,2,7,8,1,0,1
+216,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,XD,4,0,32,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,3,Tang Chun Man,Tse Ying Suet,8,21,17,21,8,0,0,42,25,2,0,4,0,8,3,17,2,1
+217,Yonex_All_England_Open,2020-03-11,England,XD,4,0,26,Indonesia,Chinesetaipei,Praveen Jordan,Melati Daeva Oktavianti,5,Wang Chi-Lin,Cheng Chi Ya,0,21,9,21,18,0,0,42,27,2,0,5,0,6,6,4,0,1
+218,Yonex_All_England_Open,2021-03-18,England,XD,4,0,29,Denmark,India,Niclas Nohr,Amalie Magelund,0,Dhruv Kapila,Jakkampudi Meghana,0,21,19,21,8,0,0,42,27,2,0,0,0,0,0,1,0,1
+219,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,XD,4,0,27,Thailand,Korea,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,Kim Young Hyuk,Chae Yu Jung,0,21,10,21,7,0,0,42,17,2,0,3,0,6,2,1,0,1
+220,Yonex_All_England_Open,2021-03-18,England,XD,6,0,61,France,Malaysia,Thom Gicquel,Delphine Delrue,7,Chen Tang Jie,Peck Yen Wei,0,21,19,20,22,21,14,62,55,2,1,0,0,0,0,3,0,1
+221,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,XD,4,0,34,Malaysia,Germany,Chan Peng Soon,Goh Liu Ying,5,Jones Ralfy Jansen,Linda Efler,0,21,9,21,13,0,0,42,22,2,0,3,0,6,3,1,1,1
+222,Yonex_All_England_Open,2019-03-06,England,XD,4,0,34,Ireland,Russia,Sam Magee,Chloe Magee,0,Rodion Alimov,Alina Davletova,0,21,18,21,14,0,0,42,32,2,0,6,0,4,4,3,1,1
+223,Yonex_All_England_Open,2020-03-11,England,XD,4,0,32,Germany,China,Mark Lamsfuss,Isabel Lohau,0,Guo Xin Wa,Zhang Shu Xian,0,21,7,21,16,0,0,42,23,2,0,3,0,11,5,1,0,1
+224,Yonex_All_England_Open,2021-03-18,England,XD,6,0,55,Japan,Ireland,Yuki Kaneko,Misaki Matsutomo,0,Sam Magee,Chloe Magee,0,21,16,19,21,21,13,61,50,2,1,0,0,0,0,2,0,1
+225,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,XD,6,0,59,Denmark,Indonesia,Mathias Christiansen,Alexandra Bøje,0,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,14,13,21,21,16,55,51,2,1,4,1,5,4,2,3,1
+226,Yonex_All_England_Open,2019-03-06,England,XD,4,0,34,England,Germany,Ben Lane,Jessica Pugh,0,Marvin Seidel,Linda Efler,0,21,13,21,16,0,0,42,29,2,0,3,0,6,3,1,2,1
+227,Yonex_All_England_Open,2020-03-11,England,XD,4,0,29,Thailand,France,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,Ronan Labar,Anne Tran,0,21,12,21,11,0,0,42,23,2,0,3,0,9,2,1,0,1
+228,Yonex_All_England_Open,2021-03-18,England,XD,4,0,35,Japan,India,Yuki Kaneko,Misaki Matsutomo,0,Satwiksairaj Rankireddy,Ashwini Ponnappa,0,21,19,21,9,0,0,42,28,2,0,0,0,0,0,2,0,1
+229,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,XD,4,0,33,Thailand,Malaysia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,Chen Tang Jie,Peck Yen Wei,0,21,15,21,14,0,0,42,29,2,0,4,0,6,6,4,0,1
+230,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,XD,4,0,28,Japan,India,Kyohei Yamashita,Naru Shinoya,0,Dhruv Kapila,Reddy Sikki,0,21,7,21,12,0,0,42,19,2,0,2,0,8,4,1,0,1
+231,Yonex_All_England_Open,2020-03-11,England,XD,4,0,29,Chinesetaipei,Denmark,Lee Jhe-Huei,Hsu Ya Ching,0,Mathias Bay-Smidt,Rikke Søby,0,21,19,21,9,0,0,42,28,2,0,3,0,4,3,1,0,1
+232,Siminvest_Indonesia_Open_2021_New_,2021-11-27,Indonesia,XD,6,0,80,Thailand,Korea,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,Ko Sung Hyun,Eom Hye Won,0,21,17,18,21,21,14,60,52,2,1,4,3,4,5,4,0,1
+233,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,XD,4,0,40,Korea,England,Ko Sung Hyun,Eom Hye Won,0,Marcus Ellis,Lauren Smith,4,21,13,21,13,0,0,42,26,2,0,3,0,4,3,4,0,1
+234,Siminvest_Indonesia_Open_2021_New_,2021-11-27,Indonesia,XD,4,0,39,Japan,Denmark,Yuta Watanabe,Arisa Higashino,3,Mathias Christiansen,Alexandra Bøje,0,21,16,21,12,0,0,42,28,2,0,3,0,7,4,8,3,1
+235,Yonex_All_England_Open,2020-03-11,England,XD,4,0,19,Chinesetaipei,Egypt,Yang Po-Hsuan,Hu Ling Fang,0,Adham Hatem Elgamal,Doha Hany,0,21,5,21,13,0,0,42,18,2,0,3,0,10,3,1,0,1
+236,Yonex_All_England_Open,2021-03-17,England,XD,4,0,33,Denmark,India,Rasmus Espersen,Christine Busch,0,Pranaav Jerry Chopra,Reddy Sikki,0,21,15,21,17,0,0,42,32,2,0,0,0,0,0,1,0,1
+237,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,XD,6,0,64,Denmark,Indonesia,Mathias Christiansen,Alexandra Bøje,0,Hafiz Faizal,Gloria Emanuelle Widjaja,6,14,21,21,11,21,18,56,50,2,1,3,1,9,4,1,0,1
+238,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,XD,4,0,33,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,3,Chang Tak Ching,Ng Wing Yung,0,21,17,21,12,0,0,42,29,2,0,2,0,6,4,2,0,1
+239,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,XD,4,0,33,Thailand,Malaysia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,Tan Kian Meng,Lai Pei Jing,0,21,10,21,11,0,0,42,21,2,0,2,0,9,6,9,3,1
+240,Yonex_All_England_Open,2020-03-11,England,XD,4,0,33,China,Russia,Wang Yi Lyu,Huang Dong Ping,2,Rodion Alimov,Alina Davletova,0,21,15,21,18,0,0,42,33,2,0,2,0,6,5,2,0,1
+241,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,XD,6,0,63,Malaysia,Japan,Chen Tang Jie,Peck Yen Wei,0,Yuki Kaneko,Misaki Matsutomo,0,19,21,21,18,21,15,61,54,2,1,2,2,6,5,1,1,1
+242,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,XD,6,0,72,Korea,Malaysia,Ko Sung Hyun,Eom Hye Won,0,Chan Peng Soon,Goh Liu Ying,5,15,21,21,16,21,18,57,55,2,1,2,2,6,4,2,1,1
+243,Siminvest_Indonesia_Open_2021_New_,2021-11-28,Indonesia,XD,4,0,41,Thailand,Japan,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,Yuta Watanabe,Arisa Higashino,3,21,12,21,13,0,0,42,25,2,0,3,0,6,4,5,10,1
+244,Yonex_All_England_Open,2021-03-18,England,XD,4,0,38,Japan,Denmark,Yuta Watanabe,Arisa Higashino,2,Mathias Christiansen,Alexandra Bøje,0,21,16,21,19,0,0,42,35,2,0,0,0,0,0,8,3,1
+245,Yonex_All_England_Open,2020-03-11,England,XD,4,0,29,Malaysia,Canada,Tan Kian Meng,Lai Pei Jing,0,Joshua Hurlburt-Yu,Josephine Wu,0,21,16,21,11,0,0,42,27,2,0,4,0,6,3,1,0,1
+246,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,XD,2,1,0,Indonesia,Japan,Praveen Jordan,Melati Daeva Oktavianti,2,Yujiro Nishikawa,Saori Ozaki,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1
+247,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,XD,4,0,33,Malaysia,Indonesia,Chan Peng Soon,Goh Liu Ying,5,Zachariah Josiahno Sumanti,Hediana Julimarbela,0,21,12,21,17,0,0,42,29,2,0,4,0,6,3,1,0,1
+248,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,XD,6,0,52,Germany,Thailand,Mark Lamsfuss,Isabel Lohau,0,Supak Jomkoh,Supissara Paewsampran,0,23,21,15,21,21,15,59,57,2,1,4,2,4,5,2,2,1
+249,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,XD,6,0,57,Hongkong,Indonesia,Chang Tak Ching,Ng Wing Yung,0,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,22,20,16,21,21,16,59,57,2,1,3,1,3,5,1,2,1
+250,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,XD,4,0,42,Malaysia,Malaysia,Tan Kian Meng,Lai Pei Jing,0,Goh Soon Huat,Lai Shevon Jemie,0,22,20,21,17,0,0,43,37,2,0,3,2,8,3,3,6,1
+251,Yonex_All_England_Open,2021-03-18,England,XD,4,0,29,Denmark,Germany,Mikkel Mikkelsen,Rikke Søby,0,Patrick Volkmann,Franziska Volkmann,0,21,9,21,19,0,0,42,28,2,0,0,0,0,0,1,0,1
+252,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,XD,4,0,39,Indonesia,Newzealand,Hafiz Faizal,Gloria Emanuelle Widjaja,6,Oliver Leydon-Davis,Anona Pak,0,21,17,21,16,0,0,42,33,2,0,5,0,5,5,1,0,1
+253,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,XD,6,0,58,Japan,India,Takuro Hoki,Nami Matsuyama,0,Reddy B. Sumeeth,Ashwini Ponnappa,0,22,24,21,12,21,19,64,55,2,1,3,3,6,4,1,0,1
+254,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,XD,4,0,33,Malaysia,Indonesia,Tan Kian Meng,Lai Pei Jing,0,Adnan Maulana,Mychelle Crhystine Bandaso,0,21,8,21,16,0,0,42,24,2,0,3,0,5,4,4,0,1
+255,Yonex_All_England_Open,2021-03-18,England,XD,6,0,63,Malaysia,Denmark,Chan Peng Soon,Goh Liu Ying,3,Mathias Thyrri,Mai Surrow,0,21,23,21,15,21,12,63,50,2,1,0,0,0,0,1,0,1
+256,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,XD,6,0,50,Indonesia,Japan,Hafiz Faizal,Gloria Emanuelle Widjaja,6,Takuro Hoki,Nami Matsuyama,0,19,21,21,10,21,18,61,49,2,1,3,4,6,4,1,0,1
+257,Yonex_All_England_Open,2021-03-18,England,XD,4,0,43,Thailand,France,Nipitphon Phuangphuapet,Benyapa Aimsaard,0,Eloi Adam,Margot Lambert,0,21,19,22,20,0,0,43,39,2,0,0,0,0,0,1,0,1
+258,Yonex_All_England_Open,2019-03-06,England,XD,6,0,72,Japan,Denmark,Yuta Watanabe,Arisa Higashino,3,Mathias Christiansen,Christinna Pedersen,0,22,20,21,23,21,14,64,57,2,1,6,5,6,4,1,0,1
+259,Yonex_All_England_Open,2022-03-18,England,XD,4,0,37,Thailand,France,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,Thom Gicquel,Delphine Delrue,8,21,18,21,11,0,0,42,29,2,0,3,0,8,3,5,2,1
+260,Yonex_All_England_Open,2022-03-18,England,XD,4,0,47,China,Indonesia,Wang Yi Lyu,Huang Dong Ping,3,Praveen Jordan,Melati Daeva Oktavianti,5,25,23,21,19,0,0,46,42,2,0,6,2,4,5,7,2,1
+261,Yonex_All_England_Open,2022-03-19,England,XD,4,0,45,Japan,Thailand,Yuta Watanabe,Arisa Higashino,4,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,21,14,21,15,0,0,42,29,2,0,2,0,4,3,10,5,1
+262,Yonex_All_England_Open,2019-03-06,England,XD,6,0,54,Malaysia,Japan,Chan Peng Soon,Goh Liu Ying,5,Takuro Hoki,Wakana Nagahara,0,19,21,21,10,22,20,62,51,2,1,4,1,6,4,3,0,1
+263,Yonex_All_England_Open,2022-03-17,England,XD,6,0,68,Japan,England,Yuki Kaneko,Misaki Matsutomo,0,Marcus Ellis,Lauren Smith,6,21,15,21,23,22,20,64,58,2,1,6,2,5,4,1,0,1
+264,Yonex_All_England_Open,2022-03-19,England,XD,6,0,59,China,China,Wang Yi Lyu,Huang Dong Ping,3,Zheng Si Wei,Huang Ya Qiong,2,21,7,13,21,21,13,55,41,2,1,2,1,8,5,5,16,1
+265,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,XD,4,0,23,Germany,India,Jones Ralfy Jansen,Linda Efler,0,Venkat Gaurav Prasad,Juhi Dewangan,0,21,12,21,4,0,0,42,16,2,0,3,0,7,3,2,0,1
+266,Yonex_All_England_Open,2022-03-16,England,XD,4,0,48,England,Indonesia,Marcus Ellis,Lauren Smith,6,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,17,21,19,0,0,42,36,2,0,6,0,6,4,3,1,1
+267,Yonex_All_England_Open,2022-03-18,England,XD,4,0,32,Japan,Japan,Yuta Watanabe,Arisa Higashino,4,Yuki Kaneko,Misaki Matsutomo,0,21,12,21,7,0,0,42,19,2,0,2,0,6,4,5,1,1
+268,Yonex_All_England_Open,2022-03-18,England,XD,4,0,37,China,Malaysia,Zheng Si Wei,Huang Ya Qiong,2,Tan Kian Meng,Lai Pei Jing,7,21,15,21,15,0,0,42,30,2,0,3,0,4,3,9,0,1
+269,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,XD,4,0,37,Japan,Malaysia,Yuta Watanabe,Arisa Higashino,3,Hoo Pang Ron,Cheah Yee See,0,21,18,21,12,0,0,42,30,2,0,3,0,5,3,3,0,1
+270,Yonex_All_England_Open,2021-03-17,England,XD,4,0,34,Denmark,Denmark,Mikkel Mikkelsen,Rikke Søby,0,Jeppe Bay,Sara Lundgaard,0,21,13,21,16,0,0,42,29,2,0,0,0,0,0,1,0,1
+271,Yonex_All_England_Open,2022-03-20,England,XD,4,0,58,Japan,China,Yuta Watanabe,Arisa Higashino,4,Wang Yi Lyu,Huang Dong Ping,3,21,19,21,19,0,0,42,38,2,0,3,0,4,5,4,12,1
+272,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,XD,6,0,56,Korea,Germany,Ko Sung Hyun,Eom Hye Won,0,Mark Lamsfuss,Isabel Lohau,0,12,21,21,17,21,15,54,53,2,1,2,1,4,4,2,0,1
+273,Yonex_All_England_Open,2021-03-17,England,XD,4,0,27,England,Egypt,Steven Stallwood,Annie Lado,0,Adham Hatem Elgamal,Doha Hany,0,21,10,21,12,0,0,42,22,2,0,0,0,0,0,1,0,1
+274,Yonex_All_England_Open,2019-03-06,England,XD,6,0,56,Germany,Indonesia,Mark Lamsfuss,Isabel Lohau,0,Rinov Rivaldy,Pitha Haningtyas Mentari,0,22,24,23,21,21,17,66,62,2,1,8,2,4,6,2,2,1
+275,Yonex_All_England_Open,2021-03-17,England,XD,4,0,33,Denmark,Malaysia,Niclas Nohr,Amalie Magelund,0,Hoo Pang Ron,Cheah Yee See,0,21,13,21,14,0,0,42,27,2,0,3,0,8,4,1,0,1
+276,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,XD,6,0,69,Japan,France,Yuta Watanabe,Arisa Higashino,3,Thom Gicquel,Delphine Delrue,0,22,24,21,11,21,13,64,48,2,1,4,3,7,3,1,3,1
+277,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,XD,6,0,69,Malaysia,Thailand,Goh Soon Huat,Lai Shevon Jemie,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,21,18,7,21,22,20,50,59,2,1,4,1,7,6,7,11,1
+278,Yonex_All_England_Open,2019-03-06,England,XD,4,0,32,Hongkong,India,Chang Tak Ching,Ng Wing Yung,0,Pranaav Jerry Chopra,Reddy Sikki,0,23,21,21,17,0,0,44,38,2,0,4,1,6,3,2,1,1
+279,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,XD,4,0,37,Korea,Indonesia,Seo Seung Jae,Chae Yu Jung,6,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,19,21,11,0,0,42,30,2,0,3,0,5,4,8,0,1
+280,Yonex_All_England_Open,2022-03-17,England,XD,4,0,28,China,Scotland,Wang Yi Lyu,Huang Dong Ping,3,Adam Hall,Julie Macpherson,0,21,11,21,11,0,0,42,22,2,0,5,0,7,3,2,0,1
+281,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,XD,4,0,44,Denmark,Indonesia,Mathias Christiansen,Alexandra Bøje,0,Praveen Jordan,Melati Daeva Oktavianti,2,23,21,21,14,0,0,44,35,2,0,8,0,5,5,3,4,1
+282,Yonex_All_England_Open,2022-03-17,England,XD,4,0,27,China,Malaysia,Zheng Si Wei,Huang Ya Qiong,2,Ong Yew Sin,Goh Liu Ying,0,21,5,21,15,0,0,42,20,2,0,2,0,8,2,1,0,1
+283,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,XD,6,0,70,France,Germany,Thom Gicquel,Delphine Delrue,0,Mark Lamsfuss,Isabel Lohau,0,22,20,21,23,21,11,64,54,2,1,2,6,5,4,4,1,1
+284,East_Ventures_Indonesia_Open,2022-06-18,Indonesia,XD,6,0,69,Japan,Korea,Yuta Watanabe,Arisa Higashino,3,Seo Seung Jae,Chae Yu Jung,6,21,18,17,21,21,15,59,54,2,1,2,2,8,3,7,4,1
+285,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,XD,4,0,29,France,Brazil,Thom Gicquel,Delphine Delrue,0,Fabricio Farias,Jaqueline Lima,0,21,13,21,8,0,0,42,21,2,0,3,0,7,5,1,0,1
+286,Yonex_All_England_Open,2022-03-17,England,XD,4,0,38,Malaysia,Thailand,Tan Kian Meng,Lai Pei Jing,7,Supak Jomkoh,Supissara Paewsampran,0,21,19,21,17,0,0,42,36,2,0,2,0,6,6,2,4,1
+287,Yonex_All_England_Open,2019-03-06,England,XD,6,0,55,Indonesia,Indonesia,Praveen Jordan,Melati Daeva Oktavianti,0,Hafiz Faizal,Gloria Emanuelle Widjaja,8,17,21,21,18,21,19,59,58,2,1,2,3,5,5,4,2,1
+288,East_Ventures_Indonesia_Open,2022-06-18,Indonesia,XD,4,0,33,China,China,Zheng Si Wei,Huang Ya Qiong,2,Wang Yi Lyu,Huang Dong Ping,4,21,6,21,14,0,0,42,20,2,0,3,0,9,2,16,5,1
+289,East_Ventures_Indonesia_Open,2022-06-19,Indonesia,XD,4,0,41,China,Japan,Zheng Si Wei,Huang Ya Qiong,2,Yuta Watanabe,Arisa Higashino,3,21,14,21,16,0,0,42,30,2,0,3,0,5,3,15,5,1
+290,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,XD,4,0,46,Denmark,Malaysia,Mathias Christiansen,Alexandra Bøje,0,Tan Kian Meng,Lai Pei Jing,8,21,15,21,16,0,0,42,31,2,0,3,0,6,6,2,3,1
+291,Yonex_All_England_Open,2022-03-16,England,XD,6,0,51,Scotland,China,Adam Hall,Julie Macpherson,0,Ou Xuan Yi,Zhang Shu Xian,0,14,21,21,18,23,21,58,60,2,1,3,3,4,8,1,0,1
+292,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,XD,4,0,33,China,Malaysia,Wang Yi Lyu,Huang Dong Ping,4,Chen Tang Jie,Valeree Siow,0,21,12,21,14,0,0,42,26,2,0,2,0,8,4,1,0,1
+293,Petronas_Malaysia_Open,2023-01-10,Malaysia,XD,4,0,27,China,Chinesetaipei,Zheng Si Wei,Huang Ya Qiong,1,Yang Po-Hsuan,Hu Ling Fang,0,21,8,21,14,0,0,42,22,2,0,2,0,5,3,6,0,1
+294,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,XD,6,0,80,Denmark,Korea,Mathias Christiansen,Alexandra Bøje,0,Ko Sung Hyun,Eom Hye Won,0,21,15,17,21,21,17,59,53,2,1,5,1,8,6,1,0,1
+295,Yonex_All_England_Open,2022-03-16,England,XD,6,0,50,Malaysia,England,Ong Yew Sin,Goh Liu Ying,0,Callum Hemming,Jessica Pugh,0,17,21,21,17,21,11,59,49,2,1,3,1,5,4,1,0,1
+296,Yonex_All_England_Open,2022-03-17,England,XD,4,0,48,Japan,Indonesia,Yuta Watanabe,Arisa Higashino,4,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,21,19,21,17,0,0,42,36,2,0,3,0,5,5,2,0,1
+297,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,XD,4,0,32,Hongkong,India,Chang Tak Ching,Ng Wing Yung,0,Ishaan Bhatnagar,Tanisha Crasto,0,21,14,21,11,0,0,42,25,2,0,4,0,7,3,1,0,1
+298,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,XD,4,0,31,China,Thailand,Zheng Si Wei,Huang Ya Qiong,2,Supak Jomkoh,Supissara Paewsampran,0,21,15,21,16,0,0,42,31,2,0,3,0,6,6,3,0,1
+299,Petronas_Malaysia_Open,2023-01-11,Malaysia,XD,4,0,30,Singapore,Germany,Hee Yong Kai Terry,Tan Wei Han Jessica,0,Jones Ralfy Jansen,Linda Efler,0,21,16,21,10,0,0,42,26,2,0,3,0,5,3,1,0,1
+300,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,XD,4,0,36,China,China,Zheng Si Wei,Huang Ya Qiong,2,Guo Xin Wa,Zhang Shu Xian,0,21,17,21,19,0,0,42,36,2,0,5,0,5,4,1,0,1
+301,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,XD,4,0,35,Korea,Malaysia,Seo Seung Jae,Chae Yu Jung,6,Hoo Pang Ron,Toh Ee Wei,0,21,16,21,17,0,0,42,33,2,0,5,0,5,3,1,0,1
+302,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,XD,4,0,30,Indonesia,Scotland,Praveen Jordan,Melati Daeva Oktavianti,5,Adam Hall,Julie Macpherson,0,21,6,21,18,0,0,42,24,2,0,2,0,5,4,1,0,1
+303,Yonex_All_England_Open,2020-03-11,England,XD,4,0,32,France,Indonesia,Thom Gicquel,Delphine Delrue,0,Adnan Maulana,Mychelle Crhystine Bandaso,0,21,13,21,13,0,0,42,26,2,0,2,0,5,3,1,1,1
+304,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,XD,6,0,60,Germany,Indonesia,Mark Lamsfuss,Isabel Lohau,0,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,21,13,16,21,21,17,58,51,2,1,3,2,5,7,2,2,1
+305,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,XD,6,0,62,China,Denmark,Zheng Si Wei,Huang Ya Qiong,2,Mathias Christiansen,Alexandra Bøje,0,21,18,14,21,21,17,56,56,2,1,4,1,4,4,6,0,1
+306,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,XD,4,0,39,Malaysia,Malaysia,Hoo Pang Ron,Toh Ee Wei,0,Goh Soon Huat,Lai Shevon Jemie,0,21,19,21,19,0,0,42,38,2,0,4,0,7,4,1,1,1
+307,Yonex_All_England_Open,2022-03-17,England,XD,4,0,36,Thailand,Denmark,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,Mathias Thyrri,Amalie Magelund,0,21,11,21,13,0,0,42,24,2,0,3,0,5,3,1,0,1
+308,Yonex_All_England_Open,2021-03-17,England,XD,4,0,28,Malaysia,Japan,Tan Kian Meng,Lai Pei Jing,6,Takuro Hoki,Nami Matsuyama,0,21,13,21,13,0,0,42,26,2,0,0,0,0,0,1,0,1
+309,Petronas_Malaysia_Open,2023-01-11,Malaysia,XD,6,0,58,Indonesia,Malaysia,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,Chan Peng Soon,Goh Liu Ying,0,18,21,21,15,21,7,60,43,2,1,3,1,7,5,1,0,1
+310,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,XD,4,0,36,Malaysia,Malaysia,Chen Tang Jie,Valeree Siow,0,Choong Hon Jian,Peck Yen Wei,0,21,17,21,14,0,0,42,31,2,0,2,0,5,5,1,0,1
+311,Petronas_Malaysia_Open,2023-01-12,Malaysia,XD,4,0,40,Indonesia,Hongkong,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Tang Chun Man,Tse Ying Suet,5,21,17,21,16,0,0,42,33,2,0,4,0,5,5,3,1,1
+312,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,XD,4,0,37,China,Malaysia,Wang Yi Lyu,Huang Dong Ping,4,Chan Peng Soon,Cheah Yee See,0,21,11,21,14,0,0,42,25,2,0,2,0,9,4,3,0,1
+313,Yonex_All_England_Open,2021-03-17,England,XD,6,0,62,Malaysia,England,Chen Tang Jie,Peck Yen Wei,0,Gregory Mairs,Jenny Mairs,0,21,13,18,21,21,18,60,52,2,1,0,0,0,0,1,0,1
+314,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,XD,4,0,40,Malaysia,England,Chan Peng Soon,Cheah Yee See,0,Marcus Ellis,Lauren Smith,0,21,15,21,16,0,0,42,31,2,0,4,0,9,7,1,1,1
+315,Petronas_Malaysia_Open,2023-01-10,Malaysia,XD,4,0,40,China,Germany,Wang Yi Lyu,Huang Dong Ping,4,Mark Lamsfuss,Isabel Lohau,0,21,17,23,21,0,0,44,38,2,0,6,0,6,4,7,0,1
+316,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,XD,4,0,39,Malaysia,Indonesia,Soong Joo Ven,Goh Liu Ying,0,Hafiz Faizal,Serena Kani,0,21,13,22,20,0,0,43,33,2,0,3,0,6,4,1,1,1
+317,Yonex_All_England_Open,2021-03-17,England,XD,4,0,43,Denmark,Netherlands,Mathias Christiansen,Alexandra Bøje,0,Robin Tabeling,Selena Piek,0,21,16,22,20,0,0,43,36,2,0,4,0,5,6,5,5,1
+318,Yonex_All_England_Open,2020-03-11,England,XD,4,0,30,Hongkong,Ireland,Tang Chun Man,Tse Ying Suet,0,Sam Magee,Chloe Magee,0,21,11,21,12,0,0,42,23,2,0,3,0,6,3,3,0,1
+319,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,XD,6,0,65,Japan,Netherlands,Yuta Watanabe,Arisa Higashino,3,Robin Tabeling,Selena Piek,0,27,25,21,23,21,15,69,63,2,1,9,6,6,6,4,1,1
+320,Petronas_Malaysia_Open,2023-01-11,Malaysia,XD,4,0,38,Korea,Hongkong,Seo Seung Jae,Chae Yu Jung,7,Lee Chun Hei Reginald,Ng Tsz Yau,0,21,17,26,24,0,0,47,41,2,0,7,3,5,5,3,0,1
+321,Petronas_Malaysia_Open,2023-01-10,Malaysia,XD,6,0,54,Malaysia,Japan,Hoo Pang Ron,Teoh Mei Xing,0,Kyohei Yamashita,Naru Shinoya,0,21,11,15,21,21,19,57,51,2,1,5,3,7,6,1,0,1
+322,Yonex_All_England_Open,2022-03-17,England,XD,4,0,30,Indonesia,Malaysia,Praveen Jordan,Melati Daeva Oktavianti,5,Hoo Pang Ron,Cheah Yee See,0,21,16,21,14,0,0,42,30,2,0,2,0,5,3,1,1,1
+323,Petronas_Malaysia_Open,2023-01-12,Malaysia,XD,4,0,30,China,Malaysia,Zheng Si Wei,Huang Ya Qiong,1,Goh Soon Huat,Lai Shevon Jemie,0,21,16,21,10,0,0,42,26,2,0,5,0,11,3,12,0,1
+324,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,XD,6,0,70,Korea,Japan,Ko Sung Hyun,Eom Hye Won,0,Kyohei Yamashita,Naru Shinoya,0,21,14,19,21,21,16,61,51,2,1,3,1,9,3,2,0,1
+325,Yonex_All_England_Open,2022-03-17,England,XD,6,0,64,France,Germany,Thom Gicquel,Delphine Delrue,8,Jones Ralfy Jansen,Linda Efler,0,21,11,20,22,21,15,62,48,2,1,4,2,5,4,4,0,1
+326,Petronas_Malaysia_Open,2023-01-10,Malaysia,XD,4,0,27,Malaysia,Chinesetaipei,Goh Soon Huat,Lai Shevon Jemie,0,Chang Ko-Chi,Lee Chih Chen,0,21,15,21,13,0,0,42,28,2,0,9,0,8,7,2,1,1
+327,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,XD,6,0,53,Thailand,Korea,Supak Jomkoh,Supissara Paewsampran,0,Kim Won Ho,Jeong Na Eun,0,21,17,13,21,21,15,55,53,2,1,5,1,8,5,2,0,1
+328,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,XD,4,0,44,Korea,Hongkong,Seo Seung Jae,Chae Yu Jung,6,Chang Tak Ching,Ng Wing Yung,0,21,19,28,26,0,0,49,45,2,0,4,5,7,4,4,0,1
+329,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,XD,6,0,73,China,Singapore,Wang Yi Lyu,Huang Dong Ping,4,Hee Yong Kai Terry,Tan Wei Han Jessica,0,13,21,21,19,26,24,60,64,2,1,8,4,6,7,1,0,1
+330,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,XD,4,0,34,Japan,Malaysia,Yuta Watanabe,Arisa Higashino,3,Soong Joo Ven,Goh Liu Ying,0,21,17,21,12,0,0,42,29,2,0,2,0,7,4,1,0,1
+331,Petronas_Malaysia_Open,2023-01-13,Malaysia,XD,4,0,36,Thailand,Malaysia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,2,Chen Tang Jie,Toh Ee Wei,0,21,19,21,9,0,0,42,28,2,0,5,0,4,3,5,2,1
+332,Petronas_Malaysia_Open,2023-01-10,Malaysia,XD,6,0,50,Hongkong,Scotland,Tang Chun Man,Tse Ying Suet,5,Adam Hall,Julie Macpherson,0,21,18,19,21,21,19,61,58,2,1,2,1,6,5,2,0,1
+333,Petronas_Malaysia_Open,2023-01-10,Malaysia,XD,4,0,41,Korea,Denmark,Kim Won Ho,Jeong Na Eun,0,Mathias Christiansen,Alexandra Bøje,0,22,20,21,19,0,0,43,39,2,0,3,1,5,4,2,2,1
+334,Petronas_Malaysia_Open,2023-01-13,Malaysia,XD,4,0,37,China,France,Zheng Si Wei,Huang Ya Qiong,1,Thom Gicquel,Delphine Delrue,8,21,15,21,6,0,0,42,21,2,0,4,0,9,3,7,0,1
+335,Petronas_Malaysia_Open,2023-01-10,Malaysia,XD,4,0,32,Indonesia,Netherlands,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Robin Tabeling,Selena Piek,0,21,16,21,14,0,0,42,30,2,0,4,0,5,3,3,1,1
+336,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,XD,4,0,31,Malaysia,Japan,Hoo Pang Ron,Toh Ee Wei,0,Yuki Kaneko,Misaki Matsutomo,0,21,14,21,19,0,0,42,33,2,0,3,0,6,3,1,0,1
+337,Petronas_Malaysia_Open,2023-01-12,Malaysia,XD,6,0,62,France,Malaysia,Thom Gicquel,Delphine Delrue,8,Hoo Pang Ron,Teoh Mei Xing,0,21,18,13,21,21,12,55,51,2,1,4,2,4,6,1,0,1
+338,Petronas_Malaysia_Open,2023-01-11,Malaysia,XD,4,0,35,Japan,Indonesia,Yuki Kaneko,Misaki Matsutomo,0,Zachariah Josiahno Sumanti,Hediana Julimarbela,0,21,17,21,18,0,0,42,35,2,0,2,0,5,4,1,0,1
+339,Yonex_All_England_Open,2021-03-17,England,XD,4,0,36,Japan,France,Yuta Watanabe,Arisa Higashino,2,Ronan Labar,Anne Tran,0,21,10,21,18,0,0,42,28,2,0,0,0,0,0,2,0,1
+340,Petronas_Malaysia_Open,2023-01-10,Malaysia,XD,4,0,45,France,Indonesia,Thom Gicquel,Delphine Delrue,8,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,18,21,18,0,0,42,36,2,0,3,0,6,5,2,2,1
+341,Petronas_Malaysia_Open,2023-01-13,Malaysia,XD,4,0,42,Japan,Korea,Yuta Watanabe,Arisa Higashino,3,Seo Seung Jae,Chae Yu Jung,7,21,17,21,17,0,0,42,34,2,0,3,0,5,6,7,4,1
+342,Yonex_All_England_Open,2021-03-17,England,XD,4,0,26,France,England,Thom Gicquel,Delphine Delrue,7,Callum Hemming,Victoria Williams,0,21,10,21,11,0,0,42,21,2,0,0,0,0,0,1,0,1
+343,Petronas_Malaysia_Open,2023-01-14,Malaysia,XD,4,0,43,Japan,Thailand,Yuta Watanabe,Arisa Higashino,3,Dechapol Puavaranukroh,Sapsiree Taerattanachai,2,21,18,21,15,0,0,42,33,2,0,0,0,0,0,10,5,1
+344,Petronas_Malaysia_Open,2023-01-11,Malaysia,XD,4,0,31,Malaysia,Malaysia,Chen Tang Jie,Toh Ee Wei,0,Tan Kian Meng,Lai Pei Jing,6,21,15,21,10,0,0,42,25,2,0,3,0,5,3,3,0,1
+345,Petronas_Malaysia_Open,2023-01-15,Malaysia,XD,4,0,44,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Yuta Watanabe,Arisa Higashino,3,21,19,21,11,0,0,42,30,2,0,2,0,5,4,15,5,1
+346,Petronas_Malaysia_Open,2023-01-12,Malaysia,XD,4,0,46,Japan,Japan,Yuta Watanabe,Arisa Higashino,3,Yuki Kaneko,Misaki Matsutomo,0,21,17,21,13,0,0,42,30,2,0,3,0,5,5,5,1,1
+347,Petronas_Malaysia_Open,2023-01-13,Malaysia,XD,4,0,46,Indonesia,Korea,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Kim Won Ho,Jeong Na Eun,0,21,16,21,19,0,0,42,35,2,0,3,0,5,4,1,3,1
+348,Petronas_Malaysia_Open,2023-01-14,Malaysia,XD,4,0,43,China,Indonesia,Zheng Si Wei,Huang Ya Qiong,1,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,21,16,21,18,0,0,42,34,2,0,5,0,7,4,6,0,1
+349,Yonex_All_England_Open,2023-03-15,England,XD,4,0,40,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,2,Tang Chun Man,Tse Ying Suet,0,21,17,21,17,0,0,42,34,2,0,4,0,8,6,17,2,1
+350,Yonex_All_England_Open,2023-03-17,England,XD,6,0,76,Indonesia,Japan,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,Kyohei Yamashita,Naru Shinoya,0,21,19,15,21,21,19,57,59,2,1,3,2,6,6,1,1,1
+351,Petronas_Malaysia_Open,2023-01-11,Malaysia,XD,4,0,25,Chinesetaipei,Chinesetaipei,Ye Hong Wei,Lee Chia Hsin,0,Lee Jhe-Huei,Hsu Ya Ching,0,21,19,23,21,0,0,44,40,2,0,2,3,6,4,1,0,1
+352,Petronas_Malaysia_Open,2023-01-11,Malaysia,XD,4,0,32,Thailand,Thailand,Dechapol Puavaranukroh,Sapsiree Taerattanachai,2,Supak Jomkoh,Supissara Paewsampran,0,21,14,21,14,0,0,42,28,2,0,2,0,5,3,6,0,1
+353,Yonex_All_England_Open,2023-03-18,England,XD,6,0,60,China,Indonesia,Zheng Si Wei,Huang Ya Qiong,1,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,21,17,13,21,21,13,55,51,2,1,2,1,5,7,5,0,1
+354,Petronas_Malaysia_Open,2023-01-11,Malaysia,XD,4,0,26,Japan,England,Yuta Watanabe,Arisa Higashino,3,Gregory Mairs,Jenny Mairs,0,21,9,21,16,0,0,42,25,2,0,5,0,6,5,1,0,1
+355,Petronas_Malaysia_Open,2023-01-12,Malaysia,XD,6,0,74,Korea,China,Kim Won Ho,Jeong Na Eun,0,Wang Yi Lyu,Huang Dong Ping,4,12,21,22,20,23,21,57,62,2,1,3,3,7,7,1,2,1
+356,Yonex_All_England_Open,2023-03-15,England,XD,6,0,57,Korea,England,Kim Won Ho,Jeong Na Eun,0,Gregory Mairs,Jenny Mairs,0,15,21,21,9,21,19,57,49,2,1,3,4,10,6,1,0,1
+357,Yonex_All_England_Open,2023-03-18,England,XD,4,0,53,Korea,Korea,Seo Seung Jae,Chae Yu Jung,0,Kim Won Ho,Jeong Na Eun,0,21,14,28,26,0,0,49,40,2,0,5,4,6,6,5,1,1
+358,Petronas_Malaysia_Open,2023-01-12,Malaysia,XD,4,0,29,Korea,Chinesetaipei,Seo Seung Jae,Chae Yu Jung,7,Ye Hong Wei,Lee Chia Hsin,0,21,13,21,15,0,0,42,28,2,0,3,0,6,4,2,2,1
+359,Yonex_All_England_Open,2023-03-17,England,XD,4,0,37,Korea,Netherlands,Kim Won Ho,Jeong Na Eun,0,Robin Tabeling,Selena Piek,0,21,14,21,15,0,0,42,29,2,0,3,0,7,4,4,0,1
+360,Yonex_All_England_Open,2023-03-14,England,XD,4,0,45,Japan,England,Kyohei Yamashita,Naru Shinoya,0,Marcus Ellis,Lauren Smith,0,21,16,21,17,0,0,42,33,2,0,3,0,8,5,3,0,1
+361,Yonex_All_England_Open,2023-03-15,England,XD,4,0,34,Korea,Malaysia,Seo Seung Jae,Chae Yu Jung,0,Goh Soon Huat,Lai Shevon Jemie,7,21,10,21,14,0,0,42,24,2,0,3,0,7,3,4,1,1
+362,Yonex_All_England_Open,2023-03-16,England,XD,4,0,35,Thailand,Indonesia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,Praveen Jordan,Melati Daeva Oktavianti,0,21,18,21,11,0,0,42,29,2,0,2,0,10,5,8,4,1
+363,Yonex_All_England_Open,2023-03-17,England,XD,6,0,59,Korea,Thailand,Seo Seung Jae,Chae Yu Jung,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,21,18,13,21,21,14,55,53,2,1,5,2,4,6,10,10,1
+364,Yonex_All_England_Open,2023-03-19,England,XD,6,0,64,China,Korea,Zheng Si Wei,Huang Ya Qiong,1,Seo Seung Jae,Chae Yu Jung,0,21,16,16,21,21,12,58,49,2,1,4,1,5,4,16,3,1
+365,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,XD,4,0,31,China,Singapore,Feng Yan Zhe,Huang Dong Ping,6,Hee Yong Kai Terry,Tan Wei Han Jessica,0,21,15,21,10,0,0,42,25,2,0,4,0,6,3,3,0,1
+366,Yonex_All_England_Open,2023-03-17,England,XD,4,0,30,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Yuki Kaneko,Misaki Matsutomo,0,21,13,21,11,0,0,42,24,2,0,2,0,6,3,8,0,1
+367,Yonex_All_England_Open,2023-03-16,England,XD,6,0,64,China,Hongkong,Zheng Si Wei,Huang Ya Qiong,1,Lee Chun Hei Reginald,Ng Tsz Yau,0,20,22,21,14,21,18,62,54,2,1,8,1,5,7,2,0,1
+368,Petronas_Malaysia_Open,2023-01-12,Malaysia,XD,4,0,46,Malaysia,Indonesia,Chen Tang Jie,Toh Ee Wei,0,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,21,19,21,16,0,0,42,35,2,0,3,0,6,5,2,1,1
+369,Petronas_Malaysia_Open,2023-01-12,Malaysia,XD,4,0,31,Thailand,Singapore,Dechapol Puavaranukroh,Sapsiree Taerattanachai,2,Hee Yong Kai Terry,Tan Wei Han Jessica,0,21,12,21,13,0,0,42,25,2,0,3,0,4,2,3,2,1
+370,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,XD,4,0,32,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Hiroki Midorikawa,Natsu Saito,0,21,14,21,17,0,0,42,31,2,0,4,0,5,3,4,0,1
+371,Yonex_All_England_Open,2023-03-14,England,XD,4,0,32,China,Denmark,Zheng Si Wei,Huang Ya Qiong,1,Mathias Thyrri,Amalie Magelund,0,21,9,21,15,0,0,42,24,2,0,5,0,8,3,4,0,1
+372,Yonex_All_England_Open,2023-03-14,England,XD,4,0,44,France,Korea,Thom Gicquel,Delphine Delrue,4,Ko Sung Hyun,Eom Hye Won,0,21,19,21,15,0,0,42,34,2,0,4,0,6,5,1,3,1
+373,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,XD,6,0,62,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,2,Lee Chun Hei Reginald,Ng Tsz Yau,0,16,21,21,13,21,13,58,47,2,1,3,2,7,6,5,0,1
+374,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,XD,6,0,69,Hongkong,Netherlands,Tang Chun Man,Tse Ying Suet,0,Robin Tabeling,Selena Piek,0,21,15,23,25,21,18,65,58,2,1,5,2,9,8,4,1,1
+375,Yonex_All_England_Open,2023-03-15,England,XD,4,0,44,Thailand,Denmark,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,Mathias Christiansen,Alexandra Bøje,0,21,12,22,20,0,0,43,32,2,0,2,1,5,4,4,2,1
+376,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,4,0,38,Indonesia,France,Rinov Rivaldy,Pitha Haningtyas Mentari,0,Thom Gicquel,Delphine Delrue,5,21,14,21,15,0,0,42,29,2,0,5,0,5,3,2,2,1
+377,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,XD,6,0,68,Indonesia,Malaysia,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,Goh Soon Huat,Lai Shevon Jemie,7,13,21,26,24,21,17,60,62,2,1,3,8,5,5,4,3,1
+378,Kapal_Api_Group_Indonesia_Open,2023-06-17,Indonesia,XD,4,0,42,China,China,Zheng Si Wei,Huang Ya Qiong,1,Feng Yan Zhe,Huang Dong Ping,6,21,19,21,10,0,0,42,29,2,0,4,0,7,4,7,1,1
+379,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,XD,4,0,45,Japan,Indonesia,Yuta Watanabe,Arisa Higashino,2,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,11,21,18,0,0,42,29,2,0,2,0,6,6,7,0,1
+380,Kapal_Api_Group_Indonesia_Open,2023-06-18,Indonesia,XD,4,0,35,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Yuta Watanabe,Arisa Higashino,2,21,14,21,11,0,0,42,25,2,0,2,0,8,5,15,5,1
+381,Kapal_Api_Group_Indonesia_Open,2023-06-17,Indonesia,XD,6,0,60,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,2,Tang Chun Man,Tse Ying Suet,0,22,20,11,21,21,16,54,57,2,1,4,3,5,5,17,2,1
+382,Yonex_All_England_Open,2023-03-15,England,XD,4,0,32,Thailand,Singapore,Supak Jomkoh,Supissara Paewsampran,0,Hee Yong Kai Terry,Tan Wei Han Jessica,0,21,11,21,19,0,0,42,30,2,0,3,0,7,5,1,1,1
+383,Yonex_All_England_Open,2023-03-14,England,XD,6,0,65,Japan,Malaysia,Yuki Kaneko,Misaki Matsutomo,0,Chen Tang Jie,Toh Ee Wei,0,21,19,22,24,21,17,64,60,2,1,4,3,8,4,2,0,1
+384,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,XD,4,0,37,Denmark,England,Mathias Thyrri,Amalie Magelund,0,Marcus Ellis,Lauren Smith,0,21,19,21,12,0,0,42,31,2,0,7,0,4,5,2,1,1
+385,Yonex_All_England_Open,2023-03-14,England,XD,4,0,39,Malaysia,Indonesia,Tan Kian Meng,Lai Pei Jing,6,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,19,21,18,0,0,42,37,2,0,2,0,7,5,5,3,1
+386,Victor_China_Open,2023-09-05,China,XD,4,0,37,China,Germany,Zheng Si Wei,Huang Ya Qiong,1,Mark Lamsfuss,Isabel Lohau,0,21,15,21,16,0,0,42,31,2,0,3,0,7,5,5,0,1
+387,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,6,0,60,Denmark,Chinesetaipei,Mathias Christiansen,Alexandra Bøje,0,Yang Po-Hsuan,Hu Ling Fang,0,21,17,20,22,21,9,62,48,2,1,4,1,6,6,4,1,1
+388,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,XD,4,0,33,China,Indonesia,Zheng Si Wei,Huang Ya Qiong,1,Adnan Maulana,Nita Violina Marwah,0,21,15,21,9,0,0,42,24,2,0,2,0,6,3,1,0,1
+389,Victor_China_Open,2023-09-06,China,XD,4,0,38,China,Singapore,Feng Yan Zhe,Huang Dong Ping,3,Hee Yong Kai Terry,Tan Wei Han Jessica,0,21,17,21,12,0,0,42,29,2,0,2,0,5,4,3,0,1
+390,Yonex_All_England_Open,2023-03-16,England,XD,6,0,60,Japan,Malaysia,Yuki Kaneko,Misaki Matsutomo,0,Tan Kian Meng,Lai Pei Jing,6,21,12,11,21,21,19,53,52,2,1,2,1,7,6,2,1,1
+391,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,XD,6,0,71,China,Thailand,Feng Yan Zhe,Huang Dong Ping,6,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,13,21,21,13,21,12,55,46,2,1,4,1,5,5,5,2,1
+392,Yonex_All_England_Open,2023-03-14,England,XD,4,0,37,Indonesia,Germany,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,Jones Ralfy Jansen,Linda Efler,0,21,19,21,16,0,0,42,35,2,0,7,0,4,5,2,0,1
+393,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,XD,4,0,31,China,Denmark,Zheng Si Wei,Huang Ya Qiong,1,Mathias Thyrri,Amalie Magelund,0,21,14,21,10,0,0,42,24,2,0,2,0,8,4,4,0,1
+394,Yonex_All_England_Open,2022-03-16,England,XD,4,0,34,Thailand,Germany,Supak Jomkoh,Supissara Paewsampran,0,Mark Lamsfuss,Isabel Lohau,0,21,12,21,19,0,0,42,31,2,0,2,0,6,3,2,2,1
+395,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,XD,4,0,38,Thailand,Indonesia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,Zachariah Josiahno Sumanti,Hediana Julimarbela,0,21,17,21,9,0,0,42,26,2,0,2,0,6,3,2,0,1
+396,Yonex_All_England_Open,2023-03-14,England,XD,6,0,67,Hongkong,Japan,Lee Chun Hei Reginald,Ng Tsz Yau,0,Hiroki Midorikawa,Natsu Saito,0,22,20,18,21,26,24,66,65,2,1,7,5,5,9,1,1,1
+397,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,XD,4,0,35,Hongkong,Indonesia,Tang Chun Man,Tse Ying Suet,0,Praveen Jordan,Melati Daeva Oktavianti,0,21,17,21,14,0,0,42,31,2,0,5,0,4,3,6,1,1
+398,Yonex_All_England_Open,2022-03-16,England,XD,6,0,57,Malaysia,Indonesia,Tan Kian Meng,Lai Pei Jing,7,Adnan Maulana,Mychelle Crhystine Bandaso,0,21,14,13,21,21,16,55,51,2,1,3,3,4,7,4,0,1
+399,Victor_China_Open,2023-09-05,China,XD,4,0,39,Korea,Denmark,Seo Seung Jae,Chae Yu Jung,5,Mathias Christiansen,Alexandra Bøje,0,21,14,24,22,0,0,45,36,2,0,8,0,5,4,1,1,1
+400,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,6,0,47,Japan,Thailand,Yuta Watanabe,Arisa Higashino,2,Supak Jomkoh,Supissara Paewsampran,0,12,21,21,13,21,7,54,41,2,1,3,1,13,9,2,1,1
+401,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,XD,4,0,47,Indonesia,Malaysia,Rinov Rivaldy,Pitha Haningtyas Mentari,0,Tan Kian Meng,Lai Pei Jing,0,21,17,21,16,0,0,42,33,2,0,5,0,6,5,3,5,1
+402,Yonex_All_England_Open,2023-03-16,England,XD,4,0,40,Korea,Thailand,Seo Seung Jae,Chae Yu Jung,0,Supak Jomkoh,Supissara Paewsampran,0,21,17,21,17,0,0,42,34,2,0,3,0,6,5,4,1,1
+403,Yonex_All_England_Open,2022-03-16,England,XD,6,0,60,Japan,Netherlands,Yuki Kaneko,Misaki Matsutomo,0,Robin Tabeling,Selena Piek,0,22,24,21,15,21,12,64,51,2,1,7,1,8,3,3,1,1
+404,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,6,0,53,Hongkong,Korea,Tang Chun Man,Tse Ying Suet,0,Kim Won Ho,Jeong Na Eun,8,21,8,14,21,21,10,56,39,2,1,2,2,5,3,3,1,1
+405,Yonex_All_England_Open,2023-03-16,England,XD,4,0,33,Netherlands,Indonesia,Robin Tabeling,Selena Piek,0,Zachariah Josiahno Sumanti,Hediana Julimarbela,0,21,18,21,10,0,0,42,28,2,0,3,0,6,3,2,0,1
+406,Victor_China_Open,2023-09-07,China,XD,4,0,34,China,Indonesia,Zheng Si Wei,Huang Ya Qiong,1,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,21,5,21,17,0,0,42,22,2,0,2,0,8,4,6,0,1
+407,Yonex_All_England_Open,2023-03-15,England,XD,4,0,38,Indonesia,Germany,Zachariah Josiahno Sumanti,Hediana Julimarbela,0,Mark Lamsfuss,Isabel Lohau,8,21,17,21,18,0,0,42,35,2,0,2,0,6,6,1,1,1
+408,Yonex_All_England_Open,2023-03-16,England,XD,4,0,36,Japan,Chinesetaipei,Kyohei Yamashita,Naru Shinoya,0,Ye Hong Wei,Lee Chia Hsin,0,21,16,21,12,0,0,42,28,2,0,2,0,8,5,1,0,1
+409,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,XD,6,0,54,China,Japan,Jiang Zhen Bang,Wei Ya Xin,0,Yuki Kaneko,Misaki Matsutomo,0,21,18,19,21,21,16,61,55,2,1,3,2,4,6,4,0,1
+410,Yonex_All_England_Open,2023-03-16,England,XD,4,0,39,Indonesia,France,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,Thom Gicquel,Delphine Delrue,4,21,12,21,17,0,0,42,29,2,0,3,0,8,4,4,0,1
+411,Victor_China_Open,2023-09-08,China,XD,6,0,62,Korea,China,Seo Seung Jae,Chae Yu Jung,5,Zheng Si Wei,Huang Ya Qiong,1,17,21,21,13,21,17,59,51,2,1,0,0,0,0,3,16,1
+412,Yonex_All_England_Open,2022-03-16,England,XD,4,0,28,China,Denmark,Wang Yi Lyu,Huang Dong Ping,3,Mikkel Mikkelsen,Rikke Søby,0,21,15,21,4,0,0,42,19,2,0,3,0,9,2,1,0,1
+413,Victor_China_Open,2023-09-07,China,XD,4,0,33,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,2,Tang Chun Man,Tse Ying Suet,0,21,14,21,17,0,0,42,31,2,0,2,0,5,4,17,2,1
+414,Yonex_All_England_Open,2023-03-15,England,XD,4,0,30,Netherlands,Scotland,Robin Tabeling,Selena Piek,0,Adam Hall,Julie Macpherson,0,21,16,21,14,0,0,42,30,2,0,2,0,5,3,1,0,1
+415,Yonex_All_England_Open,2022-03-16,England,XD,4,0,26,Indonesia,India,Praveen Jordan,Melati Daeva Oktavianti,5,Ishaan Bhatnagar,Tanisha Crasto,0,21,14,21,13,0,0,42,27,2,0,6,0,8,4,2,0,1
+416,Victor_China_Open,2023-09-08,China,XD,4,0,41,Malaysia,Thailand,Tan Kian Meng,Lai Pei Jing,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,21,18,21,19,0,0,42,37,2,0,4,0,6,3,3,9,1
+417,Victor_China_Open,2023-09-05,China,XD,6,0,64,Indonesia,Chinesetaipei,Rinov Rivaldy,Pitha Haningtyas Mentari,0,Chang Ko-Chi,Lee Chih Chen,0,21,19,16,21,21,19,58,59,2,1,4,1,5,4,1,0,1
+418,Yonex_All_England_Open,2022-03-16,England,XD,6,0,64,Indonesia,Denmark,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Mathias Christiansen,Alexandra Bøje,0,11,21,21,19,21,18,53,58,2,1,4,1,5,5,1,0,1
+419,Victor_China_Open,2023-09-06,China,XD,4,0,39,Malaysia,India,Chen Tang Jie,Toh Ee Wei,0,Rohan Kapoor,Reddy Sikki,0,21,15,21,16,0,0,42,31,2,0,5,0,5,3,1,0,1
+420,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,4,0,51,Korea,Indonesia,Seo Seung Jae,Chae Yu Jung,4,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,21,15,21,17,0,0,42,32,2,0,2,0,5,5,3,1,1
+421,Yonex_All_England_Open,2022-03-16,England,XD,4,0,22,Japan,Egypt,Yuta Watanabe,Arisa Higashino,4,Adham Hatem Elgamal,Doha Hany,0,21,4,21,5,0,0,42,9,2,0,4,0,10,1,2,0,1
+422,Victor_China_Open,2023-09-05,China,XD,6,0,60,Indonesia,China,Praveen Jordan,Melati Daeva Oktavianti,0,Jiang Zhen Bang,Wei Ya Xin,7,21,16,12,21,21,16,54,53,2,1,2,1,4,4,1,3,1
+423,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,XD,6,0,60,Japan,Malaysia,Hiroki Midorikawa,Natsu Saito,0,Chen Tang Jie,Toh Ee Wei,0,21,17,15,21,21,17,57,55,2,1,5,2,5,5,2,2,1
+424,Yonex_All_England_Open,2023-03-16,England,XD,2,1,36,Korea,Japan,Kim Won Ho,Jeong Na Eun,0,Yuta Watanabe,Arisa Higashino,2,23,21,0,0,0,0,23,21,1,0,2,1,5,5,3,2,1
+425,Yonex_All_England_Open,2022-03-16,England,XD,4,0,22,Malaysia,India,Hoo Pang Ron,Cheah Yee See,0,Venkat Gaurav Prasad,Juhi Dewangan,0,21,9,21,13,0,0,42,22,2,0,2,0,6,3,1,0,1
+426,Yonex_All_England_Open,2023-03-15,England,XD,6,0,65,Indonesia,Indonesia,Praveen Jordan,Melati Daeva Oktavianti,0,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,19,21,21,17,21,18,61,56,2,1,2,3,4,4,1,0,1
+427,Yonex_All_England_Open,2022-03-16,England,XD,6,0,58,France,Japan,Thom Gicquel,Delphine Delrue,8,Kyohei Yamashita,Naru Shinoya,0,21,16,14,21,21,15,56,52,2,1,3,2,9,5,1,0,1
+428,Victor_China_Open,2023-09-08,China,XD,6,0,55,Malaysia,Chinesetaipei,Chen Tang Jie,Toh Ee Wei,0,Ye Hong Wei,Lee Chia Hsin,0,21,15,13,21,21,16,55,52,2,1,0,0,0,0,6,0,1
+429,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,XD,4,0,39,Denmark,Indonesia,Mathias Thyrri,Amalie Magelund,0,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,21,14,21,16,0,0,42,30,2,0,3,0,5,4,1,3,1
+430,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,6,0,71,Netherlands,Japan,Robin Tabeling,Selena Piek,0,Kyohei Yamashita,Naru Shinoya,0,22,24,21,12,21,19,64,55,2,1,2,4,6,8,3,1,1
+431,Victor_China_Open,2023-09-08,China,XD,4,0,44,France,Japan,Thom Gicquel,Delphine Delrue,7,Yuta Watanabe,Arisa Higashino,2,22,20,21,14,0,0,43,34,2,0,2,2,8,5,3,1,1
+432,Yonex_All_England_Open,2022-03-16,England,XD,4,0,33,Thailand,Malaysia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,1,Chen Tang Jie,Peck Yen Wei,0,21,10,21,18,0,0,42,28,2,0,3,0,8,4,4,0,1
+433,Victor_China_Open,2023-09-05,China,XD,4,0,33,Japan,Usa,Kyohei Yamashita,Naru Shinoya,0,Vinson Chiu,Jennie Gai,0,21,8,21,15,0,0,42,23,2,0,2,0,7,4,1,0,1
+434,Victor_China_Open,2023-09-09,China,XD,4,0,34,Korea,Malaysia,Seo Seung Jae,Chae Yu Jung,5,Tan Kian Meng,Lai Pei Jing,0,21,19,21,11,0,0,42,30,2,0,2,0,5,4,2,0,1
+435,Yonex_All_England_Open,2023-03-15,England,XD,4,0,37,Chinesetaipei,China,Ye Hong Wei,Lee Chia Hsin,0,Feng Yan Zhe,Huang Dong Ping,5,21,15,21,16,0,0,42,31,2,0,4,0,5,5,2,1,1
+436,Victor_China_Open,2023-09-10,China,XD,4,0,40,Korea,France,Seo Seung Jae,Chae Yu Jung,5,Thom Gicquel,Delphine Delrue,7,21,19,21,12,0,0,42,31,2,0,2,0,7,4,3,0,1
+437,Victor_China_Open,2023-09-09,China,XD,4,0,38,France,Malaysia,Thom Gicquel,Delphine Delrue,7,Chen Tang Jie,Toh Ee Wei,0,21,16,21,13,0,0,42,29,2,0,3,0,5,3,1,2,1
+438,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,XD,4,0,42,Netherlands,Korea,Robin Tabeling,Selena Piek,0,Seo Seung Jae,Chae Yu Jung,4,21,17,21,17,0,0,42,34,2,0,5,0,5,4,3,7,1
+439,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,6,0,62,Hongkong,Chinesetaipei,Lee Chun Hei Reginald,Ng Tsz Yau,0,Ye Hong Wei,Lee Chia Hsin,0,18,21,21,19,23,21,62,61,2,1,5,3,4,4,3,3,1
+440,Yonex_All_England_Open,2022-03-16,England,XD,6,0,54,China,France,Zheng Si Wei,Huang Ya Qiong,2,William Villeger,Anne Tran,0,21,15,18,21,21,12,60,48,2,1,6,5,6,6,1,0,1
+441,Victor_China_Open,2023-09-07,China,XD,6,0,54,Korea,Japan,Seo Seung Jae,Chae Yu Jung,5,Kyohei Yamashita,Naru Shinoya,0,8,21,21,18,21,19,50,58,2,1,4,2,6,6,2,0,1
+442,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,XD,4,0,40,Thailand,China,Dechapol Puavaranukroh,Sapsiree Taerattanachai,3,Jiang Zhen Bang,Wei Ya Xin,0,21,17,21,19,0,0,42,36,2,0,3,0,5,4,3,0,1
+443,Victor_China_Open,2023-09-07,China,XD,6,0,58,Malaysia,Indonesia,Tan Kian Meng,Lai Pei Jing,0,Praveen Jordan,Melati Daeva Oktavianti,0,18,21,21,19,21,12,60,52,2,1,8,2,7,5,1,3,1
+444,Victor_China_Open,2023-09-05,China,XD,4,0,32,Thailand,England,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,Gregory Mairs,Jenny Mairs,0,21,14,21,8,0,0,42,22,2,0,3,0,4,2,1,0,1
+445,Yonex_All_England_Open,2022-03-16,England,XD,4,0,34,Germany,Newzealand,Jones Ralfy Jansen,Linda Efler,0,Oliver Leydon-Davis,Anona Pak,0,21,16,21,17,0,0,42,33,2,0,2,0,7,4,1,0,1
+446,Petronas_Malaysia_Open,2024-01-09,Malaysia,XD,4,0,38,Korea,Malaysia,Kim Won Ho,Jeong Na Eun,7,Tan Kian Meng,Lai Pei Jing,0,21,11,21,16,0,0,42,27,2,0,2,0,8,3,2,3,1
+447,Victor_China_Open,2023-09-06,China,XD,4,0,35,Hongkong,Indonesia,Tang Chun Man,Tse Ying Suet,0,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,21,16,21,12,0,0,42,28,2,0,4,0,5,4,7,1,1
+448,Victor_China_Open,2023-09-05,China,XD,4,0,38,Indonesia,Chinesetaipei,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Yang Po-Hsuan,Hu Ling Fang,0,21,16,21,14,0,0,42,30,2,0,2,0,7,5,3,0,1
+449,Petronas_Malaysia_Open,2024-01-09,Malaysia,XD,4,0,33,China,Hongkong,Zheng Si Wei,Huang Ya Qiong,1,Lee Chun Hei Reginald,Ng Tsz Yau,0,21,14,21,17,0,0,42,31,2,0,3,0,9,3,2,0,1
+450,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,XD,4,0,42,China,Denmark,Feng Yan Zhe,Huang Dong Ping,6,Mathias Christiansen,Alexandra Bøje,0,21,9,21,19,0,0,42,28,2,0,2,0,6,4,2,1,1
+451,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,4,0,36,Indonesia,Malaysia,Praveen Jordan,Melati Daeva Oktavianti,0,Chan Peng Soon,Cheah Yee See,0,21,16,21,9,0,0,42,25,2,0,2,0,5,3,2,0,1
+452,Victor_China_Open,2023-09-06,China,XD,4,0,45,Korea,Japan,Kim Won Ho,Jeong Na Eun,6,Yuki Kaneko,Misaki Matsutomo,0,21,17,21,19,0,0,42,36,2,0,6,0,5,3,1,0,1
+453,Petronas_Malaysia_Open,2024-01-10,Malaysia,XD,4,0,39,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,2,Tang Chun Man,Tse Ying Suet,0,21,13,21,14,0,0,42,27,2,0,2,0,4,3,17,2,1
+454,Petronas_Malaysia_Open,2024-01-12,Malaysia,XD,6,0,58,Korea,China,Kim Won Ho,Jeong Na Eun,7,Zheng Si Wei,Huang Ya Qiong,1,21,11,18,21,21,17,60,49,2,1,2,1,5,6,3,5,1
+455,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,XD,4,0,37,Malaysia,England,Tan Kian Meng,Lai Pei Jing,0,Gregory Mairs,Jenny Mairs,0,21,14,21,13,0,0,42,27,2,0,5,0,6,3,5,0,1
+456,Victor_China_Open,2023-09-06,China,XD,4,0,30,Chinesetaipei,Netherlands,Ye Hong Wei,Lee Chia Hsin,0,Robin Tabeling,Selena Piek,0,21,13,21,13,0,0,42,26,2,0,2,0,6,3,1,1,1
+457,Petronas_Malaysia_Open,2024-01-12,Malaysia,XD,4,0,32,Japan,Japan,Yuta Watanabe,Arisa Higashino,2,Hiroki Midorikawa,Natsu Saito,0,21,14,21,8,0,0,42,22,2,0,3,0,8,3,2,0,1
+458,Petronas_Malaysia_Open,2024-01-11,Malaysia,XD,4,0,39,Thailand,Malaysia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,6,Goh Soon Huat,Lai Shevon Jemie,0,21,15,21,12,0,0,42,27,2,0,2,0,4,3,11,7,1
+459,Victor_China_Open,2023-09-05,China,XD,4,0,41,Malaysia,Malaysia,Tan Kian Meng,Lai Pei Jing,0,Goh Soon Huat,Lai Shevon Jemie,0,25,23,21,15,0,0,46,38,2,0,4,2,8,4,3,6,1
+460,Petronas_Malaysia_Open,2024-01-11,Malaysia,XD,4,0,42,Japan,Malaysia,Hiroki Midorikawa,Natsu Saito,0,Chen Tang Jie,Toh Ee Wei,8,24,22,21,14,0,0,45,36,2,0,8,0,5,4,2,2,1
+461,Petronas_Malaysia_Open,2024-01-13,Malaysia,XD,4,0,41,Korea,Singapore,Kim Won Ho,Jeong Na Eun,7,Hee Yong Kai Terry,Tan Wei Han Jessica,0,21,16,21,16,0,0,42,32,2,0,4,0,4,3,4,0,1
+462,Petronas_Malaysia_Open,2024-01-13,Malaysia,XD,6,0,50,Japan,China,Yuta Watanabe,Arisa Higashino,2,Jiang Zhen Bang,Wei Ya Xin,5,21,15,12,21,21,15,54,51,2,1,2,2,6,4,1,3,1
+463,Yonex_All_England_Open,2022-03-16,England,XD,4,0,38,Denmark,Malaysia,Mathias Thyrri,Amalie Magelund,0,Goh Soon Huat,Lai Shevon Jemie,0,21,18,21,16,0,0,42,34,2,0,7,0,5,5,1,1,1
+464,Petronas_Malaysia_Open,2024-01-12,Malaysia,XD,4,0,48,Singapore,Thailand,Hee Yong Kai Terry,Tan Wei Han Jessica,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,6,21,16,21,19,0,0,42,35,2,0,2,0,7,3,2,3,1
+465,Petronas_Malaysia_Open,2024-01-10,Malaysia,XD,4,0,47,Malaysia,France,Chen Tang Jie,Toh Ee Wei,8,Thom Gicquel,Delphine Delrue,0,21,17,21,18,0,0,42,35,2,0,4,0,5,6,2,1,1
+466,Victor_China_Open,2023-09-06,China,XD,4,0,38,Japan,Thailand,Hiroki Midorikawa,Natsu Saito,0,Supak Jomkoh,Supissara Paewsampran,0,21,19,21,18,0,0,42,37,2,0,4,0,5,3,1,1,1
+467,Petronas_Malaysia_Open,2024-01-14,Malaysia,XD,4,0,37,Japan,Korea,Yuta Watanabe,Arisa Higashino,2,Kim Won Ho,Jeong Na Eun,7,21,18,21,15,0,0,42,33,2,0,5,0,4,3,2,3,1
+468,Petronas_Malaysia_Open,2024-01-12,Malaysia,XD,4,0,37,China,Korea,Jiang Zhen Bang,Wei Ya Xin,5,Seo Seung Jae,Chae Yu Jung,3,21,19,21,14,0,0,42,33,2,0,2,0,5,4,2,4,1
+469,Victor_China_Open,2023-09-07,China,XD,6,0,59,Malaysia,Korea,Chen Tang Jie,Toh Ee Wei,0,Kim Won Ho,Jeong Na Eun,6,21,15,15,21,21,18,57,54,2,1,7,1,9,3,1,2,1
+470,Victor_China_Open,2023-09-06,China,XD,6,0,61,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,2,Lee Chun Hei Reginald,Ng Tsz Yau,0,21,23,21,18,21,11,63,52,2,1,6,1,7,5,5,0,1
+471,Victor_China_Open,2023-09-07,China,XD,4,0,31,Thailand,Indonesia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,4,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,16,21,13,0,0,42,29,2,0,4,0,6,3,7,0,1
+472,Victor_China_Open,2023-09-06,China,XD,4,0,37,France,China,Thom Gicquel,Delphine Delrue,7,Cheng Xing,Chen Fang Hui,0,21,10,21,19,0,0,42,29,2,0,3,0,5,4,1,0,1
+473,Victor_China_Open,2023-09-07,China,XD,4,0,45,Chinesetaipei,China,Ye Hong Wei,Lee Chia Hsin,0,Feng Yan Zhe,Huang Dong Ping,3,21,18,21,19,0,0,42,37,2,0,2,0,4,5,2,1,1
+474,Petronas_Malaysia_Open,2024-01-09,Malaysia,XD,6,0,51,Singapore,Chinesetaipei,Hee Yong Kai Terry,Tan Wei Han Jessica,0,Ye Hong Wei,Lee Chia Hsin,0,15,21,21,19,21,12,57,52,2,1,2,1,5,6,1,1,1
+475,Victor_China_Open,2023-09-07,China,XD,4,0,45,France,Japan,Thom Gicquel,Delphine Delrue,7,Hiroki Midorikawa,Natsu Saito,0,21,19,21,17,0,0,42,36,2,0,3,0,6,3,1,1,1
+476,Petronas_Malaysia_Open,2024-01-10,Malaysia,XD,4,0,35,Japan,Usa,Hiroki Midorikawa,Natsu Saito,0,Vinson Chiu,Jennie Gai,0,21,13,21,13,0,0,42,26,2,0,4,0,7,3,2,0,1
+477,Yonex_All_England_Open,2024-03-13,England,XD,4,0,29,Chinesetaipei,Korea,Ye Hong Wei,Lee Chia Hsin,0,Seo Seung Jae,Chae Yu Jung,3,21,17,21,10,0,0,42,27,2,0,4,0,6,3,2,2,1
+478,Yonex_All_England_Open,2024-03-12,England,XD,6,0,70,Malaysia,France,Tan Kian Meng,Lai Pei Jing,0,Thom Gicquel,Delphine Delrue,0,12,21,21,19,21,14,54,54,2,1,2,2,6,6,1,2,1
+479,Petronas_Malaysia_Open,2024-01-09,Malaysia,XD,6,0,58,Indonesia,Germany,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,Mark Lamsfuss,Isabel Lohau,0,21,15,12,21,21,17,54,53,2,1,3,1,5,7,2,2,1
+480,Yonex_All_England_Open,2024-03-15,England,XD,4,0,40,China,Indonesia,Zheng Si Wei,Huang Ya Qiong,1,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,21,11,21,19,0,0,42,30,2,0,6,0,9,3,6,0,1
+481,Yonex_All_England_Open,2024-03-13,England,XD,6,0,57,Malaysia,Thailand,Chen Tang Jie,Toh Ee Wei,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,6,21,14,12,21,21,15,54,50,2,1,2,2,5,6,2,5,1
+482,Petronas_Malaysia_Open,2024-01-10,Malaysia,XD,6,0,70,Indonesia,England,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Marcus Ellis,Lauren Smith,0,21,11,19,21,21,19,61,51,2,1,2,4,5,7,3,0,1
+483,Petronas_Malaysia_Open,2024-01-09,Malaysia,XD,4,0,43,Thailand,China,Supak Jomkoh,Supissara Paewsampran,0,Feng Yan Zhe,Huang Dong Ping,4,22,20,21,19,0,0,43,39,2,0,6,0,5,3,2,5,1
+484,Yonex_All_England_Open,2024-03-12,England,XD,6,0,66,Denmark,Japan,Mathias Christiansen,Alexandra Bøje,0,Hiroki Midorikawa,Natsu Saito,0,22,24,21,14,21,14,64,52,2,1,4,2,4,5,1,0,1
+485,Petronas_Malaysia_Open,2024-01-11,Malaysia,XD,4,0,38,Japan,Denmark,Yuta Watanabe,Arisa Higashino,2,Mathias Thyrri,Amalie Magelund,0,21,15,21,11,0,0,42,26,2,0,3,0,5,2,2,0,1
+486,Yonex_All_England_Open,2024-03-17,England,XD,4,0,38,China,Japan,Zheng Si Wei,Huang Ya Qiong,1,Yuta Watanabe,Arisa Higashino,2,21,16,21,11,0,0,42,27,2,0,4,0,6,3,15,5,1
+487,Yonex_All_England_Open,2024-03-14,England,XD,4,0,42,Indonesia,England,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Marcus Ellis,Lauren Smith,0,21,17,21,9,0,0,42,26,2,0,2,0,7,4,3,0,1
+488,Yonex_All_England_Open,2024-03-16,England,XD,4,0,38,Japan,Netherlands,Yuta Watanabe,Arisa Higashino,2,Robin Tabeling,Selena Piek,0,21,14,21,16,0,0,42,30,2,0,3,0,6,5,4,1,1
+489,Petronas_Malaysia_Open,2024-01-09,Malaysia,XD,6,0,60,Malaysia,England,Goh Soon Huat,Lai Shevon Jemie,0,Gregory Mairs,Jenny Mairs,0,21,16,15,21,21,17,57,54,2,1,5,1,5,4,4,1,1
+490,Yonex_All_England_Open,2024-03-14,England,XD,4,0,38,China,Denmark,Zheng Si Wei,Huang Ya Qiong,1,Mathias Christiansen,Alexandra Bøje,0,21,16,21,17,0,0,42,33,2,0,3,0,5,7,6,0,1
+491,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,XD,4,0,32,Korea,Malaysia,Seo Seung Jae,Chae Yu Jung,4,Chen Tang Jie,Toh Ee Wei,0,21,13,21,15,0,0,42,28,2,0,4,0,7,3,4,1,1
+492,Yonex_All_England_Open,2024-03-16,England,XD,4,0,39,China,China,Zheng Si Wei,Huang Ya Qiong,1,Feng Yan Zhe,Huang Dong Ping,4,21,14,21,13,0,0,42,27,2,0,5,0,9,3,7,1,1
+493,Petronas_Malaysia_Open,2024-01-10,Malaysia,XD,6,0,63,Malaysia,Chinesetaipei,Chan Peng Soon,Cheah Yee See,0,Chang Ko-Chi,Lee Chih Chen,0,11,21,26,24,21,8,58,53,2,1,7,3,6,6,3,0,1
+494,Yonex_All_England_Open,2024-03-15,England,XD,4,0,36,China,Hongkong,Feng Yan Zhe,Huang Dong Ping,4,Tang Chun Man,Tse Ying Suet,8,21,15,21,8,0,0,42,23,2,0,2,0,5,3,1,1,1
+495,Yonex_All_England_Open,2024-03-13,England,XD,4,0,30,China,Australia,Feng Yan Zhe,Huang Dong Ping,4,Kenneth Zhe Hooi Choo,Gronya Somerville,0,21,12,21,11,0,0,42,23,2,0,3,0,7,4,1,0,1
+496,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,XD,6,0,54,Indonesia,Korea,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Seo Seung Jae,Chae Yu Jung,4,21,15,15,21,21,4,57,40,2,1,3,1,11,5,1,3,1
+497,Yonex_All_England_Open,2024-03-15,England,XD,4,0,41,Japan,Korea,Yuta Watanabe,Arisa Higashino,2,Kim Won Ho,Jeong Na Eun,7,21,15,21,17,0,0,42,32,2,0,2,0,7,3,2,3,1
+498,Yonex_All_England_Open,2024-03-14,England,XD,4,0,40,Hongkong,Malaysia,Tang Chun Man,Tse Ying Suet,8,Tan Kian Meng,Lai Pei Jing,0,21,17,21,11,0,0,42,28,2,0,2,0,4,4,7,3,1
+499,Petronas_Malaysia_Open,2024-01-09,Malaysia,XD,6,0,50,Japan,Japan,Kyohei Yamashita,Naru Shinoya,0,Yuki Kaneko,Misaki Matsutomo,0,21,15,18,21,21,11,60,47,2,1,3,1,6,4,2,2,1
+500,Petronas_Malaysia_Open,2024-01-10,Malaysia,XD,4,0,28,Korea,Canada,Seo Seung Jae,Chae Yu Jung,3,Ty Alexander Lindeman,Josephine Wu,0,21,12,21,11,0,0,42,23,2,0,2,0,6,3,1,0,1
+501,Yonex_All_England_Open,2024-03-12,England,XD,6,0,74,England,England,Marcus Ellis,Lauren Smith,0,Gregory Mairs,Jenny Mairs,0,19,21,21,16,22,20,62,57,2,1,4,2,6,7,2,1,1
+502,Yonex_All_England_Open,2024-03-15,England,XD,6,0,53,Netherlands,Chinesetaipei,Robin Tabeling,Selena Piek,0,Ye Hong Wei,Lee Chia Hsin,0,11,21,21,19,21,19,53,59,2,1,5,1,4,5,1,1,1
+503,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,6,0,56,Chinesetaipei,Indonesia,Yang Po-Hsuan,Hu Ling Fang,0,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,16,18,21,21,17,60,54,2,1,3,5,5,7,1,0,1
+504,Petronas_Malaysia_Open,2024-01-11,Malaysia,XD,4,0,42,China,Indonesia,Zheng Si Wei,Huang Ya Qiong,1,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,21,18,21,17,0,0,42,35,2,0,3,0,4,4,5,0,1
+505,Petronas_Malaysia_Open,2024-01-10,Malaysia,XD,4,0,34,Denmark,Indonesia,Mathias Thyrri,Amalie Magelund,0,Rinov Rivaldy,Pitha Haningtyas Mentari,0,21,17,21,14,0,0,42,31,2,0,2,0,7,5,2,1,1
+506,Petronas_Malaysia_Open,2024-01-11,Malaysia,XD,4,0,34,Korea,Indonesia,Seo Seung Jae,Chae Yu Jung,3,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,21,12,21,16,0,0,42,28,2,0,4,0,9,5,3,1,1
+507,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,XD,4,0,41,Thailand,Indonesia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,21,16,21,17,0,0,42,33,2,0,2,0,5,4,3,0,1
+508,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,XD,6,0,43,Hongkong,Malaysia,Lee Chun Hei Reginald,Ng Tsz Yau,0,Goh Soon Huat,Lai Shevon Jemie,0,16,21,21,17,21,10,58,48,2,1,4,1,13,6,3,1,1
+509,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,XD,4,0,30,China,Hongkong,Zheng Si Wei,Huang Ya Qiong,0,Tang Chun Man,Tse Ying Suet,0,21,17,21,10,0,0,42,27,2,0,5,0,5,3,13,1,1
+510,Petronas_Malaysia_Open,2024-01-11,Malaysia,XD,6,0,60,Korea,Japan,Kim Won Ho,Jeong Na Eun,7,Kyohei Yamashita,Naru Shinoya,0,11,21,21,17,21,18,53,56,2,1,2,1,4,4,7,1,1
+511,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,2,1,35,Denmark,Japan,Mathias Christiansen,Alexandra Bøje,0,Yuta Watanabe,Arisa Higashino,0,18,21,0,0,0,0,18,21,0,1,1,4,10,7,3,8,1
+512,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,XD,4,0,40,Indonesia,Chinesetaipei,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Ye Hong Wei,Lee Chia Hsin,0,21,19,21,19,0,0,42,38,2,0,5,0,7,5,3,1,1
+513,Yonex_All_England_Open,2024-03-13,England,XD,6,0,60,Singapore,Chinesetaipei,Hee Yong Kai Terry,Tan Wei Han Jessica,0,Yang Po-Hsuan,Hu Ling Fang,0,23,21,19,21,21,12,63,54,2,1,5,1,8,4,1,0,1
+514,Yonex_All_England_Open,2024-03-14,England,XD,4,0,33,Chinesetaipei,Thailand,Ye Hong Wei,Lee Chia Hsin,0,Supak Jomkoh,Supissara Paewsampran,0,21,19,21,15,0,0,42,34,2,0,2,0,6,5,1,0,1
+515,Yonex_All_England_Open,2024-03-12,England,XD,4,0,38,Indonesia,China,Dejan Ferdinansyah,Gloria Emanuelle Widjaja,0,Jiang Zhen Bang,Wei Ya Xin,5,21,10,21,16,0,0,42,26,2,0,2,0,6,3,2,2,1
+516,Petronas_Malaysia_Open,2024-01-11,Malaysia,XD,4,0,33,China,Malaysia,Jiang Zhen Bang,Wei Ya Xin,5,Chan Peng Soon,Cheah Yee See,0,21,14,21,14,0,0,42,28,2,0,3,0,8,3,1,0,1
+517,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,XD,4,0,34,Korea,Netherlands,Kim Won Ho,Jeong Na Eun,0,Robin Tabeling,Selena Piek,0,21,15,21,18,0,0,42,33,2,0,3,0,8,8,4,0,1
+518,Petronas_Malaysia_Open,2024-01-10,Malaysia,XD,4,0,37,China,China,Jiang Zhen Bang,Wei Ya Xin,5,Cheng Xing,Zhang Chi,0,21,18,21,16,0,0,42,34,2,0,5,0,7,4,2,1,1
+519,Yonex_All_England_Open,2024-03-12,England,XD,4,0,43,Malaysia,Chinesetaipei,Goh Soon Huat,Lai Shevon Jemie,0,Chang Ko-Chi,Lee Chih Chen,0,21,17,26,24,0,0,47,41,2,0,5,2,6,4,2,1,1
+520,Petronas_Malaysia_Open,2024-01-11,Malaysia,XD,4,0,41,Singapore,Thailand,Hee Yong Kai Terry,Tan Wei Han Jessica,0,Supak Jomkoh,Supissara Paewsampran,0,21,14,23,21,0,0,44,35,2,0,7,1,7,4,1,1,1
+521,Yonex_All_England_Open,2024-03-14,England,XD,6,0,58,Netherlands,Malaysia,Robin Tabeling,Selena Piek,0,Chen Tang Jie,Toh Ee Wei,0,17,21,21,19,21,16,59,56,2,1,2,4,6,7,2,3,1
+522,Petronas_Malaysia_Open,2024-01-09,Malaysia,XD,4,0,33,Thailand,Netherlands,Dechapol Puavaranukroh,Sapsiree Taerattanachai,6,Robin Tabeling,Selena Piek,0,21,15,21,10,0,0,42,25,2,0,2,0,6,5,9,3,1
+523,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,6,0,46,Korea,Japan,Kim Won Ho,Jeong Na Eun,0,Hiroki Midorikawa,Natsu Saito,0,21,13,17,21,21,11,59,45,2,1,3,2,5,5,3,1,1
+524,Yonex_All_England_Open,2024-03-13,England,XD,4,0,32,Korea,Canada,Kim Won Ho,Jeong Na Eun,7,Ty Alexander Lindeman,Josephine Wu,0,21,14,21,16,0,0,42,30,2,0,4,0,5,3,2,0,1
+525,Yonex_All_England_Open,2024-03-14,England,XD,4,0,28,China,Malaysia,Feng Yan Zhe,Huang Dong Ping,4,Goh Soon Huat,Lai Shevon Jemie,0,21,12,21,5,0,0,42,17,2,0,2,0,14,4,1,0,1
+526,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,XD,6,0,57,China,China,Jiang Zhen Bang,Wei Ya Xin,0,Feng Yan Zhe,Huang Dong Ping,2,21,17,11,21,21,16,53,54,2,1,3,1,10,5,1,7,1
+527,Yonex_All_England_Open,2024-03-13,England,XD,4,0,36,Japan,Japan,Yuta Watanabe,Arisa Higashino,2,Kyohei Yamashita,Naru Shinoya,0,21,12,21,16,0,0,42,28,2,0,3,0,8,5,3,0,1
+528,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,XD,4,0,39,Malaysia,Korea,Tan Kian Meng,Lai Pei Jing,0,Kim Won Ho,Jeong Na Eun,0,21,8,21,19,0,0,42,27,2,0,6,0,8,3,3,2,1
+529,Kapal_Api_Indonesia_Open,2024-06-08,Indonesia,XD,4,0,43,China,Thailand,Zheng Si Wei,Huang Ya Qiong,0,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,21,19,21,19,0,0,42,38,2,0,5,0,5,4,13,3,1
+530,Yonex_All_England_Open,2024-03-12,England,XD,6,0,65,Hongkong,Indonesia,Tang Chun Man,Tse Ying Suet,8,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,21,14,19,21,21,18,61,53,2,1,7,1,6,4,7,1,1
+531,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,XD,4,0,24,China,Chinesetaipei,Jiang Zhen Bang,Wei Ya Xin,0,Yang Po-Hsuan,Hu Ling Fang,0,21,12,21,7,0,0,42,19,2,0,2,0,7,4,1,0,1
+532,Kapal_Api_Indonesia_Open,2024-06-08,Indonesia,XD,4,0,39,China,Malaysia,Jiang Zhen Bang,Wei Ya Xin,0,Tan Kian Meng,Lai Pei Jing,0,21,16,21,18,0,0,42,34,2,0,2,0,5,4,3,0,1
+533,Yonex_All_England_Open,2024-03-12,England,XD,4,0,25,China,Usa,Zheng Si Wei,Huang Ya Qiong,1,Vinson Chiu,Jennie Gai,0,21,6,21,11,0,0,42,17,2,0,3,0,8,3,1,0,1
+534,Kapal_Api_Indonesia_Open,2024-06-09,Indonesia,XD,4,0,32,China,China,Jiang Zhen Bang,Wei Ya Xin,0,Zheng Si Wei,Huang Ya Qiong,0,21,11,21,14,0,0,42,25,2,0,2,0,8,4,2,3,1
+535,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,4,0,49,Japan,Singapore,Yuki Kaneko,Misaki Matsutomo,0,Hee Yong Kai Terry,Tan Wei Han Jessica,0,21,19,22,20,0,0,43,39,2,0,3,1,4,4,2,2,1
+536,Yonex_All_England_Open,2024-03-14,England,XD,4,0,36,Japan,Hongkong,Yuta Watanabe,Arisa Higashino,2,Lee Chun Hei Reginald,Ng Tsz Yau,0,21,19,21,12,0,0,42,31,2,0,8,0,7,4,5,0,1
+537,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,XD,6,0,57,India,Usa,Reddy B. Sumeeth,Reddy Sikki,0,Vinson Chiu,Jennie Gai,0,18,21,21,16,21,17,60,54,2,1,6,1,6,4,1,0,1
+538,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,XD,4,0,35,Indonesia,Germany,Adnan Maulana,Nita Violina Marwah,0,Jan Colin Voelker,Isabel Lohau,0,21,11,21,19,0,0,42,30,2,0,5,0,5,5,1,0,1
+539,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,XD,4,0,27,China,India,Zheng Si Wei,Huang Ya Qiong,0,Reddy B. Sumeeth,Reddy Sikki,0,21,9,21,11,0,0,42,20,2,0,2,0,6,2,1,0,1
+540,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,XD,6,0,58,Thailand,Thailand,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,Supak Jomkoh,Supissara Paewsampran,0,21,15,18,21,23,21,62,57,2,1,5,1,5,5,6,0,1
+541,Yonex_All_England_Open,2024-03-13,England,XD,6,0,57,Netherlands,Denmark,Robin Tabeling,Selena Piek,0,Mathias Thyrri,Amalie Magelund,0,14,21,21,13,24,22,59,56,2,1,3,3,4,4,2,0,1
+542,Yonex_All_England_Open,2024-03-14,England,XD,4,0,35,Korea,Singapore,Kim Won Ho,Jeong Na Eun,7,Hee Yong Kai Terry,Tan Wei Han Jessica,0,21,14,21,15,0,0,42,29,2,0,4,0,6,6,4,0,1
+543,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,XD,4,0,35,Hongkong,Malaysia,Tang Chun Man,Tse Ying Suet,0,Choong Hon Jian,Go Pei Kee,0,21,15,21,18,0,0,42,33,2,0,2,0,5,3,1,0,1
+544,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,6,0,59,China,Indonesia,Zheng Si Wei,Huang Ya Qiong,0,Rehan Naufal Kusharjanto,Lisa Ayu Kusumawati,0,21,23,21,15,21,13,63,51,2,1,4,2,6,4,5,0,1
+545,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,XD,4,0,31,Thailand,Indonesia,Dechapol Puavaranukroh,Sapsiree Taerattanachai,0,Adnan Maulana,Nita Violina Marwah,0,21,8,21,13,0,0,42,21,2,0,4,0,5,2,2,0,1
+546,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,XD,4,0,42,China,Japan,Feng Yan Zhe,Huang Dong Ping,2,Yuki Kaneko,Misaki Matsutomo,0,21,10,22,20,0,0,43,30,2,0,3,0,4,6,1,0,1
+547,Yonex_All_England_Open,2024-03-13,England,XD,6,0,49,Thailand,Thailand,Supak Jomkoh,Supissara Paewsampran,0,Ruttanapak Oupthong,Jhenicha Sudjaipraparat,0,21,16,19,21,21,14,61,51,2,1,4,3,6,4,1,0,1
+548,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,6,0,51,China,China,Feng Yan Zhe,Huang Dong Ping,2,Guo Xin Wa,Chen Fang Hui,0,21,16,18,21,21,16,60,53,2,1,4,3,6,4,1,0,1
+549,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,XD,6,0,60,Malaysia,Denmark,Tan Kian Meng,Lai Pei Jing,0,Mathias Christiansen,Alexandra Bøje,0,15,21,23,21,21,14,59,56,2,1,2,4,7,7,3,2,1
+550,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,6,0,50,China,Malaysia,Jiang Zhen Bang,Wei Ya Xin,0,Roy King Yap,Valeree Siow,0,19,21,21,13,21,18,61,52,2,1,3,5,7,5,2,0,1
+551,Yonex_All_England_Open,2024-03-13,England,XD,4,0,34,Hongkong,Japan,Lee Chun Hei Reginald,Ng Tsz Yau,0,Yuki Kaneko,Misaki Matsutomo,0,21,19,21,15,0,0,42,34,2,0,3,0,5,4,2,1,1
+552,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,XD,6,0,48,Hongkong,Hongkong,Tang Chun Man,Tse Ying Suet,0,Lee Chun Hei Reginald,Ng Tsz Yau,0,19,21,21,17,21,13,61,51,2,1,4,2,5,5,4,0,1
+553,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,6,0,54,Netherlands,Usa,Robin Tabeling,Selena Piek,0,Presley Smith,Allison Lee,0,19,21,21,18,21,12,61,51,2,1,2,4,6,5,1,0,1
+554,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,XD,4,0,24,Malaysia,Algeria,Tan Kian Meng,Lai Pei Jing,0,Koceila Mammeri,Tanina Violette Mammeri,0,21,9,21,15,0,0,42,24,2,0,3,0,9,4,1,0,1
