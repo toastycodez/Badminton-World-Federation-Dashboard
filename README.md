@@ -10,7 +10,7 @@ A badminton dashboard project using data scraped from the Badminton World Federa
 
 ## Dashboard
 
-![Badminton World Federation Dashboard](images/Badminton (BWF) Dashboard Image.png)
+![Badminton-World-Federation-Dashboard](images/Badminton (BWF) Dashboard Image.png)
 
 ## Dashboard Features
 
