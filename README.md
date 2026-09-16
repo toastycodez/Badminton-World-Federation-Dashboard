@@ -20,13 +20,6 @@ A badminton dashboard project using data scraped from the Badminton World Federa
 * Biggest upsets
 * Head to Head
 
-## Tools
-
-* Python
-* Pandas
-* SQL / MySQL
-* Tableau
-
 ## Data Pipeline
 
 ```text
@@ -36,7 +29,7 @@ Web Scraping
     ↓
 Data Cleaning
     ↓
-Relational Database
+Relational SQL Database
     ↓
 Tableau Dashboard
 ```
